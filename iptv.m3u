@@ -24,19 +24,21 @@ http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.
 #EXTINF:-1,TRT WORLD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1, ATV HD
-http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8^
-#EXTINF:0,Kanal D
-http://188.138.9.246/S2/HLS_LIVE/kanald/128/prog_index.m3u8
-#EXTINF:0,Kanal D
-http://212.224.80.80/S1/HLS_LIVE/kanald/500/prog_index.m3u8
-#EXTINF:-1,Show TV HD
-http://89.163.148.31:8000/live/master99/master99/5941.ts
-#EXTINF:-1,TR: Show TV HD
-http://iphdtv.ddns.net:8330/live/richi/richi/214.ts
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1,TR_Kanal_D_HD_LOCAL
+http://kralfero.xyz:1795/live/fadime/dogan/507.ts
+#EXTINF:-1,TR_SHOW_TV
+http://kralfero.xyz:1795/live/fadime/dogan/1578.ts
 #EXTINF:-1, SHOW TV HD
 http://mn-i.mncdn.com/showtv/smil:showtv.smil/playlist.m3u8
 #EXTINF:-1, SHOWTÜRK
 http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
+#EXTINF:-1,TR_STARTV_HD_LOCAL
+http://kralfero.xyz:1795/live/fadime/dogan/660.ts
+#EXTINF:-1,TR_STAR_LOCAL
+http://kralfero.xyz:1795/live/fadime/dogan/578.ts
+#EXTINF:-1,TR_STARTV
+http://kralfero.xyz:1795/live/fadime/dogan/1577.ts
 #EXTINF:-1,STAR TV
 http://live01.tvnet.doracdn.com/live/smil:startv.smil/byahmet.m3u8
 #EXTINF:-1,CNN TURK HD
