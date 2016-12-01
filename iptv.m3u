@@ -1,4 +1,10 @@
 ﻿#EXTM3U
+EXTINF:-1, LIG TV 1 HD
+http://bur879.com:8080/live/Mete/Kurt/51.ts
+EXTINF:-1, LIG TV 2 HD
+http://bur879.com:8080/live/Mete/Kurt/3.ts
+EXTINF:-1, LIG TV 3 HD
+http://bur879.com:8080/live/Mete/Kurt/220.ts
 #EXTINF:-1, TRT 1 HD
 http://sol.trtcdn.com/tv/trt1/mp4:trt1_3/playlist.m3u8
 #EXTINF:-1,TRT ARAPCA
@@ -28,16 +34,16 @@ http://tech343.com:8000/live/tomy6565/78290f/95.ts
 #EXTINF:-1, ATV HD 2
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1,KANAL D
-http://bur879.com:8080/live/Mete/Kurt/26.ts
-#EXTINF:-1,KANAL D HD
-http://bur879.com:8080/live/Mete/Kurt/26.ts
-#EXTINF:-1,KANAL D
 http://tech343.com:8000/live/tomy6565/78290f/96.ts
+#EXTINF:-1,KANAL D 2
+http://bur879.com:8080/live/Mete/Kurt/26.ts
+#EXTINF:-1,KANAL D HD 3
+http://bur879.com:8080/live/Mete/Kurt/26.ts
 #EXTINF:-1, SHOWTÜRK
 http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
 #EXTINF:-1, SHOW TV
 http://149.202.199.167:8000/live/michael/michael/2002.ts
-#EXTINF:-1, STAR TVv
+#EXTINF:-1, STAR TV 2
 http://149.202.199.167:8000/live/abdel/abdel/1572.ts
 #EXTINF:-1, STAR TV
 http://bur879.com:8080/live/Mete/Kurt/98.ts
