@@ -1,9 +1,9 @@
 ﻿#EXTM3U
-EXTINF:-1, LIG TV 1 HD
+#EXTINF:-1, LIG TV 1 HD
 http://bur879.com:8080/live/Mete/Kurt/51.ts
-EXTINF:-1, LIG TV 2 HD
+#EXTINF:-1, LIG TV 2 HD
 http://bur879.com:8080/live/Mete/Kurt/3.ts
-EXTINF:-1, LIG TV 3 HD
+#EXTINF:-1, LIG TV 3 HD
 http://bur879.com:8080/live/Mete/Kurt/220.ts
 #EXTINF:-1, TRT 1 HD
 http://sol.trtcdn.com/tv/trt1/mp4:trt1_3/playlist.m3u8
