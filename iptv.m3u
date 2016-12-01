@@ -1,4 +1,10 @@
 ﻿#EXTM3U
+#EXTINF:-1,TR: Lig 1 HD
+http://iptvfree1.com:6969/live/18/www.iptvrestream.net/4188.ts
+#EXTINF:-1,TR: Lig tv 2
+http://iptvfree1.com:6969/live/18/www.iptvrestream.net/4189.ts
+#EXTINF:-1,TR: Lig tv 3
+http://iptvfree1.com:6969/live/18/www.iptvrestream.net/4190.ts
 #EXTINF:-1, TRT 1 HD
 http://sol.trtcdn.com/tv/trt1/mp4:trt1_3/playlist.m3u8
 #EXTINF:-1,TRT ARAPCA
