@@ -31,6 +31,12 @@ http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 http://tech343.com:8000/live/tomy6565/78290f/96.ts
 #EXTINF:-1, SHOWTÜRK
 http://mn-l.mncdn.com/showturktv/showturktv2/playlist.m3u8
+#EXTINF:-1,STAR TV
+http://www.zeebra.tv:8000/live/571/571/2798.ts
+#EXTINF:-1,TR: STAR TV HD
+http://iptvfree1.com:6969/live/18/www.iptvrestream.net/4193.ts
+#EXTINF:-1,STAR TV
+http://www.zeebra.tv:8000/live/571/571/2798.ts
 #EXTINF:-1,CNN TURK HD
 http://212.224.108.80/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1,HABERTÜRK
