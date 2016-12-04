@@ -2,10 +2,6 @@
 
 #EXTINF:-1,LIG TV 1 HD
 http://bur879.com:8080/live/Mete/Kurt/51.ts
-#EXTINF:-1,LIG TV 2 HD
-http://bur879.com:8080/live/Mete/Kurt/3.ts
-#EXTINF:-1,LIG TV 3 HD
-http://bur879.com:8080/live/Mete/Kurt/220.ts
 #EXTINF:-1,TRT 1 HD
 http://sol.trtcdn.com/tv/trt1/mp4:trt1_3/playlist.m3u8
 #EXTINF:-1,TRT ARAPCA
@@ -30,9 +26,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.m3u8
 #EXTINF:-1,TRT WORLD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1,ATV
-http://tech343.com:8000/live/tomy6565/78290f/95.ts
-#EXTINF:-1, ATV HD 2
+#EXTINF:-1, ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1,KANAL D
 http://tech343.com:8000/live/tomy6565/78290f/96.ts
