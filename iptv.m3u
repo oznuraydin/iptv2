@@ -1,5 +1,10 @@
 #EXTM3U
-
+#EXTINF:-1,TR: Lig TV 1
+http://163.172.6.8:8000/live/5PxAP1seBA/v3HpfHkYVg/2002.ts
+#EXTINF:-1,TR: Lig TV 2
+http://163.172.6.8:8000/live/5PxAP1seBA/v3HpfHkYVg/2001.ts
+#EXTINF:-1,TR: Lig TV 3
+http://163.172.6.8:8000/live/5PxAP1seBA/v3HpfHkYVg/2000.ts
 #EXTINF:-1,LIG TV 1 HD
 http://bur879.com:8080/live/Mete/Kurt/51.ts
 #EXTINF:-1,TRT 1 HD
@@ -28,22 +33,16 @@ http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-#EXTINF:0,KANAL D 
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1, SHOW TV
-http://149.202.199.167:8000/live/michael/michael/2002.ts
-#EXTINF:-1,TR-SHOW_TV
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/2583.ts
-#EXTINF:-1,TR | SHOW TV
-http://sutverduz.com:8080/live/paztest/Bpns2ozi16/90.ts
-#EXTINF:-1,TR | SHOW TV HD
-http://sutverduz.com:8080/live/paztest/Bpns2ozi16/63.ts
+#EXTINF:-1,SHOW TV HD
+http://501server.com:8080/live/KMLCTNL/11111111/25.ts
+#EXTINF:-1,SHOW TV
+http://501server.com:8080/live/KMLCTNL/11111111/97.ts
+#EXTINF:-1,TR: Show TV
+http://163.172.6.8:8000/live/5PxAP1seBA/v3HpfHkYVg/1990.ts
 #EXTINF:0,SHOW MAX 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
-#EXTINF:-1,TR-SHOWTuRK
-http://37.187.175.177:8000/live/chaaben3498/riadh3498/3367.ts
 #EXTINF:-1,STAR TV 
 https://live01.cdn.web.tv/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8 
 #EXTINF:-1,CNN TURK HD
