@@ -30,7 +30,9 @@ http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
 #EXTINF:-1,SHOW TV HD
-http://live-ciner.mncdn.net/showtv/showtv2/master.m3u8
+http://188.72.131.226/show.m3u8
+#EXTINF:-1,SHOW HDd
+http://mn-1.mncdn.com/showtv/showtv2/chunklist_w555123943.m3u8
 #EXTINF:-1,SHOW TV HD
 http://501server.com:8080/live/KMLCTNL/11111111/25.ts
 #EXTINF:0,SHOW MAX 
