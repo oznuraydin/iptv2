@@ -31,19 +31,18 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,SHOW TV HD 960*546
-http://live-ciner.mncdn.net/showtv/showtv2/playlist.m3u8
-#EXTINF:-1,SHOW HD 960*546
-http://mn-l.mncdn.com/showtv/showtv2/chunklist_w555123943.m3u8
-#EXTINF:-1,Show Tv 816*610
-http://188.72.131.226/show.m3u8
-#EXTINF:-1,SHOW HD
-http://www.iptvsaga.com/play/tv3/0045.m3u8
+#EXTINF:-1,TR-SHOWTuRK
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/3367.ts
+#EXTINF:-1,TR-SHOW_TV
+http://37.187.175.177:8000/live/chaaben3498/riadh3498/2583.ts
+#EXTINF:-1,TR:SHOW-TV-HD*
+http://5.196.81.121:8000/live/yusri/yusri/3820.ts
+#EXTINF:-1,TR:SHOW-TURK
+http://5.196.81.121:8000/live/yusri/yusri/3833.ts
 #EXTINF:0,SHOW MAX 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
 #EXTINF:-1,STAR TV 
 https://live01.cdn.web.tv/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8 
-#EXTINF:
 #EXTINF:-1,CNN TURK HD
 http://212.224.108.80/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1,HABERTÜRK
