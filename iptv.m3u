@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, FOX TV
+http://91.92.115.130/live/toska775/kmk7j2/4309.ts
 #EXTINF:-1,LIG TV 1 HD
 http://bur879.com:8080/live/Mete/Kurt/51.ts
 #EXTINF:-1,LIGTV-2 EU
@@ -27,16 +29,28 @@ http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1,TR|Kanal D
+http://91.92.115.130/live/toska775/kmk7j2/2453.ts
+#EXTINF:-1,TR|Kanal D HD
+http://195.154.154.185:5890/live/adam11/adam11/1107.ts
+#EXTINF:-1,TR | KANAL D
+http://193.70.116.156:8080/live/7365tito/TRHZFB3jU7/79.ts
+#EXTINF:-1,TR | KANAL D HD
+http://193.70.116.156:8080/live/7365tito/TRHZFB3jU7/68.ts
 #EXTINF:-1,TR: KANAL D HD
 http://217.79.190.45:25461/live/skype=esolso/ulusalkaynak/316.ts
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1,TR: SHOW TV HD
+http://164.132.191.219:80/live/shell/shell/6.ts
 #EXTINF:-1,TR: SHOW TV HD
 http://217.79.190.45:25461/live/skype=esolso/ulusalkaynak/319.ts
 #EXTINF:0,SHOW MAX 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
 #EXTINF:-1,STAR TV 
 https://live01.cdn.web.tv/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8 
+#EXTINF:-1,CNN TURK HD
+http://91.92.115.130/live/toska775/kmk7j2/4313.ts
 #EXTINF:-1,CNN TURK HD
 http://212.224.108.80/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1,HABERTÜRK
