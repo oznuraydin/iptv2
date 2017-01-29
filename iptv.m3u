@@ -27,13 +27,11 @@ http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-#EXTINF:0,Kanal D 
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1,KANAL D HD
+http://217.79.190.45:25461/live/skype=esolso/ulusalkaynak/316.ts
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,TR: KaANAL D HD
-http://217.79.190.45:25461/live/skype=esolso/ulusalkaynak/316.ts
-#EXTINF:-1,TR: SHOW TV HD
+#EXTINF:-1,SHOW TV HD
 http://217.79.190.45:25461/live/skype=esolso/ulusalkaynak/319.ts
 #EXTINF:0,SHOW MAX 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
