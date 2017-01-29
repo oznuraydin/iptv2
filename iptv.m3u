@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,LIG TV 1 HD
 http://bur879.com:8080/live/Mete/Kurt/51.ts
-#EXTINF:-1,LİGTV-1 HD
-http://tsvipsmart.eu:8000/live/burakyilmaz/23082016/1.ts
 #EXTINF:-1,LIGTV-2 EU
 http://tsvipsmart.eu:8000/live/burakyilmaz/23082016/1350.ts
 #EXTINF:-1,TRT 1 HD
@@ -29,8 +27,20 @@ http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1,KANAL D HD
+http://red.redhd.club:8000/live/erhan/erhan123/43.ts
+#EXTINF:-1,KANAL D SD
+http://red.redhd.club:8000/live/erhan/erhan123/1016.ts
+#EXTINF:-1,TR: KANAL D L
+http://217.79.190.45:25461/live/skype=esolso/ulusalkaynak/469.ts
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1,SHOW TV HD
+http://red.redhd.club:8000/live/erhan/erhan123/41.ts
+#EXTINF:-1,SHOW TV SD
+http://red.redhd.club:8000/live/erhan/erhan123/490.ts
+#EXTINF:-1,TR: SHOW TV HD
+http://217.79.190.45:25461/live/skype=esolso/ulusalkaynak/319.ts
 #EXTINF:-1,TR:SHOW-TURK
 http://5.196.81.121:8000/live/yusri/yusri/3833.ts
 #EXTINF:0,SHOW MAX 
