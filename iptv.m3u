@@ -28,19 +28,11 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:0,Kanal D 
-http://188.138.9.246/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:0,Kanal D 
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,KANAL D 
-http://sweip.noip.me:9090/live/E109Fatihcamci/y45vDAtQK5/1.ts
-#EXTINF:0,TURK:KANAL D 
-http://iptvfast.dyndns.org:5969/live/8182F2CBdb/8182F2CBdb/999.ts 
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,TR: KANAL D HD
+#EXTINF:-1,TR: KaANAL D HD
 http://217.79.190.45:25461/live/skype=esolso/ulusalkaynak/316.ts
-#EXTINF:-1,Kanal D HD 
-http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
 #EXTINF:-1,TR: SHOW TV HD
 http://217.79.190.45:25461/live/skype=esolso/ulusalkaynak/319.ts
 #EXTINF:0,SHOW MAX 
