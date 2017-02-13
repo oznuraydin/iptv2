@@ -3,8 +3,8 @@
 http://bur879.com:8080/live/Mete/Kurt/51.ts
 #EXTINF:-1,LIGTV-2 EU
 http://tsvipsmart.eu:8000/live/burakyilmaz/23082016/1350.ts
-#EXTINF:0,DE: KABEL-1
-http://iptvbox.noip.us:9998/live/atik/atik/1350.m3u8
+#EXTINF:-1,bein1
+http://q9r.me/iflw
 #EXTINF:-1,TRT 1.1
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1,TRT 1 HD
@@ -31,14 +31,10 @@ http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-#EXTINF:-1,TR: KANAL D HD
-http://217.79.190.45:25461/live/skype=e ... nak/316.ts
+#EXTINF:-1,TURK:KANAL D
+http://starsiptv.net:5969/live/D024F2CBdb/D024F2CBdb/999.ts
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,SHOW TV HDd
-http://mn-i.mncdn.com/showtv_ios/smil:showtv.smil/chunklist_w1429711584_b848000.m3u8
-#EXTINF:-1,show tv
-http://yayin5.tamtvizle.com:1935/live/s ... ylist.m3u8
 #EXTINF:0,SHOW MAX 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
 #EXTINF:-1,STAR TV 
