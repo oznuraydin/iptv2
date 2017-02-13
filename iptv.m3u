@@ -29,14 +29,30 @@ http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1,TR:Kanal_D
+http://149.202.95.229:8000/live/sadri02/sadri02/2328.ts
+#EXTINF:-1,TR:KANAL_D_HD
+http://149.202.95.229:8000/live/sadri02/sadri02/2442.ts
+#EXTINF:-1,TR: Kanal D Euro
+http://149.202.69.192:8000/live/leon/leon1/2105.ts 
+#EXTINF:-1,TR: Kanal D
+http://149.202.69.192:8000/live/leon/leon1/171.ts 
 #EXTINF:-1,TURK:KANAL D
 http://starsiptv.net:5969/live/D024F2CBdb/D024F2CBdb/999.ts
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1,TR:SHOW_TV
+http://149.202.95.229:8000/live/sadri02/sadri02/2423.ts
+#EXTINF:-1,TR: Show TV
+http://149.202.69.192:8000/live/leon/leon1/167.ts
 #EXTINF:0,SHOW MAX 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
 #EXTINF:-1,STAR TV 
 https://live01.cdn.web.tv/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8 
+#EXTINF:-1,TR: TV 8
+http://149.202.69.192:8000/live/leon/leon1/622.ts 
+#EXTINF:-1,TR: TV 8 HD
+http://149.202.69.192:8000/live/leon/leon1/170.ts 
 #EXTINF:-1,SEMERKAND HD
 http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
 #EXTINF:-1,YASİN TV
@@ -123,3 +139,25 @@ http://wow01.105.net/live/virgin1/chunklist.m3u8
 http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
 #EXTINF:-1,YOL TV
 rtmp://178.254.20.205:2100/yol/yolstream.flv
+#EXTINF:-1,DE: RTL
+http://149.202.69.192:8000/live/leon/leon1/644.ts 
+#EXTINF:-1,DE: RTL HD
+http://149.202.69.192:8000/live/leon/leon1/140.ts 
+#EXTINF:-1,DE: RTL 2
+http://149.202.69.192:8000/live/leon/leon1/1534.ts 
+#EXTINF:-1,DE: RTL 2 HD
+http://149.202.69.192:8000/live/leon/leon1/141.ts 
+#EXTINF:-1,DE: RTL 2 You
+http://149.202.69.192:8000/live/leon/leon1/3168.ts 
+#EXTINF:-1,DE: RTL Nitro
+http://149.202.69.192:8000/live/leon/leon1/280.ts 
+#EXTINF:-1,DE: RTL Passion HD
+http://149.202.69.192:8000/live/leon/leon1/435.ts 
+#EXTINF:-1,DE: RTL Crime
+http://149.202.69.192:8000/live/leon/leon1/949.ts 
+#EXTINF:-1,DE: RTL Plus
+http://149.202.69.192:8000/live/leon/leon1/2086.ts 
+#EXTINF:-1,DE: RTL Living
+http://149.202.69.192:8000/live/leon/leon1/2122.ts 
+#EXTINF:-1,DE: Sat 1 HD
+http://149.202.69.192:8000/live/leon/leon1/279.ts
