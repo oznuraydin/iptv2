@@ -3,10 +3,8 @@
 http://bur879.com:8080/live/Mete/Kurt/51.ts
 #EXTINF:-1,LIGTV-2 EU
 http://tsvipsmart.eu:8000/live/burakyilmaz/23082016/1350.ts
-#EXTINF:-1,TR | TRT 1
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/94.ts
-#EXTINF:-1,TR | TRT 1 HD
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/77.ts
+#EXTINF:-1,TRT 1.1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1,TRT 1 HD
 http://sol.trtcdn.com/tv/trt1/mp4:trt1_3/playlist.m3u8
 #EXTINF:-1,TRT ARAPCA
@@ -31,30 +29,14 @@ http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-#EXTINF:-1,TR | KANAL D
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/79.ts
-#EXTINF:-1,TR | KANAL D HD
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/68.ts
+#EXTINF:Kanal D.1
+https://21222410878.dogannet.tv/S2/HLS_LIVE/kanaldweb/1000/prog_index.m3u8
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,TR | SHOW TV 
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/90.ts
-#EXTINF:-1,TR | SHOW TV HD
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/63.ts
 #EXTINF:0,SHOW MAX 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
 #EXTINF:-1,STAR TV 
 https://live01.cdn.web.tv/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8 
-#EXTINF:-1,TR | BABY TV
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/1828.ts
-#EXTINF:-1,TR | TV 4 COCUK
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/5730.ts
-#EXTINF:-1,TR | TV8
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/92.ts
-#EXTINF:-1,TR | TV8 HD
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/59.ts
-#EXTINF:-1,TR | A HABER HD
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/67.ts
 #EXTINF:-1,SEMERKAND HD
 http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
 #EXTINF:-1,YASİN TV
@@ -141,31 +123,3 @@ http://wow01.105.net/live/virgin1/chunklist.m3u8
 http://yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
 #EXTINF:-1,YOL TV
 rtmp://178.254.20.205:2100/yol/yolstream.flv
-#EXTINF:-1,DE | KiKA uuu
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/1429.ts
-#EXTINF:-1,DE | Pro7 MAXX / ProSiebenSat.1 uuu
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/1506.ts
-#EXTINF:-1,DE | Pro7
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/1507.ts
-#EXTINF:-1,DE | RTL_LIVING
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/1508.ts
-#EXTINF:-1,DE | RTL Television uuu
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/1420.ts
-#EXTINF:-1,DE | RTLII HD uuu
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/1427.ts
-#EXTINF:-1,DE | RTL Crime / SKY uuu
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/1509.ts
-#EXTINF:-1,DE | RTL HD / CBC uuu
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/1513.ts
-#EXTINF:-1,DE | RTL2/CBC uuu
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/1512.ts
-#EXTINF:-1,DE | RTL NITRO/CBC uuu
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/1511.ts
-#EXTINF:-1,DE | RTLplus uuu
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/4667.ts
-#EXTINF:-1,DE | RTL Passion / SKY uuu
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/2626.ts
-#EXTINF:-1,DE | SUPER RTL uuu
-http://sutverduz.com:8080/live/MxyJONDZS5/Gvrr0w2eF7/1419.ts
-
-
