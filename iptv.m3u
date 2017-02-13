@@ -3,6 +3,8 @@
 http://bur879.com:8080/live/Mete/Kurt/51.ts
 #EXTINF:-1,LIGTV-2 EU
 http://tsvipsmart.eu:8000/live/burakyilmaz/23082016/1350.ts
+#EXTINF:-1,Çalgı Çengi
+https://www.youtube.com/watch?v=goo_npqf3k8
 #EXTINF:-1,TRT 1.1
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1,TRT 1 HD
@@ -29,11 +31,11 @@ http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-#EXTINF:Kanal Dd
+#EXTINF:-1,Kanal D
 https://21222410878.dogannet.tv/S2/HLS_LIVE/kanaldweb/1000/prog_index.m3u8?key=01b57d6c9088c6ff2897df0f4fe54139&live=true&app=com.kanald&min=0&max=1250
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:SHOW TV HDd
+#EXTINF-1:SHOW TV HDd
 http://mn-i.mncdn.com/showtv_ios/smil:showtv.smil/chunklist_w1429711584_b848000.m3u8
 #EXTINF:0,SHOW MAX 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
