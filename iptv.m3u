@@ -27,44 +27,26 @@ http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-#EXTINF:-1,TR | KANAL D
-http://51.254.196.199:8080/live/testfast/hTwqA9/79.ts
 #EXTINF:-1,TR | KANAL D HD
-http://51.254.196.199:8080/live/testfast/hTwqA9/68.ts
-#EXTINF:-1,TR-KANAL D HD
-http://192.99.45.71:9900/live/jagdish/jagdish/23007.ts
-#EXTINF:-1,TR: KANAL D*
-http://192.99.45.71:9900/live/jagdish/jagdish/26368.ts
+http://panel3xnerman.com:80/live/yahya/yahya/23.ts
+#EXTINF:-1,TR | KANAL D
+http://panel3xnerman.com:80/live/yahya/yahya/125.ts
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,SHOW SD
-http://149.202.71.237:8000/live/12345678910/12345678910/729.ts
-#EXTINF:-1,TR | SHOW TV
-http://51.254.196.199:8080/live/testfast/hTwqA9/90.ts
-#EXTINF:-1,TR | SHOW TV HD
-http://51.254.196.199:8080/live/testfast/hTwqA9/63.ts
-#EXTINF:-1,TR – SHOW TURK
-http://192.99.45.71:9900/live/jagdish/jagdish/23003.ts
-#EXTINF:-1,TR-SHOW HD
-http://192.99.45.71:9900/live/jagdish/jagdish/23002.ts
+#EXTINF:-1,TR | SHOW TV HD 
+http://panel3xnerman.com:80/live/yahya/yahya/6.ts
+#EXTINF:-1,TR | SHOW TV 
+http://panel3xnerman.com:80/live/yahya/yahya/123.ts
 #EXTINF:0,SHOW MAX 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
 #EXTINF:-1,STAR TV 
 https://live01.cdn.web.tv/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8 
-#EXTINF:-1,TR | A HABER HD
-http://51.254.196.199:8080/live/testfast/hTwqA9/67.ts
-#EXTINF:-1,TR: HABERTURK*
-http://192.99.45.71:9900/live/jagdish/jagdish/26351.ts
-#EXTINF:-1,TR: CNNTURK*
-http://192.99.45.71:9900/live/jagdish/jagdish/26357.ts
 #EXTINF:-1,SEMERKAND HD
 http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
 #EXTINF:-1,YASİN TV
 http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8
 #EXTINF:-1,MEDINE TV
 http://sr1.netmedya.org:1935/asutv/live.sdp/playlist.m3u8
-#EXTINF:-1,MEKKE TV
-http://livede.gostream.nl/mekke/mekke/playlist.m3u8
 #EXTINF:-1,FLASH TV
 http://184.173.181.2:1935/8158/8158/chunklist_w1108112917.m3u8
 #EXTINF:-1,KANAL 7 HD
