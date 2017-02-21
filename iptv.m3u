@@ -29,22 +29,38 @@ http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-#EXTINF:-1,TR: Kanal D Euro
-http://149.202.69.192:8000/live/leon/leon1/2105.ts
-#EXTINF:-1,TR: Kanal D
-http://149.202.69.192:8000/live/leon/leon1/171.ts
-#EXTINF:-1,TURK:KANAL D
-http://starsiptv.net:5969/live/D024F2CBdb/D024F2CBdb/999.ts
+#EXTINF:-1,Kanal D HD
+http://crowniptv.mine.nu:8000/live/ali/ali/67.ts
+#EXTINF:-1,Kanal D Yedek
+http://crowniptv.mine.nu:8000/live/ali/ali/68.ts
+#EXTINF:-1,Kanal D
+http://crowniptv.mine.nu:8000/live/ali/ali/69.ts
+#EXTINF:-1,KANALDHD
+http://99.cccam.us:8000/live/mevlut/mevlut/57.ts
+#EXTINF:-1,TR-KANAL-D-HD
+http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3852.ts
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,TR: Show TV
-http://149.202.69.192:8000/live/leon/leon1/167.ts
+#EXTINF:-1,Show TV HD
+http://crowniptv.mine.nu:8000/live/ali/ali/64.ts
+#EXTINF:-1,Show Tv Yedek
+http://crowniptv.mine.nu:8000/live/ali/ali/65.ts
+#EXTINF:-1,Show TV
+http://crowniptv.mine.nu:8000/live/ali/ali/66.ts
+#EXTINF:-1,SHOWTVHD
+http://99.cccam.us:8000/live/mevlut/mevlut/55.ts
+#EXTINF:-1,TR-SHOWTURK
+http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/585.ts
 #EXTINF:0,SHOW MAX 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
 #EXTINF:-1,STAR TV 
 https://live01.cdn.web.tv/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8 
-#EXTINF:-1,TR: Samanyolu HD
-http://149.202.69.192:8000/live/leon/leon1/172.ts
+#EXTINF:-1,KANAL7HD
+http://99.cccam.us:8000/live/mevlut/mevlut/59.ts
+#EXTINF:-1,TV8HD
+http://99.cccam.us:8000/live/mevlut/mevlut/60.ts
+#EXTINF:-1,TV2HD
+http://99.cccam.us:8000/live/mevlut/mevlut/61.ts
 #EXTINF:-1,SEMERKAND HD
 http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
 #EXTINF:-1,YASİN TV
