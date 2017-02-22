@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,TRT 1.1
+#EXTINF:-1,TRT 1
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1,TRT 1 HD
+#EXTINF:-1,TRT 1 Yedek
 http://sol.trtcdn.com/tv/trt1/mp4:trt1_3/playlist.m3u8
 #EXTINF:-1,TRT ARAPCA
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
@@ -27,9 +27,9 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,TR: SHOW TURK
+#EXTINF:-1,SHOW TURK
 http://192.99.45.71:9900/live/admin/admin/26341.ts
-#EXTINF:-1,TR-SHOW HD
+#EXTINF:-1,SHOW TV Yedek
 http://192.99.45.71:9900/live/admin/admin/23002.ts
 #EXTINF:0,SHOW MAXx 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
