@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,LIG TV 1 HD
-http://bur879.com:8080/live/Mete/Kurt/51.ts
-#EXTINF:-1,LIGTV-2 EU
-http://tsvipsmart.eu:8000/live/burakyilmaz/23082016/1350.ts
 #EXTINF:-1,TRT 1.1
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1,TRT 1 HD
@@ -31,28 +27,10 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,TR-SHOWTuRK
-http://ultime-iptv.net:8000/live/riadh1098/riadh1098/3367.ts
 #EXTINF:-1,TR: SHOW TURK
 http://192.99.45.71:9900/live/admin/admin/26341.ts
-#EXTINF:-1,TR: SHOW TV HD*
-http://192.99.45.71:9900/live/admin/admin/26340.ts
 #EXTINF:-1,TR-SHOW HD
 http://192.99.45.71:9900/live/admin/admin/23002.ts
-#EXTINF:-1,TR-SHOWTV
-http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/100.ts
-#EXTINF:-1,TR-SHOW-TV-HD
-http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/3848.ts
-#EXTINF:-1,TR - SHOW TURK
-http://192.99.45.71:9900/live/admin/admin/23003.ts
-#EXTINF:-1,TR-SHOWTURK
-http://otmanshowiptv.com:7777/live/rezanrasoul/otmanssoww/585.ts
-#EXTINF:0,SHOW TV
-http://mn-i.mncdn.com/showtv_ios/smil:showtv.smil/hasbahca.m3u8
-#EXTINF:0,SHOW TV
-http://yayin1.canlitv.com:1935/live/showtv/HasBahCa.m3u8
-#EXTINF:-1,SHOW TV HD
-http://176.31.227.49:8000/live/ahmet/yildiz/120.ts
 #EXTINF:0,SHOW MAXx 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
 #EXTINF:-1,STAR TV 
