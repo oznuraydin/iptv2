@@ -27,16 +27,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,SHOW HD 960*546
-http://mn-l.mncdn.com/showtv/showtv2/chunklist_w555123943.m3u8
-#EXTINF:-1,Show Tv 816*610
-http://188.72.131.226/show.m3u8
-#EXTINF:-1,SHOW TV HD 960*546
-http://live-ciner.mncdn.net/showtv/showtv2/playlist.m3u8
-#EXTINF:-1,TR | SHOW TV
-http://sutverduz.com:8080/live/zjr6HnDaPR/aZX8fR9u6g/90.ts
-#EXTINF:-1,TR | SHOW TV HD
-http://sutverduz.com:8080/live/zjr6HnDaPR/aZX8fR9u6g/63.ts
 #EXTINF:0,SHOW MAXx 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
 #EXTINF:-1,STAR TV 
