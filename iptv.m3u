@@ -41,7 +41,7 @@ http://starsiptv.net:5969/live/4065F2CBdb/4065F2CBdb/1499.ts
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
 #EXTINF:-1,STAR TV HD
 http://37.187.132.154:5969/live/4065F2CBdb/4065F2CBdb/1502.ts
-#EXTINF:-1,STAR TV HD Yedek
+#EXTINF:-1,STAR TV HD  Yedek
 http://starsiptv.net:5969/live/5055F2CBdb/5055F2CBdb/1502.ts
 #EXTINF:-1,TV 2
 http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
