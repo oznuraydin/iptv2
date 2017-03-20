@@ -27,12 +27,36 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1,TR: Show tv hd
+http://37.187.132.154:5969/live/4065F2CBdb/4065F2CBdb/1499.ts
+#EXTINF:-1,TURK:SHOW TV
+http://37.187.132.154:5969/live/4065F2CBdb/4065F2CBdb/1000.ts
+#EXTINF:-1,SHOW TV HD (TR)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/490.ts
+#EXTINF:-1,SHOW TV HD 1080p (TR)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/12516.ts
 #EXTINF:0,SHOW MAXx 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
-#EXTINF:-1,STAR TV 
-https://live01.cdn.web.tv/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8 
+#EXTINF:-1,TR: STAR TV HD
+http://37.187.132.154:5969/live/4065F2CBdb/4065F2CBdb/1502.ts
+#EXTINF:-1,EUROSTAR
+http://37.187.132.154:5969/live/4065F2CBdb/4065F2CBdb/485.ts
+#EXTINF:-1,STAR TV HD (TR)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/42.ts
+#EXTINF:-1,STAR TV HD 1080p (TR)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/12270.ts
 #EXTINF:-1,TV2HD
 http://99.cccam.us:8000/live/mevlut/mevlut/61.ts
+#EXTINF:-1,FOX TV HD (TR)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/749.ts
+#EXTINF:-1,FOX TV HD 1080p (TR)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/12273.ts
+#EXTINF:-1,TV 8 HD (TR)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/45.ts
+#EXTINF:-1,TV 8 HD 1080p (TR)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/12267.ts
+#EXTINF:-1,TV 8,5 HD (TR)
+http://www.wedobox.eu:8000/live/line09/gSq01fAByj/44.ts
 #EXTINF:0,CNN TÜRK
 http://188.138.9.246/S2/HLS_LIVE/cnn_turk/index.m3u8
 #EXTINF:-1,KANAL7HD
