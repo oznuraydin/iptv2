@@ -33,12 +33,18 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1,SHOWW
+http://tv.necroiptv.com/live/EbNGYNoex1/o1msCjW35K/11155.ts
+#EXTINF:-1,SHOW AVRUPA
+http://tv.necroiptv.com/live/EbNGYNoex1/o1msCjW35K/5426.ts
 #EXTINF:-1,SHOW TV 
 http://starsiptv.net:5969/live/5055F2CBdb/5055F2CBdb/1499.ts
 #EXTINF:-1,Show TV HD Yedek
 http://starsiptv.net:5969/live/4065F2CBdb/4065F2CBdb/1499.ts
 #EXTINF:0,SHOW MAXx 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
+#EXTINF:-1,star
+http://tv.necroiptv.com/live/EbNGYNoex1/o1msCjW35K/11154.ts
 #EXTINF:-1,STAR TV HD
 http://37.187.132.154:5969/live/4065F2CBdb/4065F2CBdb/1502.ts
 #EXTINF:-1,STAR TV HD  Yedek
