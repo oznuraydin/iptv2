@@ -17,8 +17,6 @@ http://starsiptv.net:5969/live/4065F2CBdb/4065F2CBdb/1004.ts
 http://starsiptv.net:5969/live/4065F2CBdb/4065F2CBdb/1488.ts
 #EXTINF:-1,Minika Go
 http://starsiptv.net:5969/live/4065F2CBdb/4065F2CBdb/1487.ts
-#EXTINF:-1,TURK: Cartoon Network
-http://starsiptv.net:5969/live/4065F2CBdb/4065F2CBdb/1288.ts
 #EXTINF:-1,TRT DIYANET
 http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
 #EXTINF:-1,TRT HABER HD
@@ -35,42 +33,22 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,TR: Show tv hd
+#EXTINF:-1,Show TV HD Yedekk
 http://starsiptv.net:5969/live/4065F2CBdb/4065F2CBdb/1499.ts
-#EXTINF:-1,TURK:SHOW TV
-http://starsiptv.net:5969/live/4065F2CBdb/4065F2CBdb/1000.ts
-#EXTINF:-1,TR: STAR TV HD
-http://starsiptv.net:5969/live/4065F2CBdb/4065F2CBdb/1502.ts
-#EXTINF:-1,SHOW TV
-http://afatsum.mine.nu:3838/live/hilalgoz/03032017r/11.ts
-#EXTINF:-1,SHOW TV HD
-http://afatsum.mine.nu:3838/live/hilalgoz/03032017r/12.ts
-#EXTINF:-1,TR: Show tv hd
+#EXTINF:-1,SHOW TV Yedek
 http://starsiptv.net:5969/live/5055F2CBdb/5055F2CBdb/1499.ts
-#EXTINF:-1,TURK:SHOW TV
-http://starsiptv.net:5969/live/5055F2CBdb/5055F2CBdb/1000.ts
-#EXTINF:-1,Show tv hd yedek
-http://37.187.132.154:5969/live/4065F2CBdb/4065F2CBdb/1499.ts
 #EXTINF:-1,SHOW TV HD yedek 2
 http://www.wedobox.eu:8000/live/line09/gSq01fAByj/12516.ts
 #EXTINF:0,SHOW MAXx 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
-#EXTINF:-1,TR: STAR TV HD
+#EXTINF:-1,STAR TV HD
 http://37.187.132.154:5969/live/4065F2CBdb/4065F2CBdb/1502.ts
-#EXTINF:-1,STAR TV
-http://afatsum.mine.nu:3838/live/hilalgoz/03032017r/7.ts
-#EXTINF:-1,STAR HD
-http://afatsum.mine.nu:3838/live/hilalgoz/03032017r/8.ts
-#EXTINF:-1,EUROSTAR
-http://starsiptv.net:5969/live/4065F2CBdb/4065F2CBdb/485.ts
 #EXTINF:-1,TR: STAR TV HD
 http://starsiptv.net:5969/live/5055F2CBdb/5055F2CBdb/1502.ts
-#EXTINF:-1,EUROSTAR
-http://starsiptv.net:5969/live/5055F2CBdb/5055F2CBdb/485.ts
+#EXTINF:-1,STAR TV HD Yedek
+http://starsiptv.net:5969/live/4065F2CBdb/4065F2CBdb/1502.ts
 #EXTINF:-1,TV 2
 http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
-#EXTINF:-1,TV2 HD
-http://99.cccam.us:8000/live/mevlut/mevlut/61.ts
 #EXTINF:-1,TV 8 HD 1080p (TR)
 http://www.wedobox.eu:8000/live/line09/gSq01fAByj/12267.ts
 #EXTINF:-1,SEMERKAND HD
