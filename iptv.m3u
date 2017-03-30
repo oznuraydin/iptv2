@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,TRT 1
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1,DE: SAT 1 HD
+http://193.70.44.113:2500/live/DXPC-O4LY-3FHU-BQJF./DXPC-O4LY-3FHU-BQJF./2788.ts
 #EXTINF:-1,TRT 1 Yedek
 http://sol.trtcdn.com/tv/trt1/mp4:trt1_3/playlist.m3u8
 #EXTINF:-1,TRT ARAPCA
@@ -27,12 +29,34 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1,TR_SHOW_FULL_HD
+http://ndasat.pro:8000/live/99572329659876/1593574628/3769.ts
+#EXTINF:-1,TR_SHOW_TV
+http://ndasat.pro:8000/live/99572329659876/1593574628/3768.ts
+#EXTINF:-1,TR: Show TV
+http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/1990.ts
+#EXTINF:-1,TR: Show Turk
+http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/1989.ts
+#EXTINF:-1,SHOWTVHD-PROBOX
+http://178.32.205.42:8000/live/PPROBOX-TRTSPOR/785131496/64.ts
 #EXTINF:-1,Show TV
 http://link.softiptv.com:2500/live/surinder/surinder/6794.ts
 #EXTINF:-1,Show TV HD
 http://link.softiptv.com:2500/live/surinder/surinder/1381.ts
 #EXTINF:0,SHOW MAXx 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
+#EXTINF:-1,TR_STAR_TV
+http://ndasat.pro:8000/live/99572329659876/1593574628/3770.ts
+#EXTINF:-1,TR_STARTV_FULL_HD
+http://ndasat.pro:8000/live/99572329659876/1593574628/3771.ts
+#EXTINF:-1,Star-Tv
+http://193.70.34.156:8789/live/ferrer/ferrer/141.ts
+#EXTINF:-1,Euro_Star
+http://193.70.34.156:8789/live/ferrer/ferrer/1355.ts
+#EXTINF:-1,TR: Star tv HD
+http://ipsatpro.com:8000/live/SP0323JZWNETZA/OSDOHIRV/1987.ts
+#EXTINF:-1,STARHD–PROBOX
+http://178.32.205.42:8000/live/PPROBOX-TRTSPOR/785131496/63.ts
 #EXTINF:-1,STAR TV
 http://link.softiptv.com:2500/live/surinder/surinder/703.ts
 #EXTINF:-1,Star TV Euro
