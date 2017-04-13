@@ -27,16 +27,10 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1,Show TV HD
+http://iptv.tjurk.com:8000/live/maka/maka/599.ts
 EXTINF:0,SHOW MAXx 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
-#EXTINF:-1,TR:Show TV
-http://iptv.tjurk.com:8000/live/maka/maka/3.ts
-#EXTINF:-1,TR:Show TV HD
-http://iptv.tjurk.com:8000/live/maka/maka/599.ts
-#EXTINF:-1,TR:Star TV
-http://iptv.tjurk.com:8000/live/maka/maka/4.ts
-#EXTINF:-1,TR:Star TV HD
-http://iptv.tjurk.com:8000/live/maka/maka/600.ts
 #EXTINF:-1,STAR TV HD
 http://starsiptv.net:5969/live/0067F2CBdb/0067F2CBdb/1502.ts
 #EXTINF:-1,TV 2
