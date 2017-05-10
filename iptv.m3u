@@ -27,6 +27,10 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1,SHOW1
+http://91.134.109.215:8080/live/TRT_AVAZ/vhjg5675/116.ts
+#EXTINF:-1,TR: SHOW TURK Turkey
+http://37.187.159.95:59695/live/thora/pGXpsccCWV/66.ts
 #EXTINF:-1,HK:SHOW TV
 http://mn-i.mncdn.com/showtv_ios/smil:showtv.smil/playlist.m3u8
 #EXTINF:-1,HK:STAR TV
@@ -35,8 +39,16 @@ http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f1850612
 http://iptv.tjurk.com:8000/live/maka/maka/599.ts
 #EXTINF:0,SHOW MAXx 
 http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
+#EXTINF:-1,EUROSTAR
+http://91.134.109.215:8080/live/TRT_AVAZ/vhjg5675/67.ts
+#EXTINF:-1,Euro Star 
+http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/377.ts
+#EXTINF:-1,Euro Star 
+http://151.80.35.29:25461/live/qqqqq/qqqqq/377.ts
 #EXTINF:-1,STAR TV HD
 http://starsiptv.net:5969/live/0067F2CBdb/0067F2CBdb/1502.ts
+#EXTINF:-1,TV 2 
+http://ns3004967.ip-151-80-35.eu:25461/live/toni/toni/276.ts
 #EXTINF:-1,TV 2
 http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
 #EXTINF:-1,TV_8_HD
