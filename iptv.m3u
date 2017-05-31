@@ -23,61 +23,29 @@ http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-#EXTINF:-1,TR: Kanal D
-http://plnt.soon.it:11118/live/elenor1453/elenor1986/1509.ts
+#EXTINF:-1,TR: Kanal D HD
+http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/11.ts
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,TR: SHOW TV HD
-http://plnt.soon.it:11118/live/elenor1453/elenor1986/1507.ts
-#EXTINF:-1,TR | Show TV
-http://vip.groupiptv.com:7000/live/robstec/robstec/3894.ts
 #EXTINF:-1,TR: Show TV HD
 http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/13.ts
-#EXTINF:-1,TR: Star TV
-http://plnt.soon.it:11118/live/elenor1453/elenor1986/1508.ts
-#EXTINF:-1,TR: NTV HD
-http://plnt.soon.it:11118/live/elenor1453/elenor1986/1521.ts
-#EXTINF:-1,TR: Kanal 7 HD
-http://plnt.soon.it:11118/live/elenor1453/elenor1986/1513.ts
-#EXTINF:-1,TR: HABER TURK HD
-http://plnt.soon.it:11118/live/elenor1453/elenor1986/4720.ts
-#EXTINF:-1,TR: TEVE 2
-http://plnt.soon.it:11118/live/elenor1453/elenor1986/4728.ts
-#EXTINF:-1,TR: FLASH TV
-http://plnt.soon.it:11118/live/elenor1453/elenor1986/4662.ts
-#EXTINF:-1,TR: Karadeniz Turk
-http://plnt.soon.it:11118/live/elenor1453/elenor1986/4666.ts
-#EXTINF:-1,TR: MAVI KARADENIZ
-http://plnt.soon.it:11118/live/elenor1453/elenor1986/4665.ts
-#EXTINF:-1,TR: FOX
-http://plnt.soon.it:11118/live/elenor1453/elenor1986/1512.ts
+#EXTINF:-1,TR | Show TV
+http://vip.groupiptv.com:7000/live/robstec/robstec/3894.ts
+#EXTINF:-1,TR: Star TV HD
+http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/7.ts
+#EXTINF:-1,TR: CNN Turk HD
+http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/16.ts
 #EXTINF:-1,TV 2
 http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
-#EXTINF:-1,TR: POWERTURK HD
-http://plnt.soon.it:11118/live/elenor1453/elenor1986/4649.ts
-#EXTINF:-1,TR: Kral Pop
-http://plnt.soon.it:11118/live/elenor1453/elenor1986/4647.ts
-#EXTINF:-1,Kral TV Turkey
-http://37.187.159.95:59695/live/thora/pGXpsccCWV/73.ts
-#EXTINF:-1,KRAL POP TV
-http://37.187.159.95:59695/live/thora/pGXpsccCWV/121.ts
-#EXTINF:-1,TV 8 INT
-http://37.187.159.95:59695/live/thora/pGXpsccCWV/134.ts
-#EXTINF:-1,CNN TURK HD
-http://37.187.159.95:59695/live/thora/pGXpsccCWV/133.ts
-#EXTINF:-1,A HABER HD
-http://37.187.159.95:59695/live/thora/pGXpsccCWV/150.ts
-#EXTINF:-1,NTV EURO
-http://37.187.159.95:59695/live/thora/pGXpsccCWV/126.ts
-#EXTINF:-1,Fox Tv HD
-http://37.187.159.95:59695/live/thora/pGXpsccCWV/68.ts
-#EXTINF:-1,Tgrt Haber 
-http://xc.cobra-iptv.com:25461/live/asib/asib/344.ts
-#EXTINF:-1,Flah TV
-http://37.187.159.95:59695/live/thora/pGXpsccCWV/76.ts
+#EXTINF:-1,24 TV 
+http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
+#EXTINF:-1,TR: TV8 HD
+http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/9.ts
+#EXTINF:-1,TR: TV8.5 HD
+http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/36.ts
 #EXTINF:-1,SEMERKAND HD
 http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
-#EXTINF:-1,YASİN TVv
+#EXTINF:-1,YASİN TV
 http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8
 #EXTINF:-1,MEDINE TV
 http://sr1.netmedya.org:1935/asutv/live.sdp/playlist.m3u8
@@ -91,28 +59,14 @@ http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
 #EXTINF:-1,NUMBER ONE TURK
 http://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp/playlist.m3u8
-#EXTINF:-1,24 TV 
-http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 #EXTINF:-1,BENGÜ TÜRK 
 http://yayin8.canliyayin.org:1935/benguturk/benguturk/playlist.m3u8?wowzasessionid=1640816579
-#EXTINF:-1,BEYAZ TV
-http://37.77.2.236:1935/beyaz/beyaz.stream/playlist.m3u8
-#EXTINF:-1,BLOOMBERG HT 
-http://mn-l.mncdn.com/bloomberght/bloomberght2/playlist.m3u8
-#EXTINF:-1,ÜLKE TV HD
-http://livetr.gostream.nl/ulketvhq/ulketvhq/playlist.m3u8
 #EXTINF:-1,DOCUMANTARY TR
 http://188.165.239.200:7088/
 #EXTINF:-1,KANAL TEK
 http://sr1.netmedya.org:1935/kanaltek/live.sdp/playlist.m3u8
-#EXTINF:-1,KUDUS TV
-rtmp://yayin8.canliyayin.org/kudustv/kudustv
-#EXTINF:-1,NRT 2
-http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/playlist.m3u8
 #EXTINF:-1,SPORTS TV
 http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
-#EXTINF:-1,TBMM TV
-http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
 #EXTINF:-1,TV 100
 http://livetr.gostream.nl/tv100/tv100/radyodelisi.m3u8
 #EXTINF:-1,VIRGIN TV
