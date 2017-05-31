@@ -23,30 +23,40 @@ http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-#EXTINF:-1,TR: Kanal D HD
-http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/11.ts
+#EXTINF:0,KANALD HD
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,TR: Show TV HD
-http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/13.ts
+#EXTINF:0,SHOWTV HD
+http://mn-l.mncdn.com/showtv//showtv2/playlist.m3u8
+#EXTINF:0,SHOWTV SECENEK 2
+http://live01.tvnet.doracdn.com/live/smil:showtv.smil/byahmet.m3u8
 #EXTINF:-1,TR | Show TV
 http://vip.groupiptv.com:7000/live/robstec/robstec/3894.ts
-#EXTINF:-1,TR: Star TV HD
-http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/7.ts
+#EXTINF:0,STAR TV
+http://live01.tvnet.doracdn.com/live/smil:startv.smil/byahmet.m3u8
+#EXTINF:0,STAR TV SECENEK 2
+http://185.56.28.73/live/star.m3u8
 #EXTINF:-1,TV 2
 http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
-#EXTINF:-1,TR: teve2 HD
-http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/14.ts
-#EXTINF:-1,TR: CNN Turk HD
-http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/16.ts
-#EXTINF:-1,TR: A Haber HD
-http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/18.ts
+#EXTINF:0,HABERTURK
+http://live-ciner.mncdn.net/haberturk/haberturk2/chunklist_w1452765031.m3u8
+#EXTINF:0,A HABER HD
+http://195.250.60.89:8000/udp/239.203.1.128:3301?pf=20160604
+#EXTINF:0,NTV
+http://149.255.152.110/ntvtr/index.m3u8
+#EXTINF:0,NTV SECENEK
+http://149.255.152.110/ntvtr/index.m3u8
+#EXTINF:0,KANAL7 HD
+http://stream.gostream.nl/kanal7hq/kanal7hq.m3u8
+#EXTINF:0,FOXTV HD
+http://195.250.60.89:8000/udp/239.203.1.130:3301?pf=20160604
 #EXTINF:-1,24 TV 
 http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
-#EXTINF:-1,TR: TV8 HD
-http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/9.ts
-#EXTINF:-1,TR: TV8.5 HD
-http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/36.ts
+#EXTINF:0,TV8 HD
+http://149.255.152.110/tv8/index.m3u8
+#EXTINF:0,TV8 HD SECENEK 2
+http://38.117.88.253:7777/TV8_HD.m3u8
 #EXTINF:-1,SEMERKAND HD
 http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
 #EXTINF:-1,YASİN TV
