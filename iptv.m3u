@@ -29,10 +29,14 @@ http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 http://37.187.159.95:59695/live/thora/pGXpsccCWV/64.ts
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1,TR: Show TV HDd
+http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/13.ts
 #EXTINF:-1,SHOW TURK Turkey
 http://37.187.159.95:59695/live/thora/pGXpsccCWV/66.ts
 #EXTINF:-1,SHOW MAX
 http://37.187.159.95:59695/live/thora/pGXpsccCWV/272.ts
+#EXTINF:-1,TR: Star TV HDd
+http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/7.ts
 #EXTINF:-1,Euro Star 
 http://ns3004967.ip-151-80-35.eu:25461/live/raul/raul/377.ts
 #EXTINF:-1,Euro Star yedek
