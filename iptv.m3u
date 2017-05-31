@@ -61,7 +61,7 @@ http://xc.cobra-iptv.com:25461/live/asib/asib/344.ts
 http://37.187.159.95:59695/live/thora/pGXpsccCWV/76.ts
 #EXTINF:-1,SEMERKAND HD
 http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
-#EXTINF:-1,YASİN TV
+#EXTINF:-1,YASİN TVv
 http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8
 #EXTINF:-1,MEDINE TV
 http://sr1.netmedya.org:1935/asutv/live.sdp/playlist.m3u8
