@@ -33,10 +33,14 @@ http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/13.ts
 http://vip.groupiptv.com:7000/live/robstec/robstec/3894.ts
 #EXTINF:-1,TR: Star TV HD
 http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/7.ts
-#EXTINF:-1,TR: CNN Turk HD
-http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/16.ts
 #EXTINF:-1,TV 2
 http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+#EXTINF:-1,TR: teve2 HD
+http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/14.ts
+#EXTINF:-1,TR: CNN Turk HD
+http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/16.ts
+#EXTINF:-1,TR: A Haber HD
+http://37.59.32.145:6969/live/ssiptv.net/vipteam.me/18.ts
 #EXTINF:-1,24 TV 
 http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 #EXTINF:-1,TR: TV8 HD
