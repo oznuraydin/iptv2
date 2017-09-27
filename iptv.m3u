@@ -1,14 +1,16 @@
 #EXTM3U
-#EXTINF:-1,TR: TRT1
-http://andutv.ddns.net:6500/live/znoqq/zno1/13667.ts
 #EXTINF:-1,*TRT 1 HD
 http://62.210.82.102:8000/live/74i47z491L27Zq/9d8m669471Z8D1/669.ts
+#EXTINF:-1,TR: TRT1
+http://andutv.ddns.net:6500/live/znoqq/zno1/13667.ts
 #EXTINF:-1,TRT HABER HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
 #EXTINF:-1,TRT COCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:-1,TRT TURK
 http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.m3u8
+#EXTINF:-1,TR: *TRT SPOR
+http://andutv.ddns.net:6500/live/znoqq/zno1/13697.ts
 #EXTINF:-1,*TRT 3 Spor HD
 http://62.210.82.102:8000/live/74i47z491L27Zq/9d8m669471Z8D1/667.ts
 #EXTINF:-1,TRT ARAPCA
@@ -27,12 +29,24 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1,TR: *KANAL D
+http://andutv.ddns.net:6500/live/znoqq/zno1/13655.ts
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1,TR: *SHOW TV
+http://andutv.ddns.net:6500/live/znoqq/zno1/13661.ts
 #EXTINF:-1,TR | Show TV
 http://vip.groupiptv.com:7000/live/robstec/robstec/3894.ts
+#EXTINF:-1,TR: *SHOW MAX
+http://andutv.ddns.net:6500/live/znoqq/zno1/13638.ts
+#EXTINF:-1,TR: *STAR TV
+http://andutv.ddns.net:6500/live/znoqq/zno1/13660.ts
 #EXTINF:-1,TV 2
 http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+#EXTINF:-1,TR: *NTV SPOR
+http://andutv.ddns.net:6500/live/znoqq/zno1/13698.ts
+#EXTINF:-1,TR: *NTV AVRUPA
+http://andutv.ddns.net:6500/live/znoqq/zno1/13639.ts
 #EXTINF:-1,24 haber
 http://62.210.82.102:8000/live/74i47z491L27Zq/9d8m669471Z8D1/800.ts
 #EXTINF:-1,24 TV 
