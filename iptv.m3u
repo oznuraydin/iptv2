@@ -1,6 +1,10 @@
 #EXTM3U
+#EXTINF:-1,TR:* TRT 1
+http://ipsatpro.com:8000/live/190001659542687/190001659542687/1977.ts
 #EXTINF:-1,TRT HABER HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
+#EXTINF:-1,TR: *TRT Sports
+http://ipsatpro.com:8000/live/190001659542687/190001659542687/1981.ts
 #EXTINF:-1,TRT COCUK
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 #EXTINF:-1,TRT TURK
@@ -21,10 +25,20 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1,TR:* Euro D
+http://ipsatpro.com:8000/live/190001659542687/190001659542687/1952.ts
+#EXTINF:-1,TR: Kanal D
+http://ipsatpro.com:8000/live/190001659542687/190001659542687/1993.ts
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1,TR:* Show TV
+http://ipsatpro.com:8000/live/190001659542687/190001659542687/1990.ts
+#EXTINF:-1,TR:* Show Turk
+http://ipsatpro.com:8000/live/190001659542687/190001659542687/1989.ts
 #EXTINF:-1,TR | Show TV
 http://vip.groupiptv.com:7000/live/robstec/robstec/3894.ts
+#EXTINF:-1,TR:* Star tv HD
+http://ipsatpro.com:8000/live/190001659542687/190001659542687/1987.ts
 #EXTINF:-1,TV 2
 http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
 #EXTINF:-1,24 haber
