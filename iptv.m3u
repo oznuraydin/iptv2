@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,TR: TRT1
+http://andutv.ddns.net:6500/live/znoqq/zno1/13667.ts
 #EXTINF:-1,*TRT 1 HD
 http://62.210.82.102:8000/live/74i47z491L27Zq/9d8m669471Z8D1/669.ts
 #EXTINF:-1,TRT HABER HD
