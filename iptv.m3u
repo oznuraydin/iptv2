@@ -1,6 +1,36 @@
 #EXTM3U
-#EXTINF:-1,TR:* TRT 1
+#EXTINF:-1,TRT 1
 http://ipsatpro.com:8000/live/190001659542687/190001659542687/1977.ts
+#EXTINF:-1,TR: TRT 1 FHD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/68022.ts
+#EXTINF:-1,TR: TRT 1 HD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/67980.ts
+#EXTINF:-1,TR: TRT AVAZ*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/75200.ts
+#EXTINF:-1,TR: TRT BELGESEL HD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/67951.ts
+#EXTINF:-1,TR: TRT COCUK*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/75199.ts
+#EXTINF:-1,TR: TRT COCUK HD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/67938.ts
+#EXTINF:-1,TR: TRT HABER FHD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/68017.ts
+#EXTINF:-1,TR: TRT HABER HD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/67975.ts
+#EXTINF:-1,TR: TRT MUZIK*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/75198.ts
+#EXTINF:-1,TR: TRT OKUL HD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/67950.ts
+#EXTINF:-1,TR: TRT SPOR*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/75197.ts
+#EXTINF:-1,TR: TRT SPOR FHD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/68021.ts
+#EXTINF:-1,TR: TRT SPOR HD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/67979.ts
+#EXTINF:-1,TR: TRT TURK*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/75196.ts
+#EXTINF:-1,TR: TRT TURK HD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/67920.ts
 #EXTINF:-1,TRT HABER HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
 #EXTINF:-1,TR: *TRT Sports
@@ -23,30 +53,78 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 #EXTINF:-1,TRT WORLD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1,TR: ATV FHD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/68031.ts
+#EXTINF:-1,TR: ATV HD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/67992.ts
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1,TR: KANAL D HD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/67989.ts
+#EXTINF:-1,TR: KANAL D FHD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/68028.ts
 #EXTINF:-1,TR:* Euro D
 http://ipsatpro.com:8000/live/190001659542687/190001659542687/1952.ts
 #EXTINF:-1,TR: Kanal D
 http://ipsatpro.com:8000/live/190001659542687/190001659542687/1993.ts
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1,TR: SHOW TV FHD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/68029.ts
+#EXTINF:-1,TR: SHOW TV HD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/67990.ts
+#EXTINF:-1,TR: SHOWMAX*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/75212.ts
+#EXTINF:-1,TR: SHOWTV HD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/75211.ts
 #EXTINF:-1,TR:* Show TV
 http://ipsatpro.com:8000/live/190001659542687/190001659542687/1990.ts
 #EXTINF:-1,TR:* Show Turk
 http://ipsatpro.com:8000/live/190001659542687/190001659542687/1989.ts
 #EXTINF:-1,TR | Show TV
 http://vip.groupiptv.com:7000/live/robstec/robstec/3894.ts
-#EXTINF:-1,TR:* Star tv HD
+#EXTINF:-1,TR:* Star tv HD*
 http://ipsatpro.com:8000/live/190001659542687/190001659542687/1987.ts
+#EXTINF:-1,TR-KANAL_D*
+http://best4u.tn:8000/live/bachir/bachir/3382.ts
+#EXTINF:-1,TR-Star_tv*
+http://best4u.tn:8000/live/bachir/bachir/3368.ts
+#EXTINF:-1,TR-ATV*
+http://best4u.tn:8000/live/bachir/bachir/3393.ts
+#EXTINF:-1,TR-TV8*
+http://best4u.tn:8000/live/bachir/bachir/3350.ts
 #EXTINF:-1,TV 2
 http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+#EXTINF:-1,TR: FOX TV FHD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/68027.ts
+#EXTINF:-1,TR: FLASH TV*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/75237.ts
+#EXTINF:-1,TR: FOX CRIME TV*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/75236.ts
+#EXTINF:-1,TR: HABERTURK HD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/67973.ts
+#EXTINF:-1,TR: CNN TURK*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/75261.ts
+#EXTINF:-1,TR: BLOOMBERG*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/75264.ts
 #EXTINF:-1,24 haber
 http://62.210.82.102:8000/live/74i47z491L27Zq/9d8m669471Z8D1/800.ts
-#EXTINF:-1,24 TV 
+#EXTINF:-1,TR: KANAL 7 HD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/67982.ts
+#EXTINF:-1,24 TV*
 http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
+#EXTINF:-1,TR: PLANET TURK*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/75216.ts
+#EXTINF:-1,TR: KRAL TV*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/75226.ts
+#EXTINF:-1,TR: KRAL TV HD*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/67931.ts
 #EXTINF:-1,SEMERKAND HD
 http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
+#EXTINF:-1,TR: CEM TV*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/75262.ts
+#EXTINF:-1,TR: DISCOVERY CHANNEL*
+http://secure.selling-team.net/live/12Kevinsp1030live2/kevin0313/75259.ts
 #EXTINF:-1,YASİN TV
 http://sr1.netmedya.org:1935/yasintv/live.sdp/playlist.m3u8
 #EXTINF:-1,MEDINE TV
