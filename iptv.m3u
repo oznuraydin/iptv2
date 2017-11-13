@@ -23,10 +23,20 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1, ATV HD*
+http://panel2.iptvyayin.com:8000/live/ismail1/ismail1/6676.ts
+#EXTINF:-1,ULTHD | KANAL D HD*
+http://panel2.iptvyayin.com:8000/live/ismail1/ismail1/6693.ts
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
 #EXTINF:-1,TV 2
 http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+#EXTINF:-1,ULTHD | HABERTÜRK HD*
+http://panel2.iptvyayin.com:8000/live/ismail1/ismail1/6690.ts
+#EXTINF:-1,ULTHD | KANAL 7 HD*
+http://panel2.iptvyayin.com:8000/live/ismail1/ismail1/6691.ts
+#EXTINF:-1,ULTHD | A HABER HD*
+http://panel2.iptvyayin.com:8000/live/ismail1/ismail1/6674.ts
 #EXTINF:-1,24 TV
 http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 #EXTINF:-1,SEMERKAND HD
