@@ -2,9 +2,7 @@
 #EXTINF:-1, TRT 1 HD
 http://panel2.iptvyayin.com:8000/live/ismail1/ismail1/31.ts
 #EXTINF:-1,TR: TRT 1 HD
-http://4k.electrodahri.com:8000/live/jose/jose1/55521.ts
-#EXTINF:-1,TR: TRT 1 SD
-http://4k.electrodahri.com:8000/live/jose/jose1/55520.ts
+http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3704.ts
 #EXTINF:-1,TRT HABER HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
 #EXTINF:-1,TRT COCUK
@@ -13,8 +11,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
 http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/chunklist_w372120323_b665600.m3u8
 #EXTINF:-1,TRT Müzik
 http://panel2.iptvyayin.com:8000/live/ismail1/ismail1/50.ts
-#EXTINF:-1,TR: TRT MUZIK
-http://4k.electrodahri.com:8000/live/jose/jose1/55408.ts
 #EXTINF:-1,TRT ARAPCA
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:-1,TRT AVAZ
@@ -29,38 +25,34 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 #EXTINF:-1,TRT WORLD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1,TR: ATV HD
+http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3707.ts
+#EXTINF:-1,TR: KANAL D HD
+http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3706.ts
+#EXTINF:-1,TR: SHOW TV HD
+http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3710.ts
+#EXTINF:-1,TR: SHOWMAX
+http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3718.ts
+#EXTINF:-1,TR: STAR TV HD
+http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3709.ts
+#EXTINF:-1,TR: STAR TV
+http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3708.ts
 #EXTINF:-1,TR:ATV
 http://universeiptv.com:8000/live/LLLL/LLLL/801.ts
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-#EXTINF:-1,TR:ATV
-http://universeiptv.com:8000/live/LLLL/LLLL/801.ts
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,TR: KANAL D HD
-http://4k.electrodahri.com:8000/live/jose/jose1/55516.ts
-#EXTINF:-1,TR: KANAL D SD
-http://4k.electrodahri.com:8000/live/jose/jose1/55515.ts
-#EXTINF:-1,TR:Show_TV
-http://universeiptv.com:8000/live/LLLL/LLLL/791.ts
-#EXTINF:-1,TR: SHOW TV SD
-http://4k.electrodahri.com:8000/live/jose/jose1/55509.ts
-#EXTINF:-1,TR: SHOWMAX
-http://4k.electrodahri.com:8000/live/jose/jose1/55472.ts
-#EXTINF:-1,TR:Star_TV
-http://universeiptv.com:8000/live/LLLL/LLLL/790.ts
-#EXTINF:-1,TR:EURO_STAR
-http://universeiptv.com:8000/live/LLLL/LLLL/2508.ts
-#EXTINF:-1,TR: STAR TV HD
-http://4k.electrodahri.com:8000/live/jose/jose1/55519.ts
-#EXTINF:-1,TR: STAR TV SD
-http://4k.electrodahri.com:8000/live/jose/jose1/55518.ts
 #EXTINF:-1,TV 2
 http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
-#EXTINF:-1,TR: HABERTURK HD
-http://4k.electrodahri.com:8000/live/jose/jose1/55411.ts
-#EXTINF:-1,TR: CEM TV
-http://4k.electrodahri.com:8000/live/jose/jose1/55471.ts
+#EXTINF:-1,TR: FOX TV HD
+http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3711.ts
+#EXTINF:-1,TR: KANAL 7
+http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3717.ts
+#EXTINF:-1,TR: Mini Ago HD
+http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3716.ts
+#EXTINF:-1,TR: FLASH TV
+http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3719.ts
 #EXTINF:-1,24 TV
 http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 #EXTINF:-1,SEMERKAND HD
