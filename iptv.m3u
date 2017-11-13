@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1, TRT 1 HD
 http://panel2.iptvyayin.com:8000/live/ismail1/ismail1/31.ts
-#EXTINF:-1,TR: TRT 1 HD
-http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3704.ts
+#EXTINF:-1,TR | TRT1 HD
+http://uydu2017.org:8000/live/aliyilmaz/yilmaz/663.ts
+#EXTINF:-1,TR | TRT 1HD SD
+http://uydu2017.org:8000/live/aliyilmaz/yilmaz/2689.ts
 #EXTINF:-1,TRT HABER HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
 #EXTINF:-1,TRT COCUK
@@ -25,34 +27,28 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 #EXTINF:-1,TRT WORLD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1,TR: ATV HD
-http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3707.ts
-#EXTINF:-1,TR: KANAL D HD
-http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3706.ts
-#EXTINF:-1,TR: SHOW TV HD
-http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3710.ts
-#EXTINF:-1,TR: SHOWMAX
-http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3718.ts
-#EXTINF:-1,TR: STAR TV HD
-http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3709.ts
-#EXTINF:-1,TR: STAR TV
-http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3708.ts
-#EXTINF:-1,TR:ATV
-http://universeiptv.com:8000/live/LLLL/LLLL/801.ts
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1,TR | ATV HD HIGH
+http://uydu2017.org:8000/live/aliyilmaz/yilmaz/80.ts
+#EXTINF:-1,TR | ATV TV HD
+http://uydu2017.org:8000/live/aliyilmaz/yilmaz/10.ts
 #EXTINF:-1,Kanal D HD 
 http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1,TR | KANALD HD HIGH
+http://uydu2017.org:8000/live/aliyilmaz/yilmaz/7.ts
+#EXTINF:-1,TR | KANALD HD
+http://uydu2017.org:8000/live/aliyilmaz/yilmaz/72.ts
+#EXTINF:-1,TR | SHOW HD HIGH
+http://uydu2017.org:8000/live/aliyilmaz/yilmaz/2513.ts
+#EXTINF:-1,TR:SHOW HD LOW
+http://uydu2017.org:8000/live/aliyilmaz/yilmaz/1172.ts
+#EXTINF:-1,TR | STAR HD HIGH
+http://uydu2017.org:8000/live/aliyilmaz/yilmaz/2511.ts
+#EXTINF:-1,TR | STAR TV HD
+http://uydu2017.org:8000/live/aliyilmaz/yilmaz/11.ts
 #EXTINF:-1,TV 2
 http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
-#EXTINF:-1,TR: FOX TV HD
-http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3711.ts
-#EXTINF:-1,TR: KANAL 7
-http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3717.ts
-#EXTINF:-1,TR: Mini Ago HD
-http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3716.ts
-#EXTINF:-1,TR: FLASH TV
-http://client-proiptv.com:8080/live/suY9H2ykWY/SLpoRHAcoU/3719.ts
 #EXTINF:-1,24 TV
 http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 #EXTINF:-1,SEMERKAND HD
