@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1,*TRT 1 HD
-http://62.210.82.102:8000/live/Z2ep557B415921/G319z258F74y14/669.ts
-#EXTINF:-1,TRK: TRT 1 HD
-http://euroiptv.myftp.biz:8000/live/fab/fab/5314.ts
 #EXTINF:-1,TRK:  TRT1 HD
 http://euroiptv.myftp.biz:8000/live/fab/fab/5371.ts
+#EXTINF: TR Kanallar
+http://dailyiptvlist.com/dl/tr-m3uplaylist-2017-11-23.m3u
 #EXTINF:-1,TRT HABER HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
 #EXTINF:-1,TRT COCUK
@@ -29,33 +27,19 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-#EXTINF:-1,ATV HD 2
-http://panel2.iptvyayin.com:8000/live/ismail1/ismail1/1.ts
-#EXTINF:-1,TRK:  ATV HD
-http://euroiptv.myftp.biz:8000/live/fab/fab/5397.ts
-#EXTINF:-1,Kanal D HD 
-http://media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1,TRK: KANALD HD
+#EXTINF:-1,KANALD HD
 http://euroiptv.myftp.biz:8000/live/fab/fab/5303.ts
-#EXTINF:-1,TRK: KANAL D
-http://euroiptv.myftp.biz:8000/live/fab/fab/5299.ts
-#EXTINF:-1,TRK:  KANALD HD
-http://euroiptv.myftp.biz:8000/live/fab/fab/5376.ts
-#EXTINF:-1,*Show TV HD
-http://62.210.82.102:8000/live/Z2ep557B415921/G319z258F74y14/657.ts
-#EXTINF:-1,TRK: SHOW TüRK
+#EXTINF:-1,SHOW TüRK
 http://euroiptv.myftp.biz:8000/live/fab/fab/5311.ts
-#EXTINF:-1,TRK: SHOW MAX
+#EXTINF:-1, SHOW MAX
 http://euroiptv.myftp.biz:8000/live/fab/fab/5312.ts
-#EXTINF:-1,TR | STAR TV
-http://panel2.iptvyayin.com:8000/live/ismail1/ismail1/98.ts
 #EXTINF:-1,TRK:  STARTV
 http://euroiptv.myftp.biz:8000/live/fab/fab/5394.ts
 #EXTINF:-1,TV 2
 http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
-#EXTINF:-1,[TR] CNN TURK HD
+#EXTINF:-1,CNN TURK HD
 http://euroiptv.myftp.biz:8000/live/fab/fab/12243.ts
-#EXTINF:-1,TRK:  HABERTURK HD
+#EXTINF:-1, HABERTURK HD
 http://euroiptv.myftp.biz:8000/live/fab/fab/5393.ts
 #EXTINF:-1,TRK: KEMAL SUNAL TV
 http://euroiptv.myftp.biz:8000/live/fab/fab/5370.ts
