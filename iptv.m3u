@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,TRK:  TRT1 HD
 http://euroiptv.myftp.biz:8000/live/fab/fab/5371.ts
+#EXTINF:-1,TRT 1 HD 
+http://www.iptvsaga.com/play/tv3/0030.m3u8
 #EXTINF:-1,[TR] TRT 1 HD
 http://bigiptv.ovh:8000/live/oussema/oussema/9054.ts
 #EXTINF:-1,TRT HABER HD
@@ -27,6 +29,8 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1,ATV HD 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-0,A TV Avrupa 
+http://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8 
 #EXTINF:-1,ATV Avrupa TR
 http://portal.geniptv.com:8080/live/VkTF92nbYr/4EmyCKnUCr/2096.ts
 #EXTINF:-1,ATV HD TR
@@ -35,6 +39,10 @@ http://portal.geniptv.com:8080/live/VkTF92nbYr/4EmyCKnUCr/445.ts
 http://portal.geniptv.com:8080/live/VkTF92nbYr/4EmyCKnUCr/6120.ts
 #EXTINF:-1,[TR] KANAL D HD [ L ]
 http://bigiptv.ovh:8000/live/oussema/oussema/9070.ts
+#EXTINF:-0,Kanal D 
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-0,Kanal D alt. 
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:-1,TR: Kanal D
 http://185.2.83.60:8000/live/mark/mark/1993.ts
 #EXTINF:-1,Kanal D HD TR
@@ -43,6 +51,16 @@ http://portal.geniptv.com:8080/live/VkTF92nbYr/4EmyCKnUCr/455.ts
 http://portal.geniptv.com:8080/live/VkTF92nbYr/4EmyCKnUCr/6130.ts
 #EXTINF:-1,Euro D TR
 http://portal.geniptv.com:8080/live/VkTF92nbYr/4EmyCKnUCr/1118.ts
+#EXTINF:-0,SHOW TV 
+http://canli2.tvnet.tv.tr/live/smil:showtv.smil/chunklist_b1200000.m3u8 
+#EXTINF:-0,SHOWMAX 
+http://mn-l.mncdn.com:1935/showmax/showmax2/chunklist_w1383210136.m3u8 
+#EXTINF:-0,SHOWMAX alt. 
+http://mn-l.mncdn.com:1935/showmax/showmax2/iptvdelisi.m3u8 
+#EXTINF:-0,SHOWTÜRK 
+http://mn-l.mncdn.com/showturktv/showturktv2/iptvdelisi.m3u8 
+#EXTINF:-0,SHOW TV 
+http://canli2.tvnet.tv.tr/live/smil:showtv.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,[TR] SHOW TV HD [ L ]
 http://bigiptv.ovh:8000/live/oussema/oussema/9067.ts
 #EXTINF:-1,TR: Show TV
@@ -51,6 +69,8 @@ http://185.2.83.60:8000/live/mark/mark/1990.ts
 http://185.2.83.60:8000/live/mark/mark/1989.ts
 #EXTINF:-1,Show HD TR
 http://portal.geniptv.com:8080/live/VkTF92nbYr/4EmyCKnUCr/467.ts
+#EXTINF:-0,SHOWMAX 
+http://mn-l.mncdn.com:1935/showmax/showmax2/chunklist_w1383210136.m3u8 
 #EXTINF:-1,Show Max TR
 http://portal.geniptv.com:8080/live/VkTF92nbYr/4EmyCKnUCr/1122.ts
 #EXTINF:-1,Show Turk TR
@@ -63,6 +83,8 @@ http://185.2.83.60:8000/live/mark/mark/1987.ts
 http://portal.geniptv.com:8080/live/VkTF92nbYr/4EmyCKnUCr/1119.ts
 #EXTINF:-1,TV 2
 http://media.netd.com.tr/S2/HLS_LIVE/tv2/playlist.m3u8
+#EXTINF:-0,A HABER 
+http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
 #EXTINF:-1,24 TV
 http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 #EXTINF:-1,SEMERKAND HD
