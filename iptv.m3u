@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,TRK:  TRT1 HD
 http://euroiptv.myftp.biz:8000/live/fab/fab/5371.ts
-#EXTINF: TR Kanallar
+#EXTINF:-1,  TR Kanallar
 http://dailyiptvlist.com/dl/tr-m3uplaylist-2017-11-23.m3u
 #EXTINF:-1,TRT HABER HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
