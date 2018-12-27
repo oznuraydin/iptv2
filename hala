@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="-------------- | ULUSAL | --------------" tvg-logo="http://www.belge.com.tr/uploads/2016/09/19/kamu-borcu-dustu-s.png" group-title="Ulusal",-------------- | ULUSAL | --------------
+#EXTINF:-1 tvg-id="" tvg-name="-------------- | ULUuSAL | --------------" tvg-logo="http://www.belge.com.tr/uploads/2016/09/19/kamu-borcu-dustu-s.png" group-title="Ulusal",-------------- | ULUSAL | --------------
 http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6509
 #EXTINF:-1 tvg-id="TRT1HD.tr" tvg-name="Trt1 Hd" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_1.png" group-title="Ulusal",Trt1 Hd
 http://redo1.com:8080/oznuraydin/w3pHFyEYQY/82
