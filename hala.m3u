@@ -1,0 +1,1106 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="-------------- | ULUSAL | --------------" tvg-logo="http://www.belge.com.tr/uploads/2016/09/19/kamu-borcu-dustu-s.png" group-title="Ulusal",-------------- | ULUSAL | --------------
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6509
+#EXTINF:-1 tvg-id="TRT1HD.tr" tvg-name="Trt1 Hd" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_1.png" group-title="Ulusal",Trt1 Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/82
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="Trt1 Sd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da85c" group-title="Ulusal",Trt1 Sd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/31
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="Trt 1 SD Yedek" tvg-logo="http://www.canliturktv.com/Logolar/trt1hd.png" group-title="Ulusal",Trt 1 SD Yedek
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19098
+#EXTINF:-1 tvg-id="dt.323" tvg-name="Trt 4k Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8b8" group-title="Ulusal",Trt 4k Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7548
+#EXTINF:-1 tvg-id="TRTOkul.tr" tvg-name="Trt Okul" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8cc" group-title="Ulusal",Trt Okul
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2414
+#EXTINF:-1 tvg-id="dt.58" tvg-name="Trt Kurdi" tvg-logo="http://4.bp.blogspot.com/-6YcyP6zygC8/VLGLsSPxfSI/AAAAAAAAKf4/nEv4AjK5sw8/s1600/trt_kurdi.png" group-title="Ulusal",Trt Kurdi
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2046
+#EXTINF:-1 tvg-id="TRTAVAZ.tr" tvg-name="Trt Avaz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/TRT_Avaz_logosu.png" group-title="Ulusal",Trt Avaz
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17211
+#EXTINF:-1 tvg-id="TRTD?YANET.tr" tvg-name="Trt Diyanet" tvg-logo="http://www.frekansi.com/files/image/trt_diyanet_tv_frekansi.png" group-title="Ulusal",Trt Diyanet
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17212
+#EXTINF:-1 tvg-id="TRTAlArabiya.tr" tvg-name="Trt Al Arabia" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/trt_arapca.png" group-title="Ulusal",Trt Al Arabia
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17213
+#EXTINF:-1 tvg-id="" tvg-name="Trt Turk" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2015-07-02-16.21.35/1d7e3e40e0a6455eb35e5fa6c3d529a7.png" group-title="Ulusal",Trt Turk
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17214
+#EXTINF:-1 tvg-id="" tvg-name="Trt World" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da864" group-title="Ulusal",Trt World
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17215
+#EXTINF:-1 tvg-id="ATVHD.tr" tvg-name="Atv Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da844" group-title="Ulusal",Atv Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1
+#EXTINF:-1 tvg-id="ShowTVHD.tr" tvg-name="Show Tv Hd" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png" group-title="Ulusal",Show Tv Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/25
+#EXTINF:-1 tvg-id="StarTVHD.tr" tvg-name="Star Tv Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8be" group-title="Ulusal",Star Tv Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/28
+#EXTINF:-1 tvg-id="KanalDHD.tr" tvg-name="Kanal D Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da806" group-title="Ulusal",Kanal D Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/26
+#EXTINF:-1 tvg-id="TV8HD.tr" tvg-name="Tv8 Hd" tvg-logo="https://i.pinimg.com/originals/6e/f8/a2/6ef8a29fbf8561c379b00d85afa9010f.png" group-title="Ulusal",Tv8 Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/57
+#EXTINF:-1 tvg-id="FOXHD.tr" tvg-name="Fox Hd" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Fox34.png" group-title="Ulusal",Fox Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/27
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="atv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da844" group-title="Ulusal",atv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/95
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da88e" group-title="Ulusal",Show Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/97
+#EXTINF:-1 tvg-id="StarHD.tr" tvg-name="Star Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8be" group-title="Ulusal",Star Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/98
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da806" group-title="Ulusal",Kanal D
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/96
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da894" group-title="Ulusal",Fox Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/200
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="Tv8" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8b4" group-title="Ulusal",Tv8
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/93
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="Atv SD Yedek" tvg-logo="http://www.canliturktv.com/Logolar/atvhd.png" group-title="Ulusal",Atv SD Yedek
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19100
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="Atv Euro" tvg-logo="https://img.netzwelt.de/dw236_dh236_sw0_sh0_sx0_sy0_sr1x1_nu0/picture/original/2015/07/senderlogo-atv-avrupa-164753.png" group-title="Ulusal",Atv Euro
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7566
+#EXTINF:-1 tvg-id="A2.tr" tvg-name="A2" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f31601cfef0b3061cf4276" group-title="Ulusal",A2
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2070
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show Tv SD Yedek" tvg-logo="http://www.canliturktv.com/Logolar/showtvtr.png" group-title="Ulusal",Show Tv SD Yedek
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19101
+#EXTINF:-1 tvg-id="" tvg-name="Show Tv Euro" tvg-logo="https://pbs.twimg.com/profile_images/537263525509361664/SoruSuMT_400x400.png" group-title="Ulusal",Show Tv Euro
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7564
+#EXTINF:-1 tvg-id="" tvg-name="Star Tv SD Yedek" tvg-logo="http://www.canliturktv.com/Logolar/startvtrhd.png" group-title="Ulusal",Star Tv SD Yedek
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19099
+#EXTINF:-1 tvg-id="" tvg-name="Star Tv Euro" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da874" group-title="Ulusal",Star Tv Euro
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7563
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox SD Yedek" tvg-logo="http://www.canliturktv.com/Logolar/foxhd.png" group-title="Ulusal",Fox SD Yedek
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19103
+#EXTINF:-1 tvg-id="KanalDHD.tr" tvg-name="Kanal D SD Yedek" tvg-logo="http://www.canliturktv.com/Logolar/kanaldtr.png" group-title="Ulusal",Kanal D SD Yedek
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19102
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Euro" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f315c3cfef0b3061cf4273" group-title="Ulusal",Kanal D Euro
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7565
+#EXTINF:-1 tvg-id="" tvg-name="TV 8 SD Yedek" tvg-logo="http://www.canliturktv.com/Logolar/tv8tr.png" group-title="Ulusal",TV 8 SD Yedek
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19104
+#EXTINF:-1 tvg-id="" tvg-name="TV8.5" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/5924449cd6f439663be1e725" group-title="Ulusal",TV8.5
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2068
+#EXTINF:-1 tvg-id="" tvg-name="TV 8.5 SD Yedek" tvg-logo="http://www.canliturktv.com/Logolar/tv85tr.png" group-title="Ulusal",TV 8.5 SD Yedek
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19105
+#EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-name="Beyaz Tv Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da878" group-title="Ulusal",Beyaz Tv Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/35
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8a6" group-title="Ulusal",Kanal 7
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2357
+#EXTINF:-1 tvg-id="" tvg-name="Sony Mutfak" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/planet_mutfak.png" group-title="Ulusal",Sony Mutfak
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/204
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel" tvg-logo="http://www.canliturktv.com/Logolar/sonychannel.png" group-title="Ulusal",Sony Channel
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19559
+#EXTINF:-1 tvg-id="" tvg-name="Planet Turk" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da916" group-title="Ulusal",Planet Turk
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1590
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="Tlc Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8ae" group-title="Ulusal",Tlc Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/87
+#EXTINF:-1 tvg-id="Tv2.tr" tvg-name="Teve2" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da80a" group-title="Ulusal",Teve2
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/83
+#EXTINF:-1 tvg-id="FlashTV.tr" tvg-name="Flash TV" tvg-logo="http://anka.tv/uploads/tvlogo/flash-tv-logo-png.png" group-title="Ulusal",Flash TV
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/52
+#EXTINF:-1 tvg-id="" tvg-name="Kadirga Tv" tvg-logo="https://canakanten.com/wp-content/uploads/kadirga-tv.png" group-title="Ulusal",Kadirga Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17198
+#EXTINF:-1 tvg-id="" tvg-name="Lifeplus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0TMkRi8pv_C1D1qj_z3PQZDcNC0klwLa1Ihzm5GKlke6miM0" group-title="Ulusal",Lifeplus
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17202
+#EXTINF:-1 tvg-id="Lifetime.tr" tvg-name="Lifetime" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/lifetime.png" group-title="Ulusal",Lifetime
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17203
+#EXTINF:-1 tvg-id="" tvg-name="Nr1 Ask" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/ask-tv-web.jpg" group-title="Muzik",Nr1 Ask
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17205
+#EXTINF:-1 tvg-id="" tvg-name="Tv5monde" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV5MONDE_logo.png" group-title="Ulusal",Tv5monde
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17216
+#EXTINF:-1 tvg-id="" tvg-name="Tvt" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/kanal_tvt.png" group-title="Ulusal",Tvt
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17218
+#EXTINF:-1 tvg-id="" tvg-name="Ulusal16" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8d0" group-title="Ulusal",Ulusal16
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17219
+#EXTINF:-1 tvg-id="dt.110" tvg-name="Fashionone TV" tvg-logo="http://logonoid.com/images/fashion-one-logo.png" group-title="Ulusal",Fashionone TV
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7545
+#EXTINF:-1 tvg-id="" tvg-name="Fashionbox" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/fashionboxhd-logo.png" group-title="Ulusal",Fashionbox
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17196
+#EXTINF:-1 tvg-id="" tvg-name="Cay Tv" tvg-logo="http://www.canlitvizle.gallery/wp-content/uploads/2016/11/cay-tv-canli.png" group-title="Ulusal",Cay Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1489
+#EXTINF:-1 tvg-id="" tvg-name="Cem Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da93f" group-title="Ulusal",Cem Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2361
+#EXTINF:-1 tvg-id="dt.51" tvg-name="Kanal 32" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da918" group-title="Ulusal",Kanal 32
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/207
+#EXTINF:-1 tvg-id="" tvg-name="Tay Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da818" group-title="Spor",Tay Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/137
+#EXTINF:-1 tvg-id="" tvg-name="As Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da87e" group-title="Ulusal",As Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7090
+#EXTINF:-1 tvg-id="" tvg-name="Bursa Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da82a" group-title="Ulusal",Bursa Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7091
+#EXTINF:-1 tvg-id="" tvg-name="Kent Tv" tvg-logo="https://pbs.twimg.com/profile_images/664308933058805760/RHvlCHFp_400x400.jpg" group-title="Ulusal",Kent Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7092
+#EXTINF:-1 tvg-id="" tvg-name="Mercan Tv" tvg-logo="https://pbs.twimg.com/profile_images/764031005623586818/bhPbAb7S_400x400.jpg" group-title="Ulusal",Mercan Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7087
+#EXTINF:-1 tvg-id="" tvg-name="Ordu Altas Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da888" group-title="Ulusal",Ordu Altas Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7086
+#EXTINF:-1 tvg-id="" tvg-name="Tv 52" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8e0" group-title="Ulusal",Tv 52
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7096
+#EXTINF:-1 tvg-id="" tvg-name="Tv A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/LOGO_TVA.svg/1200px-LOGO_TVA.svg.png" group-title="Ulusal",Tv A
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7097
+#EXTINF:-1 tvg-id="" tvg-name="Anadolu Dernek Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da945" group-title="Ulusal",Anadolu Dernek Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/10109
+#EXTINF:-1 tvg-id="" tvg-name="Akit Tv" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/akit_tv_1.png" group-title="Ulusal",Akit Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/8202
+#EXTINF:-1 tvg-id="" tvg-name="Rumeli Tv" tvg-logo="http://www.canliturktv.com/Logolar/rumelitvtr.png" group-title="Ulusal",Rumeli Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7108
+#EXTINF:-1 tvg-id="" tvg-name="Kon Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8d6" group-title="Ulusal",Kon Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7562
+#EXTINF:-1 tvg-id="" tvg-name="Rt Arabic" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/RTArabic.png" group-title="Ulusal",Rt Arabic
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17207
+#EXTINF:-1 tvg-id="" tvg-name="Rt Espanol" tvg-logo="https://i.pinimg.com/originals/2a/6e/9f/2a6e9f29b0938a051614ac929c1a1ce8.jpg" group-title="Ulusal",Rt Espanol
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17208
+#EXTINF:-1 tvg-id="" tvg-name="Sky News Arabia" tvg-logo="https://www.skynewsarabia.com/static/web-rev/img/app-banner/sna_logo_192_20_Pad.png" group-title="Ulusal",Sky News Arabia
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17209
+#EXTINF:-1 tvg-id="" tvg-name="Haber 61 TV" tvg-logo="https://i.hizliresim.com/8zv29a.jpg" group-title="Ulusal",Haber 61 TV
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19561
+#EXTINF:-1 tvg-id="" tvg-name="Dogal Tv" tvg-logo="" group-title="Ulusal",Dogal Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19637
+#EXTINF:-1 tvg-id="" tvg-name="Egetürk Tv" tvg-logo="http://www.canliturktv.com/Logolar/egeturktvtr.png" group-title="Ulusal",Egetürk Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19638
+#EXTINF:-1 tvg-id="" tvg-name="Haberaks" tvg-logo="http://www.canliturktv.com/Logolar/haberakstvtr.png" group-title="Ulusal",Haberaks
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19639
+#EXTINF:-1 tvg-id="" tvg-name="Hilal Tv" tvg-logo="http://www.canliturktv.com/Logolar/hilaltv.png" group-title="Ulusal",Hilal Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19640
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 16" tvg-logo="http://www.canliturktv.com/Logolar/kanal16tr.png" group-title="Ulusal",Kanal 16
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19641
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 43" tvg-logo="" group-title="Ulusal",Kanal 43
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19642
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 5" tvg-logo="http://www.canliturktv.com/Logolar/kanal5tr.png" group-title="Ulusal",Kanal 5
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19643
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 56" tvg-logo="http://www.canliturktv.com/Logolar/kanal56tr.png" group-title="Ulusal",Kanal 56
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19645
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 58" tvg-logo="http://www.canliturktv.com/Logolar/kanal58tr.png" group-title="Ulusal",Kanal 58
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19644
+#EXTINF:-1 tvg-id="" tvg-name="Olay Tv" tvg-logo="http://www.canliturktv.com/Logolar/olaytvtr.png" group-title="Ulusal",Olay Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19646
+#EXTINF:-1 tvg-id="" tvg-name="KANAL68 aksaray" tvg-logo="" group-title="Ulusal",KANAL68 aksaray
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/20397
+#EXTINF:-1 tvg-id="" tvg-name="-------------- | MUZIK | --------------" tvg-logo="https://www.turuncucafepub.com/canlimuzik/wp-content/uploads/2017/05/Music-PNG-Photos.png" group-title="",-------------- | MUZIK | --------------
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6514
+#EXTINF:-1 tvg-id="" tvg-name="beIN Mezzo HD" tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/61/Image/mezzo-50-50.gif" group-title="Muzik",beIN Mezzo HD
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/20394
+#EXTINF:-1 tvg-id="dt.104" tvg-name="Trt Müzik" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da94b" group-title="Muzik",Trt Müzik
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/50
+#EXTINF:-1 tvg-id="" tvg-name="Power Turk Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da824" group-title="Muzik",Power Turk Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/49
+#EXTINF:-1 tvg-id="" tvg-name="Kral Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8ba" group-title="Muzik",Kral Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/48
+#EXTINF:-1 tvg-id="" tvg-name="Kral Pop" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8bc" group-title="Muzik",Kral Pop
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2049
+#EXTINF:-1 tvg-id="" tvg-name="Kral Pop Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8bc" group-title="Muzik",Kral Pop Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7549
+#EXTINF:-1 tvg-id="" tvg-name="Number1 Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8de" group-title="Muzik",Number1 Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7550
+#EXTINF:-1 tvg-id="" tvg-name="Number One" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8de" group-title="Muzik",Number One
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1488
+#EXTINF:-1 tvg-id="" tvg-name="Numberone Turk" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da86e" group-title="Ulusal",Numberone Turk
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/206
+#EXTINF:-1 tvg-id="" tvg-name="Power Tv HD" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da822" group-title="Muzik",Power Tv HD
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7094
+#EXTINF:-1 tvg-id="" tvg-name="Viva Tv" tvg-logo="http://frocus.net/images/logotv/original/viva-turkey.jpg" group-title="Muzik",Viva Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/38
+#EXTINF:-1 tvg-id="" tvg-name="Dreamturk" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7da" group-title="Muzik",Dreamturk
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17195
+#EXTINF:-1 tvg-id="" tvg-name="N1 Damar" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/damar-tv-web-224x126.jpg" group-title="Muzik",N1 Damar
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17204
+#EXTINF:-1 tvg-id="" tvg-name="-------------- | HABER | --------------" tvg-logo="http://c11.incisozluk.com.tr/res/incisozluk/11006/1/509841_oe7bc.png" group-title="",-------------- | HABER | --------------
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6511
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="Trt Haber Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da85e" group-title="Haber",Trt Haber Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/40
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A Haber Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da846" group-title="Haber",A Haber Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/43
+#EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="Haber Turk" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da890" group-title="Haber",Haber Turk
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/34
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="Cnn Turk" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da808" group-title="Haber",Cnn Turk
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/32
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="Ntv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8c2" group-title="Haber",Ntv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/33
+#EXTINF:-1 tvg-id="dt.29" tvg-name="360" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/360HD.png" group-title="Haber",360
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/8205
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg Ht" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da892" group-title="Haber",Bloomberg Ht
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1493
+#EXTINF:-1 tvg-id="" tvg-name="Benguturk" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8dc" group-title="Ulusal",Benguturk
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2360
+#EXTINF:-1 tvg-id="24.tr" tvg-name="Haber 24 Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/5ae96a23cfef0b34db619067" group-title="Haber",Haber 24 Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7546
+#EXTINF:-1 tvg-id="" tvg-name="Tvnet" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8aa" group-title="Ulusal",Tvnet
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17217
+#EXTINF:-1 tvg-id="" tvg-name="Tgrt Haber Tv" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/TGRT_Haber.png" group-title="Haber",Tgrt Haber Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7552
+#EXTINF:-1 tvg-id="" tvg-name="Ulusal Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8d0" group-title="Haber",Ulusal Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7547
+#EXTINF:-1 tvg-id="dt.38" tvg-name="Ulke Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8a8" group-title="Ulusal",Ulke Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/45
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8d8" group-title="Haber",Halk Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/41
+#EXTINF:-1 tvg-id="" tvg-name="Uzay Haber" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da882" group-title="Haber",Uzay Haber
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6517
+#EXTINF:-1 tvg-id="" tvg-name="Tele 1 HD" tvg-logo="http://www.canliturktv.com/Logolar/tele1tr.png" group-title="Haber",Tele 1 HD
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19114
+#EXTINF:-1 tvg-id="" tvg-name="On Tv Haber" tvg-logo="https://www.nairaland.com/attachments/2524375_screenshot20150616at7_50_18pm_png7574a10dd20d2dba781d292811ce377a" group-title="Haber",On Tv Haber
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19601
+#EXTINF:-1 tvg-id="" tvg-name="-------------- | CIZGI FILM | --------------" tvg-logo="https://cdn.pixabay.com/photo/2017/07/07/03/21/child-2480291_960_720.png" group-title="Cocuk",-------------- | CIZGI FILM | --------------
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6513
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="Trt Cocuk" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da85a" group-title="Cocuk",Trt Cocuk
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2110
+#EXTINF:-1 tvg-id="BabyTV.tr" tvg-name="Baby TV HD" tvg-logo="http://www.canliturktv.com/Logolar/babytv.png" group-title="Cocuk",Baby TV HD
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19115
+#EXTINF:-1 tvg-id="MinikaGO.tr" tvg-name="Minika Go" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da840" group-title="Cocuk",Minika Go
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/44
+#EXTINF:-1 tvg-id="" tvg-name="Minika Cocuk" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da842" group-title="Cocuk",Minika Cocuk
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/211
+#EXTINF:-1 tvg-id="" tvg-name="Planet Cocuk Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da91b" group-title="Cocuk",Planet Cocuk Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/85
+#EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-name="Cartoon Network Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7fe" group-title="Cocuk",Cartoon Network Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7559
+#EXTINF:-1 tvg-id="" tvg-name="D-smart Boomerang Cocuk" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da902" group-title="Cocuk",D-smart Boomerang Cocuk
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2064
+#EXTINF:-1 tvg-id="" tvg-name="D-smart Smart Cocuk" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f972f5cfef0b75f4723f9d" group-title="Cocuk",D-smart Smart Cocuk
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2067
+#EXTINF:-1 tvg-id="DisneyChannel.tr" tvg-name="Disney Channel" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da927" group-title="Cocuk",Disney Channel
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2102
+#EXTINF:-1 tvg-id="dt.163" tvg-name="Planet Çocuk" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da91b" group-title="Ulusal",Planet Çocuk
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2047
+#EXTINF:-1 tvg-id="" tvg-name="Kidz Animez" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/kidz_animez.png" group-title="Cocuk",Kidz Animez
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17201
+#EXTINF:-1 tvg-id="" tvg-name="BabyFirst Tv" tvg-logo="http://www.canliturktv.com/Logolar/babyfirsttv.png" group-title="Cocuk",BabyFirst Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19876
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. Hd" tvg-logo="http://www.canliturktv.com/Logolar/nickjrhd.png" group-title="Cocuk",Nick Jr. Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19877
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Hd" tvg-logo="http://www.canliturktv.com/Logolar/nickelodeon.png" group-title="Cocuk",Nickelodeon Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19878
+#EXTINF:-1 tvg-id="" tvg-name="Cine + HD Animasyon 1" tvg-logo="http://panelcccam.com/images/animasyon.png" group-title="Cocuk",Cine + HD Animasyon 1
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/8173
+#EXTINF:-1 tvg-id="" tvg-name="Cine + HD Animasyon 2" tvg-logo="http://panelcccam.com/images/animasyon.png" group-title="Cocuk",Cine + HD Animasyon 2
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/8172
+#EXTINF:-1 tvg-id="" tvg-name="Cine + HD Animasyon 3" tvg-logo="http://panelcccam.com/images/animasyon.png" group-title="Cocuk",Cine + HD Animasyon 3
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/8171
+#EXTINF:-1 , --BELGESEL--
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6512
+#EXTINF:-1 tvg-id="Discovery.tr" tvg-name="D-smart Discovery Channel Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8e2" group-title="Belgesel",D-smart Discovery Channel Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/184
+#EXTINF:-1 tvg-id="" tvg-name="D-smart Animal Planet" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8e4" group-title="Belgesel",D-smart Animal Planet
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/292
+#EXTINF:-1 tvg-id="" tvg-name="D-smart Bbc Earth Hd" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/bbc_earth.png" group-title="Belgesel",D-smart Bbc Earth Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1287
+#EXTINF:-1 tvg-id="" tvg-name="D-smart National Geographic Wild Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da858" group-title="Belgesel",D-smart National Geographic Wild Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/169
+#EXTINF:-1 tvg-id="" tvg-name="D-smart History HD" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/history_hd.png" group-title="Belgesel",D-smart History HD
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/8578
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu History Channel HD" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/history_hd.png" group-title="Belgesel",Tivibu History Channel HD
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/8579
+#EXTINF:-1 tvg-id="" tvg-name="Tivibu Dtx" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/dtx_hd.png" group-title="Belgesel",Tivibu Dtx
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6096
+#EXTINF:-1 tvg-id="" tvg-name="Bein Id Xtra Europe Hd" tvg-logo="http://www.csimagazine.com/csi/images/IDXtraHDBlack.png" group-title="Belgesel",Bein Id Xtra Europe Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17566
+#EXTINF:-1 tvg-id="" tvg-name="D-Smart Viasat history Hd" tvg-logo="http://www.filbox.com.tr/content/img/bulk/channel/105.jpg" group-title="Belgesel",D-Smart Viasat history Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/178
+#EXTINF:-1 tvg-id="dt.318" tvg-name="Bein Iz Hd" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/iztv_hd.png" group-title="Belgesel",Bein Iz Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/212
+#EXTINF:-1 tvg-id="" tvg-name="Bein Nat Geo People Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da84c" group-title="Belgesel",Bein Nat Geo People Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17220
+#EXTINF:-1 tvg-id="NATGEOGRAPHIC.tr" tvg-name="National Geographic Hd" tvg-logo="http://kimkurdu.com/wp-content/uploads/2014/03/2000px-Natgeologo.svg_.png" group-title="Belgesel",National Geographic Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2073
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="Trt Belgesel" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trt_belgesel1_250x150.png" group-title="Belgesel",Trt Belgesel
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/210
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="Trt Belgesel Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da862" group-title="Belgesel",Trt Belgesel Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/147
+#EXTINF:-1 tvg-id="" tvg-name="Makine Tv" tvg-logo="http://www.canliturktv.com/Logolar/makinetvtr.png" group-title="Belgesel",Makine Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7107
+#EXTINF:-1 tvg-id="" tvg-name="Ciftci Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da941" group-title="Belgesel",Ciftci Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/10110
+#EXTINF:-1 tvg-id="" tvg-name="Yaban Tv" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da931" group-title="Belgesel",Yaban Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/90
+#EXTINF:-1 tvg-id="dt.381" tvg-name="Dmax" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/5aafb832cfef0b3207efbcd6" group-title="Belgesel",Dmax
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/59
+#EXTINF:-1 tvg-id="" tvg-name="24 Kitchen Hd" tvg-logo="http://www.canliturktv.com/Logolar/24kitchenhd.png" group-title="Belgesel",24 Kitchen Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19548
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="http://www.canliturktv.com/Logolar/discoveryscience.png" group-title="Belgesel",Discovery Science HD
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19874
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel" tvg-logo="http://www.canliturktv.com/Logolar/outdoorchannelhd.png" group-title="Belgesel",Outdoor Channel
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19875
+#EXTINF:-1 tvg-id="" tvg-name="-------------- | DINI KANALLAR | --------------" tvg-logo="http://1.bp.blogspot.com/-mrszbt4jzc8/UkrW8tYup4I/AAAAAAAAEfQ/hAQSz0FCqA8/s1600/png_dini_resimler_forumgazel+(22).png" group-title="",-------------- | DINI KANALLAR | --------------
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7537
+#EXTINF:-1 tvg-id="" tvg-name="Semerkand Tv Hd" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/semerkand_hd.png" group-title="Ulusal",Semerkand Tv Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7543
+#EXTINF:-1 tvg-id="" tvg-name="Semerkand Hd" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/semerkand_hd.png" group-title="Ulusal",Semerkand Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/175
+#EXTINF:-1 , ---UHD---
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6515
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Trt1 Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da85c" group-title="Ultra HD",Ulthd | Trt1 Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2503
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Trt World Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da864" group-title="Ultra HD",Ulthd | Trt World Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2502
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Trt Spor Hd" tvg-logo="http://www.canliturktv.com/Logolar/trtsporhd.png" group-title="Ultra HD",Ulthd | Trt Spor Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2501
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Kanal D Hd" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/kanald_250x150.png" group-title="Ultra HD",Ulthd | Kanal D Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2486
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Star Tv Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8be" group-title="Ultra HD",Ulthd | Star Tv Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2499
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Show Tv Hd" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png" group-title="Ultra HD",Ulthd | Show Tv Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2498
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Atv Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da844" group-title="Ultra HD",Ulthd | Atv Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2466
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Fox Hd" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Fox34.png" group-title="Ultra HD",Ulthd | Fox Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2480
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Tv8 Hd" tvg-logo="https://i.pinimg.com/originals/6e/f8/a2/6ef8a29fbf8561c379b00d85afa9010f.png" group-title="Ultra HD",Ulthd | Tv8 Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2504
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Teve2 Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da80a" group-title="Ultra HD",Ulthd | Teve2 Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2500
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Beyaz Tv Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da878" group-title="Ultra HD",Ulthd | Beyaz Tv Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2468
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Ulke Tv Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8a8" group-title="Ultra HD",Ulthd | Ulke Tv Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2467
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Kanal 7 Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8a6" group-title="Ultra HD",Ulthd | Kanal 7 Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2484
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | A Spor Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/591d9004d6f43975c9cf23bf" group-title="Ultra HD",Ulthd | A Spor Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2465
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | A Haber Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da846" group-title="Ultra HD",Ulthd | A Haber Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2464
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Dmax Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/5aafb832cfef0b3207efbcd6" group-title="Ultra HD",Ulthd | Dmax Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2492
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Ntv Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8c2" group-title="Ultra HD",Ulthd | Ntv Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2491
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Haberturk Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da890" group-title="Ultra HD",Ulthd | Haberturk Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2483
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Power Tv Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da822" group-title="Ultra HD",Ulthd | Power Tv Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2496
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Power Turk Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da824" group-title="Ultra HD",Ulthd | Power Turk Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2495
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Number1 Tv Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8de" group-title="Ultra HD",Ulthd | Number1 Tv Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2494
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Number1 Turk Hd" tvg-logo="http://www.canliturktv.com/Logolar/number1trtvturk.png" group-title="Ultra HD",Ulthd | Number1 Turk Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2493
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Lifeplus" tvg-logo="https://pbs.twimg.com/profile_images/852499743745900544/TgbIi5vr.jpg" group-title="Ultra HD",Ulthd | Lifeplus
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2487
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Semerkand Hd" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/semerkand_hd.png" group-title="Ultra HD",Ulthd | Semerkand Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2497
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Tvnet Hd" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8aa" group-title="Ultra HD",Ulthd | Tvnet Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2505
+#EXTINF:-1 tvg-id="" tvg-name="Ulthd | Fashionbox Hd" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/fashionboxhd-logo.png" group-title="Ultra HD",Ulthd | Fashionbox Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2474
+#EXTINF:-1 , --- Pazartesi dizileri ---
+#EXTINF:-1 tvg-id="" tvg-name="Çukur 48 Bolum" tvg-logo="http://redo1.com:8080/images/rB2TlH4QTbhJDG6KzhWiRamSYfL_small.jpg" group-title="Pazartesi Dizileri",Çukur 48 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Söz 65 Bolum" tvg-logo="http://redo1.com:8080/images/xKCGIcvJy5YzQPUqQ06Kmf8dymg_small.jpg" group-title="Pazartesi Dizileri",Söz 65 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yasak Elma 28 Bolum" tvg-logo="http://redo1.com:8080/images/2OfYFJu0cNdFN9BaSwPOKcFiZAd_small.jpg" group-title="Pazartesi Dizileri",Yasak Elma 28 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ege'nin Hamsisi 22 Bolum" tvg-logo="http://redo1.com:8080/images/dJh0oSSFdx7vus7rproOZmfghyR_small.jpg" group-title="Pazartesi Dizileri",Ege'nin Hamsisi 22 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="----------| Sali Dizileri |----------" tvg-logo="https://i.hizliresim.com/EDVOpB.png" group-title="",----------| Sali Dizileri |----------
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/20748
+#EXTINF:-1 tvg-id="" tvg-name="Eskiya Dünyaya Hükümdar Olmaz 121 Bolum" tvg-logo="http://redo1.com:8080/images/xNCdkFv3PIQxS67I1t4LDHTizKD_small.jpg" group-title="Sali Dizileri",Eskiya Dünyaya Hükümdar Olmaz 121 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kadin 45 Bolum" tvg-logo="http://redo1.com:8080/images/6zfJPMwqsA5Roi5JCN7MZQRbykW_small.jpg" group-title="Sali Dizileri",Kadin 45 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mehmetçik Kutlu Zafer 27 Bolum" tvg-logo="http://redo1.com:8080/images/8DdZHf7mKcUT3u1YIAkYZ5X856C_small.jpg" group-title="Sali Dizileri",Mehmetçik Kutlu Zafer 27 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="-----| Carsamba Dizileri |-----" tvg-logo="https://i.hizliresim.com/EDVOpB.png" group-title="",-----| Carsamba Dizileri |-----
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/20749
+#EXTINF:-1 tvg-id="" tvg-name="Dirilis: Ertugrul 129 Bolum" tvg-logo="http://redo1.com:8080/images/c1L2Na6XgLZi9hxt5SGKr6y1xW_small.jpg" group-title="Çarsamba Dizileri",Dirilis: Ertugrul 129 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sen Anlat Karadeniz 36 Bolum" tvg-logo="http://redo1.com:8080/images/zUZddiVGl3EFm3mnoi9fnoKjr9D_small.jpg" group-title="Çarsamba Dizileri",Sen Anlat Karadeniz 36 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Çocuklar Duymasin 63 Bolum" tvg-logo="http://redo1.com:8080/images/zpFGNFnPzwPcp61rm5e3Q0vdfAU_small.jpg" group-title="Çarsamba Dizileri",Çocuklar Duymasin 63 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jet Sosyete 26 Bolum" tvg-logo="http://redo1.com:8080/images/aNaQzTrPWFeJV89na2G1mXuleHO_small.jpg" group-title="Çarsamba Dizileri",Jet Sosyete 26 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="-----| Persembe Dizileri |-----" tvg-logo="https://i.hizliresim.com/EDVOpB.png" group-title="",-----| Persembe Dizileri |-----
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/20750
+#EXTINF:-1 tvg-id="" tvg-name="Avlu 25 Bolum" tvg-logo="http://redo1.com:8080/images/5IMRB3qgLawUOboRtMWozHpuxd0_small.jpg" group-title="Persembe Dizileri",Avlu 25 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/21197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Çarpisma 5 Bolum" tvg-logo="http://redo1.com:8080/images/tWswseb6DclZsS66SN1UuOeYLd8_small.jpg" group-title="Persembe Dizileri",Çarpisma 5 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/21198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bir Zamanlar Çukurova 15 Bolum" tvg-logo="http://media.sinematurk.com/film/7/cb/7645e24a8af1/4q.jpg" group-title="Persembe Dizileri",Bir Zamanlar Çukurova 15 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/21194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bizim Hikaye 52 Bolum" tvg-logo="http://redo1.com:8080/images/ntRF0u3B8cTBAXpBFnU1J8S7Fux_small.jpg" group-title="Persembe Dizileri",Bizim Hikaye 52 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/21195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Muhtesem ikili 8 Bolum" tvg-logo="http://redo1.com:8080/images/794Xeerb0u0uKjhZUTBhDWhqyR7_small.jpg" group-title="Persembe Dizileri",Muhtesem ikili 8 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/21196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="-----| Cuma Dizileri |-----" tvg-logo="https://i.hizliresim.com/EDVOpB.png" group-title="",-----| Cuma Dizileri |-----
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/20751
+#EXTINF:-1 tvg-id="" tvg-name="Arka Sokaklar 500 Bolum" tvg-logo="http://redo1.com:8080/images/kyn9sPw3TyqKQLsDo09MthIO5le_small.jpg" group-title="Cuma Dizileri",Arka Sokaklar 500 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/21576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gülperi 15 Bolum" tvg-logo="http://redo1.com:8080/images/f9nPexi8eDaiEL5jaSyTHE60DmN_small.jpg" group-title="Cuma Dizileri",Gülperi 15 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/21577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Istanbullu Gelin 67 Bolum" tvg-logo="http://redo1.com:8080/images/dbo1x2RNajuc5md0D8ZUowXIbIF_small.jpg" group-title="Cuma Dizileri",Istanbullu Gelin 67 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/21581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kizim 14 Bolum" tvg-logo="http://redo1.com:8080/images/qPGGm2LORCDNGrGubb3R8pwwbIN_small.jpg" group-title="Cuma Dizileri",Kizim 14 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/21578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Payitaht Abdülhamid 66 Bolum" tvg-logo="http://redo1.com:8080/images/1AbSh5qcxzsrBTsiIixASOzdHh8_small.jpg" group-title="Cuma Dizileri",Payitaht Abdülhamid 66 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/21579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sahin Tepesi 5 Bolum" tvg-logo="http://redo1.com:8080/images/i8d2whwtkFsy6Rwzl2tHifRFzRu_small.jpg" group-title="Cuma Dizileri",Sahin Tepesi 5 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/21580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="-----| Cumartesi Dizileri |-----" tvg-logo="https://i.hizliresim.com/EDVOpB.png" group-title="",-----| Cumartesi Dizileri |-----
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/20752
+#EXTINF:-1 tvg-id="" tvg-name="Erkenci Kus 25 Bolum" tvg-logo="http://redo1.com:8080/images/q3W3WBoprwN4Nru8BQAOTlN0CIO_small.jpg" group-title="Cumartesi Dizileri",Erkenci Kus 25 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/22110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ikizler Memo - Can 9 Bolum" tvg-logo="http://redo1.com:8080/images/hI1ykG4iKGfr59mxWWtCA6J2E2G_small.jpg" group-title="Cumartesi Dizileri",Ikizler Memo - Can 9 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/22111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kalk Gidelim 50 Bolum" tvg-logo="http://redo1.com:8080/images/qzVLSiULwwNzcJ33VwuTCL0KjmG_small.jpg" group-title="Cumartesi Dizileri",Kalk Gidelim 50 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/22112.mp4
+#EXTINF:-1 , -----| Pazar Dizileri |-----
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/20753
+#EXTINF:-1 tvg-id="" tvg-name="Aglama Anne 12 Bolum" tvg-logo="http://redo1.com:8080/images/lRGqePRuZ8u7QHIgR1tu2fvRDom_small.jpg" group-title="Pazar Dizileri",Aglama Anne 12 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/22860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bir Litre Gözyasi 12 Bolum" tvg-logo="http://redo1.com:8080/images/ahK6bglLCME6bJemXf0WNXlC7pF_small.jpg" group-title="Pazar Dizileri",Bir Litre Gözyasi 12 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/22861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elimi Birakma 22 Bolum" tvg-logo="http://redo1.com:8080/images/JKHbiOZY9lPiUc00MJfQZIUJG1_small.jpg" group-title="Pazar Dizileri",Elimi Birakma 22 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/22862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Savasçi 59 Bolum" tvg-logo="http://redo1.com:8080/images/aaDBEgk1serIZT4dxW4oYbZd38r_small.jpg" group-title="Pazar Dizileri",Savasçi 59 Bolum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/22863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="-------------- | RADYO | --------------" tvg-logo="https://tesislerimiz.ibb.istanbul/wp-content/uploads/2015/12/radio-300x363.png" group-title="Radio",-------------- | RADYO | --------------
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6989
+#EXTINF:-1 tvg-id="" tvg-name="Pal Doga" tvg-logo="" group-title="Radio",Pal Doga
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6985
+#EXTINF:-1 tvg-id="" tvg-name="Pal Fm" tvg-logo="" group-title="Radio",Pal Fm
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6986
+#EXTINF:-1 tvg-id="" tvg-name="Pal Nostalji" tvg-logo="" group-title="Radio",Pal Nostalji
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6987
+#EXTINF:-1 tvg-id="" tvg-name="Pal Orient" tvg-logo="" group-title="Radio",Pal Orient
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6984
+#EXTINF:-1 tvg-id="" tvg-name="Pal Station Hit" tvg-logo="" group-title="Radio",Pal Station Hit
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6988
+#EXTINF:-1 tvg-id="" tvg-name="A Haber Radyo" tvg-logo="" group-title="Radio",A Haber Radyo
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7005
+#EXTINF:-1 tvg-id="" tvg-name="Damar FM" tvg-logo="" group-title="Radio",Damar FM
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6999
+#EXTINF:-1 tvg-id="" tvg-name="Joy FM" tvg-logo="" group-title="Radio",Joy FM
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7003
+#EXTINF:-1 tvg-id="" tvg-name="Joy Turk" tvg-logo="" group-title="Radio",Joy Turk
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6998
+#EXTINF:-1 tvg-id="" tvg-name="Slow Turk" tvg-logo="" group-title="Radio",Slow Turk
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7016
+#EXTINF:-1 tvg-id="" tvg-name="Lig Radyo" tvg-logo="" group-title="Radio",Lig Radyo
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7008
+#EXTINF:-1 tvg-id="" tvg-name="Metro FM" tvg-logo="" group-title="Radio",Metro FM
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7002
+#EXTINF:-1 tvg-id="" tvg-name="Ntv Spor Radyo" tvg-logo="" group-title="Radio",Ntv Spor Radyo
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7006
+#EXTINF:-1 tvg-id="" tvg-name="Power FM" tvg-logo="" group-title="Radio",Power FM
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7000
+#EXTINF:-1 tvg-id="" tvg-name="Power Turk" tvg-logo="" group-title="Radio",Power Turk
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6994
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Alaturka" tvg-logo="" group-title="Radio",Radyo Alaturka
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6997
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Mydonese" tvg-logo="" group-title="Radio",Radyo Mydonese
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7001
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Seymen" tvg-logo="" group-title="Radio",Radyo Seymen
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6992
+#EXTINF:-1 tvg-id="" tvg-name="Can Radyo" tvg-logo="" group-title="Radio",Can Radyo
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7010
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Spor" tvg-logo="" group-title="Radio",Radyo Spor
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7007
+#EXTINF:-1 tvg-id="" tvg-name="Radyo7 Turku" tvg-logo="" group-title="Radio",Radyo7 Turku
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7009
+#EXTINF:-1 tvg-id="" tvg-name="Super FM" tvg-logo="" group-title="Radio",Super FM
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6995
+#EXTINF:-1 tvg-id="" tvg-name="Trt FM" tvg-logo="" group-title="Radio",Trt FM
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/6996
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Radyo" tvg-logo="" group-title="Radio",Virgin Radyo
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7004
+#EXTINF:-1 tvg-id="" tvg-name="Karadeniz FM" tvg-logo="" group-title="Radio",Karadeniz FM
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7014
+#EXTINF:-1 tvg-id="" tvg-name="Radyo Fenomen" tvg-logo="" group-title="Radio",Radyo Fenomen
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7013
+#EXTINF:-1 tvg-id="" tvg-name="Kral Fm" tvg-logo="" group-title="Radio",Kral Fm
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7015
+#EXTINF:-1 tvg-id="" tvg-name="-------------- | GERMANY | --------------" tvg-logo="https://cdn.countryflags.com/thumbs/germany/flag-3d-round-250.png" group-title="",-------------- | GERMANY | --------------
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/324
+#EXTINF:-1 tvg-id="" tvg-name="Sat HD 1" tvg-logo="http://www.canliturktv.com/de/Sat1.de.png" group-title="Germany",Sat HD 1
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1554
+#EXTINF:-1 tvg-id="" tvg-name="Sat 1 Nrw" tvg-logo="http://www.canliturktv.com/de/Sky1.de.png" group-title="Germany",Sat 1 Nrw
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2092
+#EXTINF:-1 tvg-id="" tvg-name="Sat 1 Gold" tvg-logo="http://www.canliturktv.com/de/Sat1Gold.de.png" group-title="Germany",Sat 1 Gold
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2093
+#EXTINF:-1 tvg-id="" tvg-name="Rtl Television" tvg-logo="http://www.canliturktv.com/de/RTL.de.png" group-title="Germany",Rtl Television
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2096
+#EXTINF:-1 tvg-id="" tvg-name="Rtl Plus" tvg-logo="http://www.canliturktv.com/de/RTLPlus.de.png" group-title="Germany",Rtl Plus
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2095
+#EXTINF:-1 tvg-id="" tvg-name="Rtl Hd" tvg-logo="http://www.canliturktv.com/de/RTL.de.png" group-title="Germany",Rtl Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1530
+#EXTINF:-1 tvg-id="" tvg-name="Rtl Hd 2" tvg-logo="http://www.canliturktv.com/de/RTL2.de.png" group-title="Germany",Rtl Hd 2
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1580
+#EXTINF:-1 tvg-id="" tvg-name="RTL Nitro" tvg-logo="http://www.canliturktv.com/de/RTLNitro.de.png" group-title="Germany",RTL Nitro
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1568
+#EXTINF:-1 tvg-id="RTL Living" tvg-name="RTL Living" tvg-logo="http://www.canliturktv.com/de/RTLLiving.de.png" group-title="Germany",RTL Living
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1552
+#EXTINF:-1 tvg-id="RTL Crime HD" tvg-name="Rtl Crime Hd" tvg-logo="http://www.canliturktv.com/de/RTLCrime.de.png" group-title="Germany",Rtl Crime Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1551
+#EXTINF:-1 tvg-id="RTL Passion" tvg-name="Rtl Passion" tvg-logo="http://www.canliturktv.com/de/RTLPassion.de.png" group-title="Germany",Rtl Passion
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1848
+#EXTINF:-1 tvg-id="" tvg-name="Rtl Ii Hd" tvg-logo="http://www.canliturktv.com/de/RTL2.de.png" group-title="Germany",Rtl Ii Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1847
+#EXTINF:-1 tvg-id="" tvg-name="Super RTL" tvg-logo="http://www.canliturktv.com/de/SuperRTL.de.png" group-title="Germany",Super RTL
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1553
+#EXTINF:-1 tvg-id="" tvg-name="Zdf Hd" tvg-logo="http://www.canliturktv.com/de/ZDF.de.png" group-title="Germany",Zdf Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/227
+#EXTINF:-1 tvg-id="" tvg-name="Zdf Neo" tvg-logo="http://www.canliturktv.com/de/ZDFneo.de.png" group-title="Germany",Zdf Neo
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2089
+#EXTINF:-1 tvg-id="" tvg-name="Zdf Info" tvg-logo="http://www.canliturktv.com/de/ZDFinfo.de.png" group-title="Germany",Zdf Info
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2090
+#EXTINF:-1 tvg-id="" tvg-name="Ndr Hd" tvg-logo="http://www.canliturktv.com/de/ndr.de.png" group-title="Germany",Ndr Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1548
+#EXTINF:-1 tvg-id="" tvg-name="Arte / Ard" tvg-logo="http://www.canliturktv.com/de/ARD.de.png" group-title="Germany",Arte / Ard
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2088
+#EXTINF:-1 tvg-id="" tvg-name="Wdr" tvg-logo="http://www.canliturktv.com/de/WDR.de.png" group-title="Germany",Wdr
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1505
+#EXTINF:-1 tvg-id="" tvg-name="Wdr Hd" tvg-logo="http://www.canliturktv.com/de/WDR.de.png" group-title="Germany",Wdr Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2402
+#EXTINF:-1 tvg-id="" tvg-name="Mdr Hd" tvg-logo="https://i.hizliresim.com/yqRlzN.png" group-title="Germany",Mdr Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/17567
+#EXTINF:-1 tvg-id="" tvg-name="Pro 7 Hd" tvg-logo="http://www.canliturktv.com/de/Pro7.de.png" group-title="Germany",Pro 7 Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1536
+#EXTINF:-1 tvg-id="" tvg-name="Pro7 Maxx" tvg-logo="http://www.canliturktv.com/de/Pro7.de.png" group-title="Germany",Pro7 Maxx
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1550
+#EXTINF:-1 tvg-id="" tvg-name="ProSieben" tvg-logo="http://www.canliturktv.com/de/ProSiebenFun.de.png" group-title="Germany",ProSieben
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2097
+#EXTINF:-1 tvg-id="Fox HD" tvg-name="Fox Hd" tvg-logo="http://www.canliturktv.com/de/Fox.de.png" group-title="Germany",Fox Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/205
+#EXTINF:-1 tvg-id="Fox HD" tvg-name="Fox Serie" tvg-logo="http://www.canliturktv.com/de/Fox.de.png" group-title="Germany",Fox Serie
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2076
+#EXTINF:-1 tvg-id="" tvg-name="Orf Hd 1" tvg-logo="http://www.canliturktv.com/Logolar/orf1hd.png" group-title="Germany",Orf Hd 1
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1322
+#EXTINF:-1 tvg-id="" tvg-name="Orf 2" tvg-logo="http://www.canliturktv.com/Logolar/orf2hd.png" group-title="Germany",Orf 2
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/286
+#EXTINF:-1 tvg-id="" tvg-name="Vox" tvg-logo="http://www.canliturktv.com/de/Vox.de.png" group-title="Germany",Vox
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/239
+#EXTINF:-1 tvg-id="" tvg-name="Vox Hd" tvg-logo="http://www.canliturktv.com/de/Vox.de.png" group-title="Germany",Vox Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1572
+#EXTINF:-1 tvg-id="" tvg-name="Ard HD" tvg-logo="http://www.canliturktv.com/de/ARD.de.png" group-title="Germany",Ard HD
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1577
+#EXTINF:-1 tvg-id="Syfy HD" tvg-name="Syfy HD" tvg-logo="http://www.canliturktv.com/de/Syfy.de.png" group-title="Germany",Syfy HD
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1583
+#EXTINF:-1 tvg-id="" tvg-name="Axn Hd" tvg-logo="http://www.canliturktv.com/de/AXN.de.png" group-title="Germany",Axn Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1547
+#EXTINF:-1 tvg-id="" tvg-name="N-tv" tvg-logo="http://www.canliturktv.com/de/ntv.de.png" group-title="Germany",N-tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19623
+#EXTINF:-1 tvg-id="" tvg-name="Phoenix" tvg-logo="http://www.canliturktv.com/de/Phoenix.de.png" group-title="Germany",Phoenix
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19622
+#EXTINF:-1 tvg-id="" tvg-name="N24" tvg-logo="http://www.canliturktv.com/de/n24.de.png" group-title="Germany",N24
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2098
+#EXTINF:-1 tvg-id="" tvg-name="Kabel 1 clasik" tvg-logo="http://www.canliturktv.com/Logolar/kabeleinsclassicshd.png" group-title="Germany",Kabel 1 clasik
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/9101
+#EXTINF:-1 tvg-id="" tvg-name="Kabel 1 doku" tvg-logo="http://www.canliturktv.com/Logolar/kabeleinsatdoku.png" group-title="Germany",Kabel 1 doku
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/9100
+#EXTINF:-1 tvg-id="" tvg-name="Kabel 1 hd" tvg-logo="http://www.canliturktv.com/Logolar/kabeleinshd.png" group-title="Germany",Kabel 1 hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/9099
+#EXTINF:-1 tvg-id="" tvg-name="Servus TV" tvg-logo="http://www.canliturktv.com/Logolar/servustv.png" group-title="Germany",Servus TV
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7098
+#EXTINF:-1 tvg-id="Romance TV" tvg-name="Romance Tv" tvg-logo="http://www.canliturktv.com/de/Romance.de.png" group-title="Germany",Romance Tv
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/288
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://www.canliturktv.com/Logolar/tlc.png" group-title="Germany",TLC
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1555
+#EXTINF:-1 tvg-id="" tvg-name="3 Sat Hd" tvg-logo="http://www.canliturktv.com/Logolar/3satdehd.png" group-title="Germany",3 Sat Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7533
+#EXTINF:-1 tvg-id="13th Street HD" tvg-name="13th Street HD" tvg-logo="http://www.canliturktv.com/de/13thStreet.de.png" group-title="Germany",13th Street HD
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1569
+#EXTINF:-1 tvg-id="" tvg-name="Sixx" tvg-logo="http://www.canliturktv.com/de/sixx.de.png" group-title="Germany",Sixx
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1571
+#EXTINF:-1 tvg-id="" tvg-name="N24." tvg-logo="http://www.canliturktv.com/de/n24.de.png" group-title="Germany",N24.
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1845
+#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="Sky Cinema HD" tvg-logo="http://www.canliturktv.com/de/SkyCinema.de.png" group-title="Germany",Sky Cinema HD
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1844
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="Sky Cinema+24" tvg-logo="http://www.canliturktv.com/de/SkyCinemaPlus24.de.png" group-title="Germany",Sky Cinema+24
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1309
+#EXTINF:-1 tvg-id="SkyAtlanticHD.de" tvg-name="Sky Atlantic Hd" tvg-logo="http://www.canliturktv.com/de/SkyAtlantic.de.png" group-title="Germany",Sky Atlantic Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1557
+#EXTINF:-1 tvg-id="Sky Krimi" tvg-name="Sky Krimi" tvg-logo="http://www.canliturktv.com/de/SkyKrimi.de.png" group-title="Germany",Sky Krimi
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1566
+#EXTINF:-1 tvg-id="SkyCinemaPlus1.de" tvg-name="Sky Cinema+1" tvg-logo="http://www.canliturktv.com/de/SkyCinemaPlus1.de.png" group-title="Germany",Sky Cinema+1
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1563
+#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="Sky Cinema HD." tvg-logo="http://www.canliturktv.com/de/SkyCinema.de.png" group-title="Germany",Sky Cinema HD.
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1559
+#EXTINF:-1 tvg-id="SkyComedy.de" tvg-name="Sky Cinema Comedy" tvg-logo="http://www.canliturktv.com/de/SkyComedy.de.png" group-title="Germany",Sky Cinema Comedy
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1560
+#EXTINF:-1 tvg-id="SkyNostalgie.de" tvg-name="Sky Nostalgie" tvg-logo="http://www.canliturktv.com/de/SkyNostalgie.de.png" group-title="Germany",Sky Nostalgie
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/289
+#EXTINF:-1 tvg-id="SkyCinemaHits.de" tvg-name="Sky Hits" tvg-logo="http://www.canliturktv.com/de/SkyHits.de.png" group-title="Germany",Sky Hits
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1565
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky Cinema Action HD." tvg-logo="http://www.canliturktv.com/de/SkyAction.de.png" group-title="Germany",Sky Cinema Action HD.
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1558
+#EXTINF:-1 tvg-id="SkyEmotion.de" tvg-name="Sky Emotion" tvg-logo="http://www.canliturktv.com/de/SkyEmotion.de.png" group-title="Germany",Sky Emotion
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1513
+#EXTINF:-1 tvg-id="TNT Serie HD" tvg-name="Tnt Serie Hd" tvg-logo="http://www.canliturktv.com/de/TNTSerie.de.png" group-title="Germany",Tnt Serie Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1846
+#EXTINF:-1 tvg-id="TNT Serie HD" tvg-name="TNT Serie HD." tvg-logo="http://www.canliturktv.com/de/TNTSerie.de.png" group-title="Germany",TNT Serie HD.
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1842
+#EXTINF:-1 tvg-id="" tvg-name="Tnt Film Hd" tvg-logo="http://www.canliturktv.com/de/TNTFilm.de.png" group-title="Germany",Tnt Film Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1843
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky Action HD" tvg-logo="http://www.canliturktv.com/de/SkyAction.de.png" group-title="Germany",Sky Action HD
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1579
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select Hd 1" tvg-logo="http://www.canliturktv.com/de/SkySelect1.de.png" group-title="Germany",Sky Select Hd 1
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/155
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select Hd 2" tvg-logo="http://www.canliturktv.com/de/SkySelect2.de.png" group-title="Germany",Sky Select Hd 2
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/287
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select Hd 3" tvg-logo="http://www.canliturktv.com/de/SkySelect3.de.png" group-title="Germany",Sky Select Hd 3
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/154
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select Hd 4" tvg-logo="http://www.canliturktv.com/de/SkySelect4.de.png" group-title="Germany",Sky Select Hd 4
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/226
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 5" tvg-logo="http://www.canliturktv.com/de/SkySelect5.de.png" group-title="Germany",Sky Select HD 5
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1701
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 6" tvg-logo="http://www.canliturktv.com/de/SkySelect6.de.png" group-title="Germany",Sky Select HD 6
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1702
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 7" tvg-logo="http://www.canliturktv.com/de/SkySelect7.de.png" group-title="Germany",Sky Select HD 7
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1703
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select HD 8" tvg-logo="http://www.canliturktv.com/de/SkySelect8.de.png" group-title="Germany",Sky Select HD 8
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1704
+#EXTINF:-1 tvg-id="Disney Cinemagic HD" tvg-name="Disney Cinemagic HD" tvg-logo="http://www.canliturktv.com/de/DisneyCinemagic.de.png" group-title="Germany",Disney Cinemagic HD
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2087
+#EXTINF:-1 tvg-id="" tvg-name="Kika" tvg-logo="http://www.canliturktv.com/de/Kika.de.png" group-title="Germany",Kika
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1546
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="http://www.canliturktv.com/de/DisneyJunior.de.png" group-title="Germany",Disney Junior
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1576
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel." tvg-logo="http://www.canliturktv.com/de/DisneyChannel.de.png" group-title="Germany",Disney Channel.
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/189
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="http://www.canliturktv.com/de/NickJr.de.png" group-title="Germany",Nick Jr
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1573
+#EXTINF:-1 tvg-id="DisneyXD.de" tvg-name="Disney XD" tvg-logo="http://www.canliturktv.com/de/DisneyXD.de.png" group-title="Germany",Disney XD
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1575
+#EXTINF:-1 tvg-id="" tvg-name="Heimat Kanal" tvg-logo="http://www.canliturktv.com/de/Heimatkanal.de.png" group-title="Germany",Heimat Kanal
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1849
+#EXTINF:-1 tvg-id="" tvg-name="D Max" tvg-logo="http://www.canliturktv.com/de/DMax.de.png" group-title="Germany",D Max
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/284
+#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel Hd" tvg-logo="http://www.canliturktv.com/de/DiscoveryChannel.de.png" group-title="Germany",Discovery Channel Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2365
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="Sky Natgeo Wild Hd" tvg-logo="http://www.canliturktv.com/de/NatGeoWild.de.png" group-title="Germany",Sky Natgeo Wild Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1851
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="http://www.canliturktv.com/Logolar/nationalgeographichd.png" group-title="Germany",National Geographic
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1578
+#EXTINF:-1 tvg-id="HistoryHD.de" tvg-name="History Channel Hd" tvg-logo="http://www.canliturktv.com/de/History.de.png" group-title="Germany",History Channel Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1582
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet Hd" tvg-logo="http://www.canliturktv.com/de/AnimalPlanet.de.png" group-title="Germany",Animal Planet Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7534
+#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel" tvg-logo="http://www.canliturktv.com/de/DiscoveryChannel.de.png" group-title="Germany",Discovery Channel
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7535
+#EXTINF:-1 tvg-id="" tvg-name="Srf 1" tvg-logo="http://www.canliturktv.com/Logolar/srf1.png" group-title="Germany",Srf 1
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/188
+#EXTINF:-1 tvg-id="SkySportAustriaHD.de" tvg-name="Sky Sport Austria Hd" tvg-logo="http://www.canliturktv.com/de/SkySport1.de.png" group-title="Germany",Sky Sport Austria Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/186
+#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="Sky Sport News Hd" tvg-logo="http://www.canliturktv.com/de/SkySportNews.de.png" group-title="Germany",Sky Sport News Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/101
+#EXTINF:-1 tvg-id="Sport1US.de" tvg-name="Sport1 Us Hd" tvg-logo="http://www.canliturktv.com/de/Sport1US.de.png" group-title="Germany",Sport1 Us Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/149
+#EXTINF:-1 tvg-id="SPORT1plus.de" tvg-name="Sport1+ Hd" tvg-logo="http://www.canliturktv.com/de/Sport1Plus.de.png" group-title="Germany",Sport1+ Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/150
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 Hd" tvg-logo="http://www.canliturktv.com/de/SkySport1.de.png" group-title="Germany",Sky Sport 1 Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/152
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport Hd 1" tvg-logo="http://www.canliturktv.com/de/SkySport1.de.png" group-title="Germany",Sky Sport Hd 1
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/185
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport Hd 2" tvg-logo="http://www.canliturktv.com/de/SkySport2.de.png" group-title="Germany",Sky Sport Hd 2
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1345
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sport Hd 3" tvg-logo="http://www.canliturktv.com/de/SkySport3.de.png" group-title="Germany",Sky Sport Hd 3
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19615
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="Sky Sport Hd 4" tvg-logo="http://www.canliturktv.com/de/SkySport4.de.png" group-title="Germany",Sky Sport Hd 4
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19614
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport Hd 5" tvg-logo="http://www.canliturktv.com/de/SkySport5.de.png" group-title="Germany",Sky Sport Hd 5
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19613
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="Sky Sport Hd 6" tvg-logo="http://www.canliturktv.com/de/SkySport6.de.png" group-title="Germany",Sky Sport Hd 6
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19612
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="Sky Sport Hd 7" tvg-logo="http://www.canliturktv.com/de/SkySport7.de.png" group-title="Germany",Sky Sport Hd 7
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19611
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="Sky Sport Hd 8" tvg-logo="http://www.canliturktv.com/de/SkySport8.de.png" group-title="Germany",Sky Sport Hd 8
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19610
+#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="Sky Sport Hd 9" tvg-logo="http://www.canliturktv.com/de/SkySport9.de.png" group-title="Germany",Sky Sport Hd 9
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19609
+#EXTINF:-1 tvg-id="SkySport10.de" tvg-name="Sky Sport Hd 10" tvg-logo="http://www.canliturktv.com/de/SkySport10.de.png" group-title="Germany",Sky Sport Hd 10
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19616
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="Sky Bundesliga 1" tvg-logo="http://www.canliturktv.com/de/SkyBundesliga1.de.png" group-title="Germany",Sky Bundesliga 1
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/102
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="Sky Bundesliga HD 1" tvg-logo="http://www.canliturktv.com/de/SkyBundesliga1.de.png" group-title="Germany",Sky Bundesliga HD 1
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2077
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="Sky Bundesliga HD 2" tvg-logo="http://www.canliturktv.com/de/SkyBundesliga2.de.png" group-title="Germany",Sky Bundesliga HD 2
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/2078
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="Sky Bundesliga 2 Hd" tvg-logo="http://www.canliturktv.com/Logolar/skysportbundesliga2hd.png" group-title="Germany",Sky Bundesliga 2 Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/11418
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="Sky Bundesliga 3 Hd !!! Weekend Only !!!" tvg-logo="http://www.canliturktv.com/Logolar/skysportbundesliga3hd.png" group-title="Germany",Sky Bundesliga 3 Hd !!! Weekend Only !!!
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/11419
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="Sky Bundesliga 4 Hd !!! Weekend Only !!!" tvg-logo="http://www.canliturktv.com/Logolar/skysportbundesliga4hd.png" group-title="Germany",Sky Bundesliga 4 Hd !!! Weekend Only !!!
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/11420
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="Sky Bundesliga 5 Hd !!! Weekend Only !!!" tvg-logo="http://www.canliturktv.com/Logolar/skysportbundesliga5hd.png" group-title="Germany",Sky Bundesliga 5 Hd !!! Weekend Only !!!
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/11421
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="Sky Bundesliga 6 Hd !!! Weekend Only !!!" tvg-logo="http://www.canliturktv.com/de/SkyBundesliga6.de.png" group-title="Germany",Sky Bundesliga 6 Hd !!! Weekend Only !!!
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19620
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="Sky Bundesliga 7 Hd !!! Weekend Only !!!" tvg-logo="http://www.canliturktv.com/de/SkyBundesliga7.de.png" group-title="Germany",Sky Bundesliga 7 Hd !!! Weekend Only !!!
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19619
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="Sky Bundesliga 8 Hd !!! Weekend Only !!!" tvg-logo="http://www.canliturktv.com/de/SkyBundesliga8.de.png" group-title="Germany",Sky Bundesliga 8 Hd !!! Weekend Only !!!
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19618
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="Sky Bundesliga 9 Hd !!! Weekend Only !!!" tvg-logo="http://www.canliturktv.com/de/SkyBundesliga9.de.png" group-title="Germany",Sky Bundesliga 9 Hd !!! Weekend Only !!!
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19617
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="Sky Bundesliga 10 Hd !!! Weekend Only !!!" tvg-logo="http://www.canliturktv.com/de/SkyBundesliga10.de.png" group-title="Germany",Sky Bundesliga 10 Hd !!! Weekend Only !!!
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19621
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 Hd" tvg-logo="http://www.canliturktv.com/de/Eurosport1.de.png" group-title="Germany",Eurosport 1 Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/100
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2 Hd" tvg-logo="http://www.canliturktv.com/de/Eurosport2.de.png" group-title="Germany",Eurosport 2 Hd
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/1326
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 Xtra" tvg-logo="http://www.canliturktv.com/Logolar/eurosport2.png" group-title="Germany",Eurosport 2 Xtra
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/7536
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="https://i.hizliresim.com/EDdMqZ.png" group-title="Germany",DAZN 1 HD
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19562
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="https://i.hizliresim.com/EDdMqZ.png" group-title="Germany",DAZN 2 HD
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/19563
+#EXTINF:-1 tvg-id="" tvg-name="AR: SKY NEWS ARABIA" tvg-logo="" group-title="Arabic",AR: SKY NEWS ARABIA
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/20456
+#EXTINF:-1 ,------| 2018 Yerli Sinema |------
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/20754
+#EXTINF:-1 tvg-id="" tvg-name="Ahlat Agaci" tvg-logo="http://redo1.com:8080/images/zOf30Go9wz5u0guZjmq8PY7lqNp_small.jpg" group-title="2018 Yerli Sinema",Ahlat Agaci
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ailecek Saskiniz" tvg-logo="http://redo1.com:8080/images/49up96lAgKw9nOpnd6iwfayhUQG_small.jpg" group-title="2018 Yerli Sinema",Ailecek Saskiniz
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arapsaçi" tvg-logo="http://redo1.com:8080/images/b4okY4oQS3fKPEFB6xrViCqaJad_small.jpg" group-title="2018 Yerli Sinema",Arapsaçi
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arif V 216" tvg-logo="http://redo1.com:8080/images/kYPkx1aVjC2HbvFr20QMwowKmzp_small.jpg" group-title="2018 Yerli Sinema",Arif V 216
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batlir" tvg-logo="http://redo1.com:8080/images/aq8cqb2s8XjG60IQwApNjaGfg0x_small.jpg" group-title="2018 Yerli Sinema",Batlir
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bizim Köyün Sarkisi" tvg-logo="http://redo1.com:8080/images/80s366mvVub2HihBTi0q0LfyDv2_small.jpg" group-title="2018 Yerli Sinema",Bizim Köyün Sarkisi
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Çam Yarmasi" tvg-logo="http://redo1.com:8080/images/tAh6pVF3ak56Fv98wfowDQjLNp_small.jpg" group-title="2018 Yerli Sinema",Çam Yarmasi
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Can Feda" tvg-logo="http://redo1.com:8080/images/p8eEp4lIwFBWtB0X0xlrNodDlSj_small.jpg" group-title="2018 Yerli Sinema",Can Feda
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Canavar Gibi: Türk isi Frankestayn" tvg-logo="http://redo1.com:8080/images/lpLTn1I35rdrf0o1lewp4I4yBlo_small.jpg" group-title="2018 Yerli Sinema",Canavar Gibi: Türk isi Frankestayn
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cici Babam" tvg-logo="http://redo1.com:8080/images/isCzvzh6CMGLEzosZXlZdlUwZHs_small.jpg" group-title="2018 Yerli Sinema",Cici Babam
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Çocuklar Sana Emanet" tvg-logo="http://redo1.com:8080/images/2p8RpYjiZY6NomyzPtlsOq3AdNA_small.jpg" group-title="2018 Yerli Sinema",Çocuklar Sana Emanet
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Direnis Karatay" tvg-logo="http://redo1.com:8080/images/b2Mt1m3JITS90QM7NZJQbTIOk2I_small.jpg" group-title="2018 Yerli Sinema",Direnis Karatay
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dügüm Salonu" tvg-logo="http://redo1.com:8080/images/5zjuJdUSDMmcyiew0BzANk4cNwu_small.jpg" group-title="2018 Yerli Sinema",Dügüm Salonu
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enes Batur: Hayal mi Gerçek mi?" tvg-logo="http://redo1.com:8080/images/hs2N7o1tSfdN5uRX1jn8sR18EGn_small.jpg" group-title="2018 Yerli Sinema",Enes Batur: Hayal mi Gerçek mi?
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ev Kira Semt Bizim" tvg-logo="http://redo1.com:8080/images/jqA2vpQSpseQNjBUSx8pjspdqO2_small.jpg" group-title="2018 Yerli Sinema",Ev Kira Semt Bizim
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eyvah Karim" tvg-logo="http://redo1.com:8080/images/1DfvBSQ8kfXZTxzmKQT5i9Dzr5y_small.jpg" group-title="2018 Yerli Sinema",Eyvah Karim
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hadi Be Oglum" tvg-logo="http://redo1.com:8080/images/xRYTzrfBQD8Y3BJRyX2qE9zitu6_small.jpg" group-title="2018 Yerli Sinema",Hadi Be Oglum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hürkus: Göklerdeki Kahraman" tvg-logo="http://redo1.com:8080/images/6PXBLeAjphppr0wG95blW41tOvO_small.jpg" group-title="2018 Yerli Sinema",Hürkus: Göklerdeki Kahraman
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kardesim için Der'a" tvg-logo="http://redo1.com:8080/images/aVTqeLjplanegmh3l5NfnQZieCL_small.jpg" group-title="2018 Yerli Sinema",Kardesim için Der'a
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kayhan" tvg-logo="http://redo1.com:8080/images/iMd6L1eMhqJgplZeLrmPuvM6yWx_small.jpg" group-title="2018 Yerli Sinema",Kayhan
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kelebekler" tvg-logo="http://redo1.com:8080/images/4KrSjMxG3UE0VOKdWMLN1ofM6Si_small.jpg" group-title="2018 Yerli Sinema",Kelebekler
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Martilarin Efendisi" tvg-logo="http://redo1.com:8080/images/lbxNi8rswcmhv4G8RSwW167WMjL_small.jpg" group-title="2018 Yerli Sinema",Martilarin Efendisi
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maskeli Krolar" tvg-logo="http://redo1.com:8080/images/wncVqvwSRX8nUmx8oGgKnedH6YY_small.jpg" group-title="2018 Yerli Sinema",Maskeli Krolar
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oflu Hoca Trakya'da" tvg-logo="http://redo1.com:8080/images/tGU12sxNMdVc3dCY71rEQNZfBLS_small.jpg" group-title="2018 Yerli Sinema",Oflu Hoca Trakya'da
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rüzgar" tvg-logo="http://redo1.com:8080/images/rtMd9bprF6xKV0mR2sqyNPxBEuH_small.jpg" group-title="2018 Yerli Sinema",Rüzgar
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sofra Sirlari" tvg-logo="http://redo1.com:8080/images/oWhaq9Y5BS3t7DoopVrAqDq0vYx_small.jpg" group-title="2018 Yerli Sinema",Sofra Sirlari
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sükut Evi" tvg-logo="https://www.diziizle.net/img/sinema/sukut-evi.jpg" group-title="2018 Yerli Sinema",Sükut Evi
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ölümlü Dünya" tvg-logo="http://redo1.com:8080/images/zunhe3M9PlmBS7EUP3l493kbcxE_small.jpg" group-title="2018 Yerli Sinema",Ölümlü Dünya
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="------| 2017 Yerli Sinema |------" tvg-logo="https://i.hizliresim.com/EDVOpB.png" group-title="",------| 2017 Yerli Sinema |------
+http://redo1.com:8080/oznuraydin/w3pHFyEYQY/21199
+#EXTINF:-1 tvg-id="" tvg-name="4N1K" tvg-logo="http://redo1.com:8080/images/1uUj0l7TPuzZToomlwltuUkI74g_small.jpg" group-title="2017 Yerli Sinema",4N1K
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aci Tatli Eksi" tvg-logo="http://redo1.com:8080/images/WjsX4vmFihQI6ZW3h2zSFiksTD_small.jpg" group-title="2017 Yerli Sinema",Aci Tatli Eksi
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aile Arasinda" tvg-logo="http://redo1.com:8080/images/lxA6UjZqRX1LFCQ6kgjpbCCP3JI_small.jpg" group-title="2017 Yerli Sinema",Aile Arasinda
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ask Uykusu" tvg-logo="http://redo1.com:8080/images/2k7L8N6uVCHhqa3CXmcxDksI91z_small.jpg" group-title="2017 Yerli Sinema",Ask Uykusu
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Askin Goren Gozlere ihtiyaci Yok" tvg-logo="http://redo1.com:8080/images/w2aDDfSBBp5zMYdI839vGnrhud5_small.jpg" group-title="2017 Yerli Sinema",Askin Goren Gozlere ihtiyaci Yok
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atçali Kel Mehmet" tvg-logo="http://redo1.com:8080/images/wWWSmq47XTTCBZy7Y9xCv65wGG0_small.jpg" group-title="2017 Yerli Sinema",Atçali Kel Mehmet
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ay Lav Yu Tuu" tvg-logo="http://redo1.com:8080/images/tgoCKMLSgj6cYir5Ze6VsCKFU4D_small.jpg" group-title="2017 Yerli Sinema",Ay Lav Yu Tuu
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ayla" tvg-logo="http://redo1.com:8080/images/iY1HQHv2ksUQrOM5YFtH3H7d9P_small.jpg" group-title="2017 Yerli Sinema",Ayla
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bas Belasi" tvg-logo="http://redo1.com:8080/images/guFwDg6CcvIntyRzCLbOI00WNHO_small.jpg" group-title="2017 Yerli Sinema",Bas Belasi
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Belalilar" tvg-logo="http://redo1.com:8080/images/sBLsGQE7gFIZfnK9fDW1lAgysHV_small.jpg" group-title="2017 Yerli Sinema",Belalilar
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bezm-i Ezel" tvg-logo="http://redo1.com:8080/images/326AKo0S4rg9hddr3naTnId2KmV_small.jpg" group-title="2017 Yerli Sinema",Bezm-i Ezel
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bir Damla Ask" tvg-logo="http://redo1.com:8080/images/ycneIDaZlYazqXsfUoezMPLjBrZ_small.jpg" group-title="2017 Yerli Sinema",Bir Damla Ask
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bir Nefes Yeter" tvg-logo="http://redo1.com:8080/images/meHe8MgQiYIWyfZYzzMqPQLCnyp_small.jpg" group-title="2017 Yerli Sinema",Bir Nefes Yeter
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Biz Size Döneriz" tvg-logo="http://redo1.com:8080/images/5QU87HazBdVGphqX52sR1CEBAr8_small.jpg" group-title="2017 Yerli Sinema",Biz Size Döneriz
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bordo Bereliler Suriye" tvg-logo="http://redo1.com:8080/images/vsGaeKHjk9kNOL4PTor3hBaz9Zb_small.jpg" group-title="2017 Yerli Sinema",Bordo Bereliler Suriye
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bugday" tvg-logo="http://redo1.com:8080/images/6dJnWSZMFKZY1yOiGdPUrrPawWw_small.jpg" group-title="2017 Yerli Sinema",Bugday
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bütün Saadetler Mümkündür" tvg-logo="http://redo1.com:8080/images/4mLfbOr50ZjtIRZPBQeo9AtOPjv_small.jpg" group-title="2017 Yerli Sinema",Bütün Saadetler Mümkündür
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bölük" tvg-logo="http://redo1.com:8080/images/81ZsrTqENmCdA7gMOy2Kkjtd0rq_small.jpg" group-title="2017 Yerli Sinema",Bölük
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cebimdeki Yabanci" tvg-logo="http://redo1.com:8080/images/6WhsrPyfBP0F4YOFy2OC8JvOi7O_small.jpg" group-title="2017 Yerli Sinema",Cebimdeki Yabanci
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cenaze Isleri" tvg-logo="http://redo1.com:8080/images/gLTC4rEkZ2w8mQQDnpm9ixmMhyi_small.jpg" group-title="2017 Yerli Sinema",Cenaze Isleri
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cerayan.2017.HDTvRip.XviD.OpeD" tvg-logo="http://redo1.com:8080/images/gLTC4rEkZ2w8mQQDnpm9ixmMhyi_small.jpg" group-title="2017 Yerli Sinema",Cerayan.2017.HDTvRip.XviD.OpeD
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Çetrefilli" tvg-logo="http://redo1.com:8080/images/727qCzZHR5DoTVasnd8XrBkJmEG_small.jpg" group-title="2017 Yerli Sinema",Çetrefilli
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinayet-i Ask" tvg-logo="http://redo1.com:8080/images/bE9WbjcQ4NxeBoUbUWlYNUDcBAZ_small.jpg" group-title="2017 Yerli Sinema",Cinayet-i Ask
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cingöz Recai" tvg-logo="http://redo1.com:8080/images/fLn4GYsJSl9jtWz6dOlstq2GRMP_small.jpg" group-title="2017 Yerli Sinema",Cingöz Recai
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Daha" tvg-logo="http://redo1.com:8080/images/nOFdl6AwLF9u0X5MhbV5x83Tl5y_small.jpg" group-title="2017 Yerli Sinema",Daha
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Damat Takimi" tvg-logo="http://redo1.com:8080/images/yKa9SbrAcpnTJNDJok39MLztkFt_small.jpg" group-title="2017 Yerli Sinema",Damat Takimi
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deccal 2" tvg-logo="http://redo1.com:8080/images/4O6BlaBM4pUmyL6ng1rCyq2Ar5T_small.jpg" group-title="2017 Yerli Sinema",Deccal 2
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dede Korkut Hikayeleri Deli Dumrul" tvg-logo="http://redo1.com:8080/images/6pZxaziCrQRkcYj9YVI7p0AwoL0_small.jpg" group-title="2017 Yerli Sinema",Dede Korkut Hikayeleri Deli Dumrul
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deli Ask" tvg-logo="http://redo1.com:8080/images/gBNdUyrahMqQQI07ToBB1iybdW1_small.jpg" group-title="2017 Yerli Sinema",Deli Ask
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deliha 2" tvg-logo="http://redo1.com:8080/images/c3pR9qcxqOkffftwX3pwUnBCwv3_small.jpg" group-title="2017 Yerli Sinema",Deliha 2
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dünyanin En Güzel Kokusu 2" tvg-logo="http://redo1.com:8080/images/y6h86GqYIpgKjiPsz6S7CE7kCf_small.jpg" group-title="2017 Yerli Sinema",Dünyanin En Güzel Kokusu 2
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dört Köse" tvg-logo="http://redo1.com:8080/images/fXQzYORJ1dhoo2YMb804WIJjTPB_small.jpg" group-title="2017 Yerli Sinema",Dört Köse
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elimiz Mahkum" tvg-logo="http://redo1.com:8080/images/72pprYqXiZ3t1A0VuMVKiwbu1Lt_small.jpg" group-title="2017 Yerli Sinema",Elimiz Mahkum
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eski Sevgili" tvg-logo="http://redo1.com:8080/images/oHklTCmHJyYAOJYeVZU3aI9TObY_small.jpg" group-title="2017 Yerli Sinema",Eski Sevgili
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Firardayiz" tvg-logo="http://redo1.com:8080/images/5KgFdNfcIEpDW62x9L9x3EpO80y_small.jpg" group-title="2017 Yerli Sinema",Firardayiz
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Geçmisteki Sir" tvg-logo="http://redo1.com:8080/images/yFKW9tz2QNr9D6xi1f5ywkxFppK_small.jpg" group-title="2017 Yerli Sinema",Geçmisteki Sir
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Göçebe" tvg-logo="http://redo1.com:8080/images/t3Mxx6iNB75puzJSiNwJL6ElWXc_small.jpg" group-title="2017 Yerli Sinema",Göçebe
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Görevimiz Tatil" tvg-logo="http://redo1.com:8080/images/3SMPKDOmCfB4XvS804LGGH1rsKm_small.jpg" group-title="2017 Yerli Sinema",Görevimiz Tatil
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hep Yek 2" tvg-logo="http://redo1.com:8080/images/iysnnAsVQh13JZjXAGpkiFWW6A0_small.jpg" group-title="2017 Yerli Sinema",Hep Yek 2
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Her Sey Mümkün" tvg-logo="http://redo1.com:8080/images/qQck92a57qKAMsq4VnVqOADARiM_small.jpg" group-title="2017 Yerli Sinema",Her Sey Mümkün
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ilk Öpücük 2017" tvg-logo="http://redo1.com:8080/images/2riNmNuOjQgXHYqnfjlO0nGXufV_small.jpg" group-title="2017 Yerli Sinema",Ilk Öpücük 2017
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kardesim Benim 2" tvg-logo="http://redo1.com:8080/images/559b692SBkTcdnUeWYqHtY6TE0Z_small.jpg" group-title="2017 Yerli Sinema",Kardesim Benim 2
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kaygi" tvg-logo="http://redo1.com:8080/images/kkSblTQYw5jwYLC2pYqgX2jyghg_small.jpg" group-title="2017 Yerli Sinema",Kaygi
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kayseri Aslani" tvg-logo="http://redo1.com:8080/images/bjiHAYHI0qFMwzfGjcgxxAZeaUG_small.jpg" group-title="2017 Yerli Sinema",Kayseri Aslani
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ketenpere" tvg-logo="http://redo1.com:8080/images/dLvUlTSLs93gPkUVJBgcfzf8AkP_small.jpg" group-title="2017 Yerli Sinema",Ketenpere
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kotu Cocuk" tvg-logo="http://redo1.com:8080/images/4o9JEg7gUbKmJE3L6VP1xvSjYHY_small.jpg" group-title="2017 Yerli Sinema",Kotu Cocuk
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kurtlar Vadisi: Vatan" tvg-logo="http://redo1.com:8080/images/9ySkFLATDGH6ML0AA87QldiGQyB_small.jpg" group-title="2017 Yerli Sinema",Kurtlar Vadisi: Vatan
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Körfez" tvg-logo="http://redo1.com:8080/images/4MS8RfDng1e7jLp6Ge1f7EjVihV_small.jpg" group-title="2017 Yerli Sinema",Körfez
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lanet: Ervah Cinleri" tvg-logo="http://redo1.com:8080/images/gcV4yQd6GfH707DZ9VUHvFl8KuR_small.jpg" group-title="2017 Yerli Sinema",Lanet: Ervah Cinleri
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Let It Stay" tvg-logo="http://redo1.com:8080/images/eqzjEtPMASXp2TkgnMy5EalMl8p_small.jpg" group-title="2017 Yerli Sinema",Let It Stay
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maide'nin Altin Günü" tvg-logo="http://redo1.com:8080/images/xf36ot89U4NCPngdKJRMYxxF5BF_small.jpg" group-title="2017 Yerli Sinema",Maide'nin Altin Günü
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miraç" tvg-logo="http://redo1.com:8080/images/rIYp1sRqIB0vaKIy7bRwfuCarFQ_small.jpg" group-title="2017 Yerli Sinema",Miraç
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Organic Love Stories" tvg-logo="http://redo1.com:8080/images/jfHleLyvsL5JhrBGWTGK0LuyicL_small.jpg" group-title="2017 Yerli Sinema",Organic Love Stories
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Parayi Bulduk" tvg-logo="http://redo1.com:8080/images/hpumwTlQVzJH0AECmCLsIGdQysQ_small.jpg" group-title="2017 Yerli Sinema",Parayi Bulduk
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poyraz Karayel: Küresel Sermaye" tvg-logo="http://redo1.com:8080/images/fqvAeFZrtneRMRphOel90Aruge0_small.jpg" group-title="2017 Yerli Sinema",Poyraz Karayel: Küresel Sermaye
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Recep Ivedik 5" tvg-logo="http://redo1.com:8080/images/zt6fCjyas0o2uu9MOT0kNdshaxJ_small.jpg" group-title="2017 Yerli Sinema",Recep Ivedik 5
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salur Kazan: Zoraki Kahraman 2017" tvg-logo="http://redo1.com:8080/images/95cV7EnUQecqoKrJ377JgILDmPn_small.jpg" group-title="2017 Yerli Sinema",Salur Kazan: Zoraki Kahraman 2017
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sansimi Seveyim" tvg-logo="http://redo1.com:8080/images/ybPBpTL8gYdKEYYedZlosD9Z3Gk_small.jpg" group-title="2017 Yerli Sinema",Sansimi Seveyim
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sarikamis Çocuklari" tvg-logo="http://redo1.com:8080/images/p6G79asi7rw1kUfOZZRnB7nodOR_small.jpg" group-title="2017 Yerli Sinema",Sarikamis Çocuklari
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sen Kiminle Dans Ediyorsun?" tvg-logo="http://redo1.com:8080/images/wkrWymEQIfiT2oeho9idezzKzXe_small.jpg" group-title="2017 Yerli Sinema",Sen Kiminle Dans Ediyorsun?
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seni Gidi Seni" tvg-logo="http://redo1.com:8080/images/utMnbRmzidD0nchiz43Np8inQmz_small.jpg" group-title="2017 Yerli Sinema",Seni Gidi Seni
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Siccin 4" tvg-logo="http://redo1.com:8080/images/tFg6uEW4WLHcLF4wqu3msEEw82e_small.jpg" group-title="2017 Yerli Sinema",Siccin 4
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sinsiran: Yasak Ask" tvg-logo="http://redo1.com:8080/images/qqzyop0ai1LB98RhGdyvMMFV9Fq_small.jpg" group-title="2017 Yerli Sinema",Sinsiran: Yasak Ask
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sinyalciler" tvg-logo="http://redo1.com:8080/images/kmqMHz9lNwxnDCqtnZkX9PynRYs_small.jpg" group-title="2017 Yerli Sinema",Sinyalciler
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonsuz Ask" tvg-logo="http://redo1.com:8080/images/dpcwUQny9nel0YWapHKU2pWzA8S_small.jpg" group-title="2017 Yerli Sinema",Sonsuz Ask
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tas" tvg-logo="http://redo1.com:8080/images/3L2wG4hrpAIZOa5G1PZ3J1YD1sC_small.jpg" group-title="2017 Yerli Sinema",Tas
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tatli Seyler" tvg-logo="http://redo1.com:8080/images/hKatiy5ECl9dArtZ3TVSRk6Hztx_small.jpg" group-title="2017 Yerli Sinema",Tatli Seyler
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ver Kaç" tvg-logo="http://redo1.com:8080/images/qmfNT0Ngpg4HTIA4sTaz7uBNhGg_small.jpg" group-title="2017 Yerli Sinema",Ver Kaç
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vezir Parmagi" tvg-logo="http://redo1.com:8080/images/v3wf3P799kpPgq8QLNw7MudV7m0_small.jpg" group-title="2017 Yerli Sinema",Vezir Parmagi
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yanlis Anlama" tvg-logo="http://redo1.com:8080/images/l71ycEQRZmbRWSzsoKgZPvsf5b0_small.jpg" group-title="2017 Yerli Sinema",Yanlis Anlama
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yol Arkadasim" tvg-logo="http://redo1.com:8080/images/aG6v0apKeBwcsa2tlhPb6YHqm87_small.jpg" group-title="2017 Yerli Sinema",Yol Arkadasim
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yol Ayrimi" tvg-logo="http://redo1.com:8080/images/eL2x5SiEPEL6T6juzCfYK7sSUyD_small.jpg" group-title="2017 Yerli Sinema",Yol Ayrimi
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zengin Kismet" tvg-logo="http://redo1.com:8080/images/aRALCQuqVkinbTeksMsuyvTKtvh_small.jpg" group-title="2017 Yerli Sinema",Zengin Kismet
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Öteki Taraf" tvg-logo="http://redo1.com:8080/images/y0vCpTOSTRgrXe01kKJBGm7rBqj_small.jpg" group-title="2017 Yerli Sinema",Öteki Taraf
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/20819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23910.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam 100 Numarali Adam" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam 100 Numarali Adam
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23909.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Adak" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Adak
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23908.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Ah Nerede" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Ah Nerede
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23907.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Aile Serefi" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Aile Serefi
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23906.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Arabesk" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Arabesk
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23905.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Ask Nerede" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Ask Nerede
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23904.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Ask Olsun" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Ask Olsun
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23903.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Ates Bocegi" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Ates Bocegi
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23902.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Atla Gel Saban" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Atla Gel Saban
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23901.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Avanak Apti" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Avanak Apti
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23900.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Azat Kusu" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Azat Kusu
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23899.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Baraj" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Baraj
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23898.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Bebek Yuzlu" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Bebek Yuzlu
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23897.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Bekciler Krali" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Bekciler Krali
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23896.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Berdel" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Berdel
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23895.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Beyoglu Guzeli" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Beyoglu Guzeli
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23894.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Bickin" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Bickin
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23893.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Bosver Arkadas" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Bosver Arkadas
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23892.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Boynu Bukuk Kuheylan" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Boynu Bukuk Kuheylan
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23891.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Calsin Sazlar" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Calsin Sazlar
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23890.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Calsin Sazlar Yerli" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Calsin Sazlar Yerli
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23889.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Canim Kardesim" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Canim Kardesim
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23888.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Capkin Hirsiz" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Capkin Hirsiz
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23887.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Carikli Milyoner" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Carikli Milyoner
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23886.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Copculer Krali" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Copculer Krali
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23885.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Davaro" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Davaro
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23884.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Deli Deli Kupeli" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Deli Deli Kupeli
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23883.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Deli Deli Olma" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Deli Deli Olma
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23882.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Delisin" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Delisin
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23881.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Devlet Kusu" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Devlet Kusu
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23880.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Doktor Civanim" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Doktor Civanim
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23879.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Dutturu Dunya" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Dutturu Dunya
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23878.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam En Buyuk Saban" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam En Buyuk Saban
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23877.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Fatihin Fedaisi Kara Murat" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Fatihin Fedaisi Kara Murat
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23876.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Gerzek Saban" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Gerzek Saban
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23875.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Gullu Geliyor Gullu" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Gullu Geliyor Gullu
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23874.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Gurbetci Saban" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Gurbetci Saban
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23873.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Hasret" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Hasret
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23872.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Hesapta Ask" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Hesapta Ask
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23871.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Ibo Ile Gulsah" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Ibo Ile Gulsah
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23870.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Inatci" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Inatci
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23869.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Inek Saban" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Inek Saban
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23868.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Iyi Aile Cocugu" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Iyi Aile Cocugu
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23867.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Japon Isi" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Japon Isi
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23866.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Kader" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Kader
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23865.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Kanli Nigar" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Kanli Nigar
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23864.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Kapicilar Krali" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Kapicilar Krali
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23863.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Katma Deger Saban" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Katma Deger Saban
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23862.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Keriz" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Keriz
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23861.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Kiraci" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Kiraci
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23860.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Koltuk Belasi" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Koltuk Belasi
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23859.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Korkusuz Korkak" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Korkusuz Korkak
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23858.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Koseyi Donen Adam" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Koseyi Donen Adam
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23857.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Manda Yuvasi" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Manda Yuvasi
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23856.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Merakli Kofteci" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Merakli Kofteci
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23855.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Ogretmen Kemal" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Ogretmen Kemal
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23854.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Polizei" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Polizei
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23853.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Saban Pabucu Yarim" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Saban Pabucu Yarim
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23852.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Sabaniye" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Sabaniye
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23851.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Sahte Kabadayi" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Sahte Kabadayi
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23850.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Sakar Sakir" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Sakar Sakir
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23849.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Salako" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Salako
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23848.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Sark Bulbulu" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Sark Bulbulu
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23847.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Sendul Saban" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Sendul Saban
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23846.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Sevimli Hirsiz" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Sevimli Hirsiz
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23845.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Sosyete Saban" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Sosyete Saban
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23844.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Stajyer Mafya" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Stajyer Mafya
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23843.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Talih Kusu" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Talih Kusu
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23842.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Tarzan Rifki" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Tarzan Rifki
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23841.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Tokatci" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Tokatci
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23840.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Tosun Pasa" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Tosun Pasa
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23839.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Uc Kagitci" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Uc Kagitci
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23838.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Uyanik Gazeteci" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Uyanik Gazeteci
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23837.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Uzak Ihtimal" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Uzak Ihtimal
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23836.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Uzaklarda Arama" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Uzaklarda Arama
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23835.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Yakisikli" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Yakisikli
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23834.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Yedi Bela Husnu" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Yedi Bela Husnu
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23833.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Yoksul" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Yoksul
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23832.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Yusuf Yusuf" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Yusuf Yusuf
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23831.avi
+#EXTINF:-1 tvg-id="" tvg-name="Vip Yesilcam Zubuk" tvg-logo="http://redo1.com:8080/images/3pfgZyIJ1AyXD4JB6b0d2IHzTLV_small.jpg" group-title="Yesilçam",Vip Yesilcam Zubuk
+http://redo1.com:8080/movie/oznuraydin/w3pHFyEYQY/23830.avi
