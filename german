@@ -1,140 +1,4 @@
 #EXTM3U
-#EXTINF:-1,DE:: DAZN BAR 1 HD (TEST)
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/34123.m3u8
-#EXTINF:-1,DE:: DAZN 2 BAR HD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/34124.m3u8
-#EXTINF:-1,DE:: DAZN BAR 1 FHD (TEST)
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/31733.m3u8
-#EXTINF:-1,DE:: DAZN 2 BAR FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/31870.m3u8
-#EXTINF:-1,DE:: Eurosport 1 SD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23388.m3u8
-#EXTINF:-1,DE:: Eurosport 1 HD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23389.m3u8
-#EXTINF:-1,DE:: Eurosport 1 FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/19827.m3u8
-#EXTINF:-1,DE:: Eurosport 2 SD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23384.m3u8
-#EXTINF:-1,DE:: Eurosport 2 HD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23385.m3u8
-#EXTINF:-1,DE:: Eurosport 2 FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22936.m3u8
-#EXTINF:-1,DE:: Eurosport 2 SD Xtra
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/21719.m3u8
-#EXTINF:-1,DE:: Eurosport 2 HD Xtra
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/21718.m3u8
-#EXTINF:-1,DE:: Eurosport 2 FHD Xtra
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/21558.m3u8
-#EXTINF:-1,DE:: Sport 1 SD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22917.m3u8
-#EXTINF:-1,DE:: Sport 1 HD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/19806.m3u8
-#EXTINF:-1,DE:: Sport 1 FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/30055.m3u8
-#EXTINF:-1,DE: Sport 1+ HD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/19081.m3u8
-#EXTINF:-1,DE:: Sportdigital HD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7963.m3u8
-#EXTINF:-1,DE:: Motorvision TV
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7962.m3u8
-#EXTINF:-1,DE:: Auto Motor Sport FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26949.m3u8
-#EXTINF:-1,==== SKY SPORT =====
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/13005.m3u8
-#EXTINF:-1,DE: FC Bayern TV
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26937.m3u8
-#EXTINF:-1,DE:: Sky Sport News SD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/24584.m3u8
-#EXTINF:-1,DE:: Sky Sport News HD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/24583.m3u8
-#EXTINF:-1,DE:: Sky Sport News FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7934.m3u8
-#EXTINF:-1,DE:: Sky Sport Austria
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40227.m3u8
-#EXTINF:-1,DE:: Sky Sport Austria HD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40228.m3u8
-#EXTINF:-1,DE:: Sky Sport Austria FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22923.m3u8
-#EXTINF:-1,DE:: SKY SPORT (AT)
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7965.m3u8
-#EXTINF:-1,DE:: SKY SPORT 1 (VIP)
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7966.m3u8
-#EXTINF:-1,DE:: SKY SPORT 2 (VIP)
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7967.m3u8
-#EXTINF:-1,DE:: SKY SPORT 3 (VIP)
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7968.m3u8
-#EXTINF:-1,DE:: SKY SPORT 4 (VIP)
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7969.m3u8
-#EXTINF:-1,DE:: SKY SPORT 5 (VIP)
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7970.m3u8
-#EXTINF:-1,DE:: SKY SPORT 6 (VIP)
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7971.m3u8
-#EXTINF:-1,DE:: SKY SPORT 7 (VIP)
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7972.m3u8
-#EXTINF:-1,DE:: SKY SPORT 8 (VIP)
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7973.m3u8
-#EXTINF:-1,DE:: SKY SPORT 9 (VIP)
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7974.m3u8
-#EXTINF:-1,DE:: SKY SPORT 10 (VIP)
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7975.m3u8
-#EXTINF:-1,DE:: SKY SPORT 11 (VIP)
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7976.m3u8
-#EXTINF:-1,DE::Sky Sport 1 HD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23614.m3u8
-#EXTINF:-1,DE::Sky Sport 2 HD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23611.m3u8
-#EXTINF:-1,DE::Sky Sport 3 HD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23610.m3u8
-#EXTINF:-1,DE::Sky Sport 4 HD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23609.m3u8
-#EXTINF:-1,DE::Sky Sport 5 HD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23608.m3u8
-#EXTINF:-1,DE::Sky Sport 6 HD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23607.m3u8
-#EXTINF:-1,DE::Sky Sport 7 HD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23606.m3u8
-#EXTINF:-1,DE::Sky Sport 8 HD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23605.m3u8
-#EXTINF:-1,DE::Sky Sport 9 HD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23604.m3u8
-#EXTINF:-1,DE::Sky Sport 10 HD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23613.m3u8
-#EXTINF:-1,DE::Sky Sport 11 HD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23612.m3u8
-#EXTINF:-1,DE:: Sky Sport 12 HD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40605.m3u8
-#EXTINF:-1,DE:: Sky Sport 13 HD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40606.m3u8
-#EXTINF:-1,DE:: Sky Sport 14 HD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40608.m3u8
-#EXTINF:-1,DE::Sky Sport 1 FHD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23625.m3u8
-#EXTINF:-1,DE::Sky Sport 2 FHD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23624.m3u8
-#EXTINF:-1,DE::Sky Sport 3 FHD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23623.m3u8
-#EXTINF:-1,DE::Sky Sport 4 FHD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23622.m3u8
-#EXTINF:-1,DE::Sky Sport 5 FHD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23621.m3u8
-#EXTINF:-1,DE::Sky Sport 6 FHD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23620.m3u8
-#EXTINF:-1,DE::Sky Sport 7 FHD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23619.m3u8
-#EXTINF:-1,DE::Sky Sport 8 FHD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23618.m3u8
-#EXTINF:-1,DE::Sky Sport 9 FHD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23617.m3u8
-#EXTINF:-1,DE::Sky Sport 10 FHD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23616.m3u8
-#EXTINF:-1,DE::Sky Sport 11 FHD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23615.m3u8
-#EXTINF:-1,DE:: Sky Sport 12 FHD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40603.m3u8
-#EXTINF:-1,DE:: Sky Sport 13 FHD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40604.m3u8
-#EXTINF:-1,DE:: Sky Sport 14 FHD (VIP).
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40607.m3u8
 #EXTINF:-1,DE:: Sat 1
 http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7897.m3u8
 #EXTINF:-1,DE:: Sat.1 HD
@@ -297,3 +161,1521 @@ http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/19752.m3u8
 http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/19741.m3u8
 #EXTINF:-1,DE:: arte HD
 http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/19829.m3u8
+#EXTINF:-1,===== KINDER ======
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/13006.m3u8
+#EXTINF:-1,DE:: Comedy Central
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/19800.m3u8
+#EXTINF:-1,DE:: Nickelodeon (AT)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7954.m3u8
+#EXTINF:-1,DE:: Comed Central HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22968.m3u8
+#EXTINF:-1,DE:: Comedy Central FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22913.m3u8
+#EXTINF:-1,DE:: Disney Channel
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7946.m3u8
+#EXTINF:-1,DE:: Disney Channel HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23164.m3u8
+#EXTINF:-1,DE:: Disney Channel FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22939.m3u8
+#EXTINF:-1,DE:: Disney Cinemagic
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7947.m3u8
+#EXTINF:-1,DE:: Disney Cinemagic HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23162.m3u8
+#EXTINF:-1,DE:: Disney Cinemagic FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22938.m3u8
+#EXTINF:-1,DE:: Disney XD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7949.m3u8
+#EXTINF:-1,DE:: Disney Junior
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7948.m3u8
+#EXTINF:-1,DE:: Disney Junior HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23166.m3u8
+#EXTINF:-1,DE:: Disney junior FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22937.m3u8
+#EXTINF:-1,DE:: Cartoon Network
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7951.m3u8
+#EXTINF:-1,DE:: Boomerang
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7950.m3u8
+#EXTINF:-1,DE:: Junior
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7952.m3u8
+#EXTINF:-1,DE:: Super RTL
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7955.m3u8
+#EXTINF:-1,DE:: Super RTL HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23578.m3u8
+#EXTINF:-1,DE:: Super RTL FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23579.m3u8
+#EXTINF:-1,DE:: Toggo Plus
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/13996.m3u8
+#EXTINF:-1,DE:: KIKA
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7953.m3u8
+#EXTINF:-1,==== FILME / SERIEN =====
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/13004.m3u8
+#EXTINF:-1,DE:: SKY 1
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39810.m3u8
+#EXTINF:-1,DE:: Sky Cinema Hits HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/34120.m3u8
+#EXTINF:-1,DE:: Sky Cinema Hits FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/34118.m3u8
+#EXTINF:-1,DE:: Sky Cinema
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7915.m3u8
+#EXTINF:-1,DE:: Sky Cinema FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/19812.m3u8
+#EXTINF:-1,DE:: Sky Cinema +1
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7916.m3u8
+#EXTINF:-1,DE:: Sky Cinema +24
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7917.m3u8
+#EXTINF:-1,DE:: Sky Cinema +24 FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22928.m3u8
+#EXTINF:-1,DE:: Sky Atlantic SD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39816.m3u8
+#EXTINF:-1,DE:: Sky Atlantic HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39815.m3u8
+#EXTINF:-1,DE:: Sky Atlantic FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22931.m3u8
+#EXTINF:-1,DE:: Sky Cinema +1 FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22929.m3u8
+#EXTINF:-1,DE:: Sky Cinema Action
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7913.m3u8
+#EXTINF:-1,DE:: Sky Cinema Action HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23570.m3u8
+#EXTINF:-1,DE:: Sky Cinema Action FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23571.m3u8
+#EXTINF:-1,DE:: Sky Cinema Family
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7918.m3u8
+#EXTINF:-1,DE:: Sky Cinema Family HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/24515.m3u8
+#EXTINF:-1,DE:: Sky Cinema Family FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/24514.m3u8
+#EXTINF:-1,DE:: Sky Cinema Comedy
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7920.m3u8
+#EXTINF:-1,DE:: Sky Cinema Emotion
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7922.m3u8
+#EXTINF:-1,DE:: Sky Nostalgie
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7923.m3u8
+#EXTINF:-1,DE:: Sky Krimi
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7921.m3u8
+#EXTINF:-1,DE:: Fox
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7935.m3u8
+#EXTINF:-1,DE:: Fox HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23073.m3u8
+#EXTINF:-1,DE:: Fox FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23074.m3u8
+#EXTINF:-1,DE:: TNT Comedy SD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23078.m3u8
+#EXTINF:-1,DE:: TNT Comedy HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23077.m3u8
+#EXTINF:-1,DE:: TNT Comedy  FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7932.m3u8
+#EXTINF:-1,DE:: TNT Film SD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/36252.m3u8
+#EXTINF:-1,DE:: TNT Film HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/36251.m3u8
+#EXTINF:-1,DE:: TNT Film FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7931.m3u8
+#EXTINF:-1,DE:: TNT Serie SD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7933.m3u8
+#EXTINF:-1,DE:: TNT Serie HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23082.m3u8
+#EXTINF:-1,DE:: TNT Serie FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23081.m3u8
+#EXTINF:-1,DE:: Kinowelt
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7925.m3u8
+#EXTINF:-1,DE:: 13th Street
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7911.m3u8
+#EXTINF:-1,DE:: 13th Street HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22972.m3u8
+#EXTINF:-1,DE:: 13th Street FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22941.m3u8
+#EXTINF:-1,DE:: SYFY
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7927.m3u8
+#EXTINF:-1,DE:: Syfy HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22970.m3u8
+#EXTINF:-1,DE:: Syfy FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22916.m3u8
+#EXTINF:-1,DE:: Universal TV FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7924.m3u8
+#EXTINF:-1,DE:: AXN
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7929.m3u8
+#EXTINF:-1,DE: Zee One
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7902.m3u8
+#EXTINF:-1,DE:: Heimatkanal
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7909.m3u8
+#EXTINF:-1,DE:: Romance TV
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22466.m3u8
+#EXTINF:-1,===== SKY SELECT =====
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/18016.m3u8
+#EXTINF:-1,DE:: Darkside Select 1
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/17807.m3u8
+#EXTINF:-1,DE:: Darkside Select 2
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/17806.m3u8
+#EXTINF:-1,DE:: Darkside Select 3
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/17805.m3u8
+#EXTINF:-1,DE:: Darkside Select 4
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/17804.m3u8
+#EXTINF:-1,DE:: Darkside Select 5
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/17803.m3u8
+#EXTINF:-1,DE: Darkside Select 6
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/17029.m3u8
+#EXTINF:-1,Sky Select 1
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40634.m3u8
+#EXTINF:-1,Sky Select 2
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40635.m3u8
+#EXTINF:-1,Sky Select 3
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40636.m3u8
+#EXTINF:-1,Sky Select 4
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40637.m3u8
+#EXTINF:-1,Sky Select 5
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40638.m3u8
+#EXTINF:-1,Sky Select 6
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40639.m3u8
+#EXTINF:-1,Fantastic Select 1
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40672.m3u8
+#EXTINF:-1,Fantastic Select 2
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40673.m3u8
+#EXTINF:-1,Fantastic Select 3
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40674.m3u8
+#EXTINF:-1,Fantastic Select 4
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40675.m3u8
+#EXTINF:-1,Fantastic Select 5
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40676.m3u8
+#EXTINF:-1,Fantastic Select 6
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40677.m3u8
+#EXTINF:-1,======= NFL Gamepass =======
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/34117.m3u8
+#EXTINF:-1,DE:: NFL Gamepass Network
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/34102.m3u8
+#EXTINF:-1,DE:: NFL Gamepass Redzone
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/34551.m3u8
+#EXTINF:-1,===== DE SPORT =====
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/17812.m3u8
+#EXTINF:-1,DE:: DAZN BAR 1 HD (TEST)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/34123.m3u8
+#EXTINF:-1,DE:: DAZN 2 BAR HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/34124.m3u8
+#EXTINF:-1,DE:: DAZN BAR 1 FHD (TEST)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/31733.m3u8
+#EXTINF:-1,DE:: DAZN 2 BAR FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/31870.m3u8
+#EXTINF:-1,DE:: Eurosport 1 SD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23388.m3u8
+#EXTINF:-1,DE:: Eurosport 1 HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23389.m3u8
+#EXTINF:-1,DE:: Eurosport 1 FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/19827.m3u8
+#EXTINF:-1,DE:: Eurosport 2 SD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23384.m3u8
+#EXTINF:-1,DE:: Eurosport 2 HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23385.m3u8
+#EXTINF:-1,DE:: Eurosport 2 FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22936.m3u8
+#EXTINF:-1,DE:: Eurosport 2 SD Xtra
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/21719.m3u8
+#EXTINF:-1,DE:: Eurosport 2 HD Xtra
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/21718.m3u8
+#EXTINF:-1,DE:: Eurosport 2 FHD Xtra
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/21558.m3u8
+#EXTINF:-1,DE:: Sport 1 SD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22917.m3u8
+#EXTINF:-1,DE:: Sport 1 HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/19806.m3u8
+#EXTINF:-1,DE:: Sport 1 FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/30055.m3u8
+#EXTINF:-1,DE: Sport 1+ HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/19081.m3u8
+#EXTINF:-1,DE:: Sportdigital HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7963.m3u8
+#EXTINF:-1,DE:: Motorvision TV
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7962.m3u8
+#EXTINF:-1,DE:: Auto Motor Sport FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26949.m3u8
+#EXTINF:-1,==== SKY SPORT =====
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/13005.m3u8
+#EXTINF:-1,DE: FC Bayern TV
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26937.m3u8
+#EXTINF:-1,DE:: Sky Sport News SD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/24584.m3u8
+#EXTINF:-1,DE:: Sky Sport News HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/24583.m3u8
+#EXTINF:-1,DE:: Sky Sport News FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7934.m3u8
+#EXTINF:-1,DE:: Sky Sport Austria
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40227.m3u8
+#EXTINF:-1,DE:: Sky Sport Austria HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40228.m3u8
+#EXTINF:-1,DE:: Sky Sport Austria FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22923.m3u8
+#EXTINF:-1,DE:: SKY SPORT (AT)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7965.m3u8
+#EXTINF:-1,DE:: SKY SPORT 1 (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7966.m3u8
+#EXTINF:-1,DE:: SKY SPORT 2 (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7967.m3u8
+#EXTINF:-1,DE:: SKY SPORT 3 (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7968.m3u8
+#EXTINF:-1,DE:: SKY SPORT 4 (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7969.m3u8
+#EXTINF:-1,DE:: SKY SPORT 5 (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7970.m3u8
+#EXTINF:-1,DE:: SKY SPORT 6 (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7971.m3u8
+#EXTINF:-1,DE:: SKY SPORT 7 (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7972.m3u8
+#EXTINF:-1,DE:: SKY SPORT 8 (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7973.m3u8
+#EXTINF:-1,DE:: SKY SPORT 9 (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7974.m3u8
+#EXTINF:-1,DE:: SKY SPORT 10 (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7975.m3u8
+#EXTINF:-1,DE:: SKY SPORT 11 (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7976.m3u8
+#EXTINF:-1,DE::Sky Sport 1 HD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23614.m3u8
+#EXTINF:-1,DE::Sky Sport 2 HD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23611.m3u8
+#EXTINF:-1,DE::Sky Sport 3 HD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23610.m3u8
+#EXTINF:-1,DE::Sky Sport 4 HD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23609.m3u8
+#EXTINF:-1,DE::Sky Sport 5 HD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23608.m3u8
+#EXTINF:-1,DE::Sky Sport 6 HD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23607.m3u8
+#EXTINF:-1,DE::Sky Sport 7 HD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23606.m3u8
+#EXTINF:-1,DE::Sky Sport 8 HD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23605.m3u8
+#EXTINF:-1,DE::Sky Sport 9 HD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23604.m3u8
+#EXTINF:-1,DE::Sky Sport 10 HD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23613.m3u8
+#EXTINF:-1,DE::Sky Sport 11 HD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23612.m3u8
+#EXTINF:-1,DE:: Sky Sport 12 HD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40605.m3u8
+#EXTINF:-1,DE:: Sky Sport 13 HD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40606.m3u8
+#EXTINF:-1,DE:: Sky Sport 14 HD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40608.m3u8
+#EXTINF:-1,DE::Sky Sport 1 FHD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23625.m3u8
+#EXTINF:-1,DE::Sky Sport 2 FHD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23624.m3u8
+#EXTINF:-1,DE::Sky Sport 3 FHD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23623.m3u8
+#EXTINF:-1,DE::Sky Sport 4 FHD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23622.m3u8
+#EXTINF:-1,DE::Sky Sport 5 FHD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23621.m3u8
+#EXTINF:-1,DE::Sky Sport 6 FHD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23620.m3u8
+#EXTINF:-1,DE::Sky Sport 7 FHD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23619.m3u8
+#EXTINF:-1,DE::Sky Sport 8 FHD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23618.m3u8
+#EXTINF:-1,DE::Sky Sport 9 FHD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23617.m3u8
+#EXTINF:-1,DE::Sky Sport 10 FHD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23616.m3u8
+#EXTINF:-1,DE::Sky Sport 11 FHD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23615.m3u8
+#EXTINF:-1,DE:: Sky Sport 12 FHD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40603.m3u8
+#EXTINF:-1,DE:: Sky Sport 13 FHD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40604.m3u8
+#EXTINF:-1,DE:: Sky Sport 14 FHD (VIP).
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40607.m3u8
+#EXTINF:-1,====== SKY BUNDESLIGA =======
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/12391.m3u8
+#EXTINF:-1,DE:: Sky Bundesliga 1 (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7978.m3u8
+#EXTINF:-1,DE:: Sky Bundesliga 2  (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7979.m3u8
+#EXTINF:-1,DE:: Sky Bundesliga 3 (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7980.m3u8
+#EXTINF:-1,DE:: Sky Bundesliga 4 (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7981.m3u8
+#EXTINF:-1,DE:: Sky Bundesliga 5 (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7982.m3u8
+#EXTINF:-1,DE:: Sky Bundesliga 6 (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7983.m3u8
+#EXTINF:-1,DE:: Sky Bundesliga 7 (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7984.m3u8
+#EXTINF:-1,DE:: Sky Bundesliga 8 (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7985.m3u8
+#EXTINF:-1,DE:: Sky Bundesliga 9 (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7986.m3u8
+#EXTINF:-1,DE:: Sky Bundesliga 10 (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7987.m3u8
+#EXTINF:-1,DE:: Sky Bundesliga 1 HD (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23452.m3u8
+#EXTINF:-1,DE:: Sky Bundesliga 2 HD (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23451.m3u8
+#EXTINF:-1,DE:: Sky Bundesliga 3 HD (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23450.m3u8
+#EXTINF:-1,DE:: Sky Bundesliga 4 HD (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23449.m3u8
+#EXTINF:-1,DE:: Sky Bundesliga 5 HD (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23448.m3u8
+#EXTINF:-1,DE:: Sky Bundesliga 6 HD (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23447.m3u8
+#EXTINF:-1,DE:: Sky Bundesliga 9 HD (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40620.m3u8
+#EXTINF:-1,DE:: Sky Bundesliga 7 HD (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40622.m3u8
+#EXTINF:-1,DE:: Sky Bundesliga 8 HD (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40619.m3u8
+#EXTINF:-1,DE:: Sky Bundesliga 10 HD (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40621.m3u8
+#EXTINF:-1,DE:: Sky Sport Bundesliga 1 FHD (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22922.m3u8
+#EXTINF:-1,DE:: Sky Sport Bundesliga 2 FHD (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/21616.m3u8
+#EXTINF:-1,DE:: Sky Sport Bundesliga 3 FHD (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/21615.m3u8
+#EXTINF:-1,DE:: Sky Sport Bundesliga 4 FHD (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22920.m3u8
+#EXTINF:-1,DE:: Sky Sport Bundesliga 5 FHD (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/21609.m3u8
+#EXTINF:-1,DE:: Sky Sport Bundesliga 6 FHD (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/21614.m3u8
+#EXTINF:-1,DE:: Sky Sport Bundesliga 7 FHD (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/30036.m3u8
+#EXTINF:-1,DE:: Sky Sport Bundesliga 8 FHD (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40618.m3u8
+#EXTINF:-1,DE:: Sky Sport Bundesliga 9 FHD (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/30037.m3u8
+#EXTINF:-1,DE:: Sky Sport Bundesliga 10 FHD (VIP)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/30038.m3u8
+#EXTINF:-1,===== MIX # DE ======
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/13010.m3u8
+#EXTINF:-1,DE:: RBB HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39447.m3u8
+#EXTINF:-1,DE:: BR HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39448.m3u8
+#EXTINF:-1,DE:: HR HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/38716.m3u8
+#EXTINF:-1,DE:: DELUXE MUSIC
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/19836.m3u8
+#EXTINF:-1,DE:: Deluxe Music FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22940.m3u8
+#EXTINF:-1,DE: XITE
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/12909.m3u8
+#EXTINF:-1,DE: NRJ TV
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:-1,DE: Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/bitcodin.m3u8
+#EXTINF:-1,DE:: Classica
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/7900.m3u8
+#EXTINF:-1,DE:  WELT DER WUNDER
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/18852.m3u8
+#EXTINF:-1,DE: WMZ
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/18842.m3u8
+#EXTINF:-1,DE: HSE 24
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/9434.m3u8
+#EXTINF:-1,DE: HSE 24 Extra
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/9435.m3u8
+#EXTINF:-1,DE: HSE 24 Trend
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/9436.m3u8
+#EXTINF:-1,DE: erzTV Erzgebirge
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/18020.m3u8
+#EXTINF:-1,DE: eRtv Oberlausitz
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/18019.m3u8
+#EXTINF:-1,DE: Wernigerode
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/18022.m3u8
+#EXTINF:-1,DE: WMZ Senftenberg
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/18029.m3u8
+#EXTINF:-1,DE: SALZWEDEL
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/18024.m3u8
+#EXTINF:-1,DE: Punktum SüdHarz
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/18021.m3u8
+#EXTINF:-1,DE: Merseburg
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/18025.m3u8
+#EXTINF:-1,DE: EBS Kanal 1
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/18031.m3u8
+#EXTINF:-1,DE: EBS  Kanal 2
+http://ott.ec.streamcloud.be/live/disk1/EBSplus/hls_el/EBSplus.m3u8
+#EXTINF:-1,DE: Bundestag Kanal 2
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/18032.m3u8
+#EXTINF:-1,DE: Bundestag Kanal 1
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/18033.m3u8
+#EXTINF:-1,DE: ALEX BERLIN
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/13117.m3u8
+#EXTINF:-1,DE: Filstalwelle
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/11052.m3u8
+#EXTINF:-1,DE: ISAR TV
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/11051.m3u8
+#EXTINF:-1,DE: Rhein Neckar Fernsehen
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/11047.m3u8
+#EXTINF:-1,DE: TRP 1
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/11050.m3u8
+#EXTINF:-1,DE: CHEMNITZ FERNSEHEN
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/9431.m3u8
+#EXTINF:-1,DE: DRESDEN FERNSEHEN
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/9430.m3u8
+#EXTINF:-1,DE: LEIPZIG FERNSEHEN
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/9432.m3u8
+#EXTINF:-1,DE: Potsdam TV
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/9427.m3u8
+#EXTINF:-1,DE: RTL Luxemburg
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/9446.m3u8
+#EXTINF:-1,DE: FAMILIE TV
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/18847.m3u8
+#EXTINF:-1,DE: FOLX
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/18846.m3u8
+#EXTINF:-1,DE: RAN 1
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/18845.m3u8
+#EXTINF:-1,DE:: jukebox
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/22934.m3u8
+#EXTINF:-1,DE: RFH
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/18844.m3u8
+#EXTINF:-1,DE:: Sonnenklar FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/30082.m3u8
+#EXTINF:-1,DE:: Travelxp 4k
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/40305.m3u8
+#EXTINF:-1,==== AUSTRIA / SWISS =====
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/18017.m3u8
+#EXTINF:-1,AT:: ATV HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/23503.m3u8
+#EXTINF:-1,AT:: Puls 4 HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26932.m3u8
+#EXTINF:-1,AT:: ORF 1 FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26930.m3u8
+#EXTINF:-1,AT:: ORF 2 FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26929.m3u8
+#EXTINF:-1,AT: ORF 3
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/10564.m3u8
+#EXTINF:-1,AT: ORF Sport +
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26928.m3u8
+#EXTINF:-1,AT:: Servus TV FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26927.m3u8
+#EXTINF:-1,Swiss: SRF 1
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26926.m3u8
+#EXTINF:-1,Swiss: SRF 2
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26925.m3u8
+#EXTINF:-1,Swiss: 3+
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/29750.m3u8
+#EXTINF:-1,Swiss: 4+
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26941.m3u8
+#EXTINF:-1,Swiss: 5+
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/29787.m3u8
+#EXTINF:-1,Swiss: S1 HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/27054.m3u8
+#EXTINF:-1,Swiss: SRF Info
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/10565.m3u8
+#EXTINF:-1,Swiss: TC Cinema
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26924.m3u8
+#EXTINF:-1,Swiss: TC Emotion
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26923.m3u8
+#EXTINF:-1,Swiss: TC Sport 1 HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26921.m3u8
+#EXTINF:-1,Swiss: TC Sport 2
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26920.m3u8
+#EXTINF:-1,Swiss: TC Action
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26922.m3u8
+#EXTINF:-1,[Out of order] Swiss: Mysports HD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26918.m3u8
+#EXTINF:-1,[Out of order] Swiss: Mysports 1 FHD
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26917.m3u8
+#EXTINF:-1,[Out of order] Swiss: MySports 2 FHD (CH)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26916.m3u8
+#EXTINF:-1,[Out of order] Swiss: MySports 3 FHD (CH)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26915.m3u8
+#EXTINF:-1,[Out of order] Swiss: MySports 4 FHD (CH)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26914.m3u8
+#EXTINF:-1,[Out of order] Swiss: MySports 5 FHD (CH)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26913.m3u8
+#EXTINF:-1,[Out of order] Swiss: MySports 6 FHD (CH)
+http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/26912.m3u8
+#EXTINF:-1,#### SKY SELECT ON DEMAND ####
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36121.
+#EXTINF:-1,VOD-DE Verschwörung
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40659.mkv
+#EXTINF:-1,VOD-DE Creed II: Rocky's Legacy
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40297.mkv
+#EXTINF:-1,VOD-DE Glass
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40299.mkv
+#EXTINF:-1,VOD-DE Aquaman
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40296.mkv
+#EXTINF:-1,#### KINO AKTUELL ####
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35848.
+#EXTINF:-1,VOD-DE Beats
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40870.mkv
+#EXTINF:-1,VOD-DE Green Book
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40651.mkv
+#EXTINF:-1,VOD-DE The Silence
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40656.mkv
+#EXTINF:-1,VOD-DE Wir
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40658.mkv
+#EXTINF:-1,VOD-DE White Boy Rick
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40613.mkv
+#EXTINF:-1,VOD-DE Captain Marvel
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40537.mkv
+#EXTINF:-1,VOD-DE The Mule
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40572.mkv
+#EXTINF:-1,VOD-DE The Hate U Give
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39929.mkv
+#EXTINF:-1,VOD-DE Friedhof der Kuscheltiere
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40610.mkv
+#EXTINF:-1,VOD-DE Was Männer wollen
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40612.mkv
+#EXTINF:-1,VOD-DE The Possession of Hannah Grace
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40036.mkv
+#EXTINF:-1,VOD-DE The Diamond Job - Gauner, Bomben und Juwelen
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40579.mkv
+#EXTINF:-1,VOD-DE Wenn du König wärst
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40580.mkv
+#EXTINF:-1,VOD-DE Holmes & Watson
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40574.mkv
+#EXTINF:-1,VOD-DE A Prayer before Dawn - Das letzte Gebet
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40564.mkv
+#EXTINF:-1,VOD-DE Avengers: Endgame
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40565.mkv
+#EXTINF:-1,VOD-DE Happy Deathday 2U
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40566.mkv
+#EXTINF:-1,VOD-DE Hard Powder
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40567.mkv
+#EXTINF:-1,VOD-DE Plötzlich Familie
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40569.mkv
+#EXTINF:-1,VOD-DE Willkommen in Marwen
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40573.mkv
+#EXTINF:-1,VOD-DE The Favourite - Intrigen und Irrsinn
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40540.mkv
+#EXTINF:-1,VOD-DE Widows - Tödliche Witwen
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39930.mkv
+#EXTINF:-1,VOD-DE Mortal Engines: Krieg der Städte
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39863.mkv
+#EXTINF:-1,VOD-DE Abgeschnitten
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40536.mkv
+#EXTINF:-1,VOD-DE The Little Stranger
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40300.mkv
+#EXTINF:-1,VOD-DE Upgrade
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40302.mkv
+#EXTINF:-1,VOD-DE Werk ohne Autor
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40303.mkv
+#EXTINF:-1,VOD-DE Nur ein kleiner Gefallen
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40242.mkv
+#EXTINF:-1,VOD-DE Alita - Battle Angel
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40121.mkv
+#EXTINF:-1,VOD-DE unbroken: Weg der Vergebung
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40130.mkv
+#EXTINF:-1,VOD-DE Unknown User: Dark Web
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40301.mkv
+#EXTINF:-1,VOD-DE Der Vorname
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40298.mkv
+#EXTINF:-1,VOD-DE Bohemian Rhapsody
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39865.mkv
+#EXTINF:-1,VOD-DE Ballon
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40122.mkv
+#EXTINF:-1,VOD-DE Der verlorene Sohn
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40123.mkv
+#EXTINF:-1,VOD-DE The Nun
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35869.mkv
+#EXTINF:-1,VOD-DE Predator - Upgrade
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35872.mkv
+#EXTINF:-1,VOD-DE The Equalizer 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35873.mkv
+#EXTINF:-1,VOD-DE Operation: Overlord
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39927.mkv
+#EXTINF:-1,VOD-DE Night School
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39717.mkv
+#EXTINF:-1,VOD-DE Aufbruch zum Mond
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38416.mkv
+#EXTINF:-1,VOD-DE Hunter Killer
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40124.mkv
+#EXTINF:-1,VOD-DE Gänsehaut 2 - Gruseliges Halloween
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39876.mkv
+#EXTINF:-1,VOD-DE Klassentreffen 1.0
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40156.mkv
+#EXTINF:-1,VOD-DE Venom
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37389.mkv
+#EXTINF:-1,VOD-DE Mission: Impossible - Fallout
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35862.mkv
+#EXTINF:-1,VOD-DE Can You Ever Forgive Me?
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39957.mkv
+#EXTINF:-1,VOD-DE Nobody's Fool
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39926.mkv
+#EXTINF:-1,VOD-DE Radius - Tödliche Nähe
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39877.mkv
+#EXTINF:-1,VOD-DE Halloween
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37424.mkv
+#EXTINF:-1,VOD-DE A Star Is Born
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36218.mkv
+#EXTINF:-1,VOD-DE Sauerkrautkoma
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39878.mkv
+#EXTINF:-1,VOD-DE Bad Spies
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38702.mkv
+#EXTINF:-1,VOD-DE Skyscraper
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35866.mkv
+#EXTINF:-1,VOD-DE Climax
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39861.mkv
+#EXTINF:-1,VOD-DE Searching
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39859.mkv
+#EXTINF:-1,VOD-DE Dogman
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39848.mkv
+#EXTINF:-1,VOD-DE SuperFly
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39742.mkv
+#EXTINF:-1,VOD-DE Don’t Worry, weglaufen geht nicht
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39741.mkv
+#EXTINF:-1,VOD-DE Das Haus der geheimnisvollen Uhren
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39847.mkv
+#EXTINF:-1,VOD-DE Es war einmal ein Deadpool
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39849.mkv
+#EXTINF:-1,VOD-DE Mile 22
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39851.mkv
+#EXTINF:-1,VOD-DE The Guilty
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38705.mkv
+#EXTINF:-1,VOD-DE Hereditary - Das Vermächtnis
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39549.mkv
+#EXTINF:-1,VOD-DE Tully
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39555.mkv
+#EXTINF:-1,VOD-DE Bird Box
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39171.mkv
+#EXTINF:-1,VOD-DE Le jeu - Nichts zu verbergen
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39173.mkv
+#EXTINF:-1,VOD-DE Bad Times at the El Royale
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38703.mkv
+#EXTINF:-1,VOD-DE Christopher Robin
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36320.mkv
+#EXTINF:-1,VOD-DE Meg
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35861.mkv
+#EXTINF:-1,VOD-DE Mamma Mia! Here We Go Again
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35917.mkv
+#EXTINF:-1,VOD-DE Johnny English: Man lebt nur dreimal
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38485.mkv
+#EXTINF:-1,VOD-DE Winchester - Das Haus der Verdammten
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38400.mkv
+#EXTINF:-1,VOD-DE Alpha
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38396.mkv
+#EXTINF:-1,VOD-DE Crazy Rich
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38397.mkv
+#EXTINF:-1,VOD-DE Peppermint - Angel of Vengeance
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38398.mkv
+#EXTINF:-1,VOD-DE Catch Me!
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35855.mkv
+#EXTINF:-1,VOD-DE Sicario 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35847.mkv
+#EXTINF:-1,VOD-DE Hotel Artemis
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35871.mkv
+#EXTINF:-1,VOD-DE The Darkest Minds - Die Überlebenden
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35867.mkv
+#EXTINF:-1,VOD-DE BlacKkKlansman
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37050.mkv
+#EXTINF:-1,VOD-DE Teen Titans Go! To the Movies
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36321.mkv
+#EXTINF:-1,VOD-DE Slender Man
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35894.mkv
+#EXTINF:-1,VOD-DE Ocean's 8
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35864.mkv
+#EXTINF:-1,VOD-DE The First Purge
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35868.mkv
+#EXTINF:-1,VOD-DE-KIDS Jurassic World - Das gefallene Königreich
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35860.mkv
+#EXTINF:-1,VOD-DE Deadpool 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35920.mkv
+#EXTINF:-1,VOD-DE Solo – A Star Wars Story
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35928.mkv
+#EXTINF:-1,VOD-DE Blame - Verbotenes Verlangen
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35853.mkv
+#EXTINF:-1,VOD-DE First Reformed
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35857.mkv
+#EXTINF:-1,VOD-DE Action Point
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35849.mkv
+#EXTINF:-1,VOD-DE Vielmachglas
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35874.mkv
+#EXTINF:-1,VOD-DE Avengers: Infinity War
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35852.mkv
+#EXTINF:-1,VOD-DE Breaking In
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35854.mkv
+#EXTINF:-1,VOD-DE Isle of Dogs - Ataris Reise
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35851.mkv
+#EXTINF:-1,VOD-DE No Way Out - Gegen die Flammen
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35863.mkv
+#EXTINF:-1,VOD-DE Unsere Erde 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35870.mkv
+#EXTINF:-1,VOD-DE A Quiet Place
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35918.mkv
+#EXTINF:-1,VOD-DE Das Zeiträtsel
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35919.mkv
+#EXTINF:-1,VOD-DE Death Race 4: Beyond Anarchy
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35921.mkv
+#EXTINF:-1,VOD-DE Game Night
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35922.mkv
+#EXTINF:-1,VOD-DE Hot Dog
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35924.mkv
+#EXTINF:-1,VOD-DE Rampage - Big meets Bigger
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35925.mkv
+#EXTINF:-1,VOD-DE Ready Player One
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35926.mkv
+#EXTINF:-1,VOD-DE Sherlock Gnomes
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35927.mkv
+#EXTINF:-1,VOD-DE Street Justice
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35929.mkv
+#EXTINF:-1,VOD-DE Tomb Raider
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35930.mkv
+#EXTINF:-1,VOD-DE Vollblüter
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35931.mkv
+#EXTINF:-1,#### MIX - VOD ###
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40748.
+#EXTINF:-1,VOD-DE Dumbo 2019
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40842.mkv
+#EXTINF:-1,VOD-DE The Dead dont Die
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40841.mkv
+#EXTINF:-1,VOD-DE Beatiful Boy
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40835.mkv
+#EXTINF:-1,VOD-DE Dark Crimes
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40836.mkv
+#EXTINF:-1,VOD-DE Hellbound
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40837.mkv
+#EXTINF:-1,VOD-DE Holmes und Watson
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40838.mkv
+#EXTINF:-1,VOD-DE Kin
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40839.mkv
+#EXTINF:-1,VOD-DE The House that Jack built
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40840.mkv
+#EXTINF:-1,VOD-DE Cut and Run
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40719.mkv
+#EXTINF:-1,vod-de Alphaville
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40726.mkv
+#EXTINF:-1,VOD-DE Always be my Maybe
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40716.mkv
+#EXTINF:-1,VOD-DE Der Auftrag
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40720.mkv
+#EXTINF:-1,VOD-DE Der Geiger von Florenz
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40721.mkv
+#EXTINF:-1,VOD-DE Framed
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40722.mkv
+#EXTINF:-1,VOD-DE Green Book Eine besondere Freundschaft
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40723.mkv
+#EXTINF:-1,VOD-DE Murder Mystery 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40724.mkv
+#EXTINF:-1,VOD-DE Contaminator Die Mordmaschine aus der zukunft
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40718.mkv
+#EXTINF:-1,VOD-DE Asterix und das Geheimnis des Zaubertranks
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40759.mkv
+#EXTINF:-1,VOD-DE Bernie der Delfin
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40760.mkv
+#EXTINF:-1,VOD-DE Bright Burn
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40761.mkv
+#EXTINF:-1,VOD-DE Die Winzlinge Abenteuer in der Karibik
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40762.mkv
+#EXTINF:-1,VOD-DE Ein Gauner und Gentleman
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40763.mkv
+#EXTINF:-1,VOD-DE Fighting with my Family
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40764.mkv
+#EXTINF:-1,VOD-DE Final Score
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40765.mkv
+#EXTINF:-1,VOD-DE Hellboy HDcam
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40766.mkv
+#EXTINF:-1,VOD-DE Iron Sky 2 Webrip
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40767.mkv
+#EXTINF:-1,VOD-DE Last Rampage
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40768.mkv
+#EXTINF:-1,VOD-DE Ma Sie sieht alles Telesync
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40769.mkv
+#EXTINF:-1,VOD-DE Master Z Ip Man Legacy
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40770.mkv
+#EXTINF:-1,VOD-DE Mega Time Squad
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40771.mkv
+#EXTINF:-1,VOD-DE Mein Bester und ich
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40772.mkv
+#EXTINF:-1,VOD-DE Men Dark Phoenix
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40773.mkv
+#EXTINF:-1,VOD-DE Men im Black International Telesync
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40774.mkv
+#EXTINF:-1,VOD-DE Nanouk
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40775.mkv
+#EXTINF:-1,VOD-DE Pokemon Detective Pikachu HDCAM
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40776.mkv
+#EXTINF:-1,VOD-DE Rememory Im Schatten der Erinnerung
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40777.avi
+#EXTINF:-1,VOD-DE Shazam HDCAM
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40778.mp4
+#EXTINF:-1,VOD-DE Stille Nacht, Blutige Nacht
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40754.mp4
+#EXTINF:-1,VOD-DE The Escape of Prisoner
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40779.mkv
+#EXTINF:-1,VOD-DE The Sisters Brothers
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40780.mkv
+#EXTINF:-1,VOD-DE Verachtung
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40781.mkv
+#EXTINF:-1,### DOKU ###
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40869.
+#EXTINF:-1,VOD-DOKU Africa ein Kontinent erfindet sich neu
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40843.mkv
+#EXTINF:-1,VOD-DOKU Autos fuer die Ewigkeit Mercedes Veteranen auf den Strassen der Welt
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40844.mkv
+#EXTINF:-1,VOD-Doku Bedingt abwehrbereit
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40866.mkv
+#EXTINF:-1,VOD-DOKU Benzin im Blut Zwei Frauen auf der Ueberholspur
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40845.mkv
+#EXTINF:-1,VOD-Doku Das Ende unseres Sonnensystems
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40867.mkv
+#EXTINF:-1,VOD-DOKU Das Geheimnis der dunklen Energie
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40846.mkv
+#EXTINF:-1,VOD-DOKU Der VW Bus Ein Transporter fuer die Welt
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40847.mkv
+#EXTINF:-1,VOD-DOKU Der weisse zulu
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40848.mkv
+#EXTINF:-1,VOD-Doku die gruene Luege
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40868.mkv
+#EXTINF:-1,VOD-DOKU Die moerderische Strategie der IS
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40850.mkv
+#EXTINF:-1,VOD-DOKU Die verrueckten 68er ein Jahr veraendert unsere Welt
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40851.mkv
+#EXTINF:-1,VOD-DOKU Die Wiedergeburt des Mammuts
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40849.mkv
+#EXTINF:-1,VOD-DOKU Dschungel unter Wasser das geheimnisvolle Leben im Baggersee
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40852.mkv
+#EXTINF:-1,VOD-DOKU eSport wieviele Sport steckt im eSport
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40865.mkv
+#EXTINF:-1,VOD-DOKU Geheimnisvolle Orte Der Grunewald
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40853.mkv
+#EXTINF:-1,VOD-DOKU Geheimnisvolle Orte SChloss Liebenberg
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40854.mkv
+#EXTINF:-1,VOD-DOKU Ich waere so gerne heimgekommen NS Enthanasie im Dritten Reich
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40855.mkv
+#EXTINF:-1,VOD-DOKU Insekten die besseren Schaedlingsbekaempfer
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40856.mkv
+#EXTINF:-1,VOD-DOKU Menschengemachte Probleme
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40857.mkv
+#EXTINF:-1,VOD-DOKU Money in Minutes
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40858.mkv
+#EXTINF:-1,VOD-DOKU Therapie unter Tannen
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40859.mkv
+#EXTINF:-1,VOD-DOKU Trumps neue Truppen Buergerwehr gegen Migranten
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40860.mkv
+#EXTINF:-1,VOD-DOKU Ungeklaert Mord verjahrt nicht - Toedliche Pyjama Party
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40861.mkv
+#EXTINF:-1,VOD-DOKU Verheizt fuer billige Milch Das lIeden der deutschen Turbokuehe
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40862.mkv
+#EXTINF:-1,VOD-DOKU Verlust der Nacht
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40863.mkv
+#EXTINF:-1,VOD-DOKU Versichert und verloren Die zweifelhaften Methoden der Versicherer
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40864.mkv
+#EXTINF:-1,#### KUNG FU - KARATE - EASTERN ####
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37593.
+#EXTINF:-1,VOD-DE Die fliegende Guillotine 1
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37594.mkv
+#EXTINF:-1,VOD-DE Die fliegende Guillotine 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37595.mkv
+#EXTINF:-1,VOD-DE Die fliegende Guillotine 3
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37596.mkv
+#EXTINF:-1,#### ACTION ####
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39962.
+#EXTINF:-1,VOD-DE Escape Room
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40236.mkv
+#EXTINF:-1,VOD-DE Herz aus Stahl
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40237.mkv
+#EXTINF:-1,VOD-DE The Raid
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40129.mkv
+#EXTINF:-1,VOD-DE The Raid 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40128.mkv
+#EXTINF:-1,VOD-DE John Wick
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39969.mkv
+#EXTINF:-1,VOD-DE John Wick: Kapitel 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39970.mkv
+#EXTINF:-1,VOD-DE Spider-Man: Homecoming
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39973.mkv
+#EXTINF:-1,VOD-DE Non-Stop
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39961.mkv
+#EXTINF:-1,VOD-DE 96 Hours
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39958.mkv
+#EXTINF:-1,VOD-DE 96 Hours - Taken 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39959.mkv
+#EXTINF:-1,VOD-DE 96 Hours - Taken 3
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39960.mkv
+#EXTINF:-1,#### HORROR ####
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36120.
+#EXTINF:-1,VOD-DE Resident Evil
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39852.mkv
+#EXTINF:-1,VOD-DE Resident Evil: Apocalypse
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39854.mkv
+#EXTINF:-1,VOD-DE Resident Evil - Extinction
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39855.mkv
+#EXTINF:-1,VOD-DE Resident Evil: Afterlife
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39853.mkv
+#EXTINF:-1,VOD-DE Resident Evil: Retribution
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39856.mkv
+#EXTINF:-1,VOD-DE Resident Evil: The Final Chapter
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39857.mkv
+#EXTINF:-1,VOD-DE Alien - Das unheimliche Wesen aus einer fremden Welt
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35933.mkv
+#EXTINF:-1,VOD-DE Chucky's Baby
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35934.mkv
+#EXTINF:-1,VOD-DE Die Dämonenjäger
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35935.avi
+#EXTINF:-1,VOD-DE Die Unzertrennlichen
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35936.mkv
+#EXTINF:-1,VOD-DE Halloween II - Das Grauen kehrt zurück
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35937.mkv
+#EXTINF:-1,VOD-DE Halloween 2007
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35938.mkv
+#EXTINF:-1,VOD-DE Halloween IV - Michael Myers kehrt zurück
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35939.mkv
+#EXTINF:-1,VOD-DE Bad Behaviour - Bösen Menschen passieren böse Dinge!
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35940.avi
+#EXTINF:-1,VOD-DE Our Evil
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35941.mkv
+#EXTINF:-1,VOD-DE The Dead and the Damned 3: Ravaged
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35942.avi
+#EXTINF:-1,VOD-DE The Fog - Nebel des Grauens
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35943.mkv
+#EXTINF:-1,VOD-DE 100 Tears
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36122.mkv
+#EXTINF:-1,VOD-DE Echoes - Stimmen aus der Zwischenwelt
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36123.mkv
+#EXTINF:-1,VOD-DE Mandy
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36124.mkv
+#EXTINF:-1,VOD-DE The Strangers-Opfernacht
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36126.mkv
+#EXTINF:-1,VOD-DE 205 - Zimmer der Angst
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36248.mkv
+#EXTINF:-1,VOD-DE Carrie
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36230.mkv
+#EXTINF:-1,VOD-DE Conjuring - Die Heimsuchung
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36232.mkv
+#EXTINF:-1,VOD-DE Conjuring 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36231.mkv
+#EXTINF:-1,VOD-DE Das Dorf der Verdammten
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36233.mkv
+#EXTINF:-1,VOD-DE Das Schweigen der Lämmer
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36234.mkv
+#EXTINF:-1,VOD-DE Der Babadook
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36229.mkv
+#EXTINF:-1,VOD-DE Der Fluch von Darkness Falls
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36235.avi
+#EXTINF:-1,VOD-DE Grave Encounters
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36237.mkv
+#EXTINF:-1,VOD-DE House at the End of the Street
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36238.mkv
+#EXTINF:-1,VOD-DE Orphan - Das Waisenkind
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36239.mkv
+#EXTINF:-1,VOD-DE Shining
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36240.mkv
+#EXTINF:-1,VOD-DE Sinister - Wenn Du ihn siehst, bist Du schon verloren
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36242.mkv
+#EXTINF:-1,VOD-DE Sinister 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36241.mkv
+#EXTINF:-1,VOD-DE The Human Centipede - Der menschliche Tausendfüßler
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36244.avi
+#EXTINF:-1,VOD-DE The Human Centipede 2 (Full Sequence)
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36243.mkv
+#EXTINF:-1,VOD-DE The Visit
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36245.mkv
+#EXTINF:-1,VOD-DE The Wailing
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36246.mkv
+#EXTINF:-1,VOD-DE Train to Busan
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36247.mkv
+#EXTINF:-1,#### COMEDY #####
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36290.mkv
+#EXTINF:-1,VOD-DE Liebe braucht keine Ferien
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40568.avi
+#EXTINF:-1,VOD-DE Asso ein himmlischer Spieler
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36292.mkv
+#EXTINF:-1,VOD-DE Bad Moms
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36293.mkv
+#EXTINF:-1,VOD-DE Bad Moms 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36294.mkv
+#EXTINF:-1,VOD-DE The Boss Baby
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36295.mkv
+#EXTINF:-1,VOD-DE Casino Undercover
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36296.mkv
+#EXTINF:-1,VOD-DE Catch Me If You Can
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36297.mkv
+#EXTINF:-1,VOD-DE Daddy's Home - Ein Vater zu viel
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36299.mkv
+#EXTINF:-1,VOD-DE Daddy's Home 2 - Mehr Väter, mehr Probleme!
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36298.mkv
+#EXTINF:-1,VOD-DE Der Knastcoach
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36311.mkv
+#EXTINF:-1,VOD-DE Der Sex Pakt
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36300.mkv
+#EXTINF:-1,VOD-DE Ein Jahr vogelfrei!
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36302.mkv
+#EXTINF:-1,VOD-DE Fack ju Göhte
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36305.mkv
+#EXTINF:-1,VOD-DE Fack ju Göhte 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36304.mkv
+#EXTINF:-1,VOD-DE Fack ju Göhte 3
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36303.mkv
+#EXTINF:-1,VOD-DE Gringo
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36306.mkv
+#EXTINF:-1,VOD-DE Johnny English - Der Spion, der es versiebte
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36310.mkv
+#EXTINF:-1,VOD-DE Johnny English - Jetzt erst recht
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36309.mkv
+#EXTINF:-1,VOD-DE Lommbock
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36312.mkv
+#EXTINF:-1,VOD-DE Mein Blind Date mit dem Leben
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36315.mkv
+#EXTINF:-1,VOD-DE Mädelstrip
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36313.mkv
+#EXTINF:-1,VOD-DE Schtonk!
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36317.mkv
+#EXTINF:-1,VOD-DE Stoned - Volle Dröhnung voraus
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36318.mkv
+#EXTINF:-1,VOD-DE The Death of Stalin
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36319.mkv
+#EXTINF:-1,VOD-DE 21 Jump Street
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36388.mkv
+#EXTINF:-1,VOD-DE Abbuzze! Der Badesalz-Film
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36389.mkv
+#EXTINF:-1,VOD-DE Cool Runnings - Dabei sein ist alles
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36390.mkv
+#EXTINF:-1,VOD-DE Die nackte Kanone
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36391.mkv
+#EXTINF:-1,VOD-DE Galaxy Quest - Planlos durchs Weltall
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36392.mkv
+#EXTINF:-1,VOD-DE Hangover Girls - Best Night Ever
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36397.mkv
+#EXTINF:-1,VOD-DE Pitch Perfect
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36400.mkv
+#EXTINF:-1,VOD-DE Pitch Perfect 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36399.mkv
+#EXTINF:-1,VOD-DE Pitch Perfect 3
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36401.mkv
+#EXTINF:-1,VOD-DE Superbad
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36402.mkv
+#EXTINF:-1,VOD-DE The Big Short
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36403.mkv
+#EXTINF:-1,VOD-DE The Lobster
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36404.mkv
+#EXTINF:-1,VOD-DE Wir sind die Millers
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36405.mkv
+#EXTINF:-1,#### KRIMI ####
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36217.
+#EXTINF:-1,VOD-DE Silk Road - Könige des Darknets
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40578.mkv
+#EXTINF:-1,VOD-DE All in or Nothing
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38487.mkv
+#EXTINF:-1,VOD-DE American Gangster
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38488.mkv
+#EXTINF:-1,VOD-DE Bang Boom Bang - Ein todsicheres Ding
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38489.mkv
+#EXTINF:-1,VOD-DE Blow
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38490.mkv
+#EXTINF:-1,VOD-DE Bonnie und Clyde
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38491.mkv
+#EXTINF:-1,VOD-DE Casino
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38492.mkv
+#EXTINF:-1,VOD-DE Chiko
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38493.mkv
+#EXTINF:-1,VOD-DE City of God
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38494.mkv
+#EXTINF:-1,VOD-DE Departed - Unter Feinden
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38495.mkv
+#EXTINF:-1,VOD-DE Der blutige Pfad Gottes
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38499.mkv
+#EXTINF:-1,VOD-DE Der blutige Pfad Gottes 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38500.mkv
+#EXTINF:-1,VOD-DE Der Pate
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38496.mkv
+#EXTINF:-1,VOD-DE Der Pate - Teil II
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38497.mkv
+#EXTINF:-1,VOD-DE Der Pate - Teil III
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38498.mkv
+#EXTINF:-1,VOD-DE Die Unbestechlichen
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38501.mkv
+#EXTINF:-1,VOD-DE Die üblichen Verdächtigen
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38502.mkv
+#EXTINF:-1,VOD-DE Ein Prophet
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38503.mkv
+#EXTINF:-1,VOD-DE Es war einmal in Amerika
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38504.mkv
+#EXTINF:-1,VOD-DE GoodFellas
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38505.mkv
+#EXTINF:-1,VOD-DE Heat
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38521.mkv
+#EXTINF:-1,VOD-DE In den Straßen der Bronx
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38506.mkv
+#EXTINF:-1,VOD-DE L.A. Confidential
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38507.mkv
+#EXTINF:-1,VOD-DE Leon - Der Profi
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38508.mkv
+#EXTINF:-1,VOD-DE Menace II Society
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38509.mkv
+#EXTINF:-1,VOD-DE Pulp Fiction
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38510.mkv
+#EXTINF:-1,VOD-DE Romeo Must Die
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38511.mkv
+#EXTINF:-1,VOD-DE Scarface
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38512.mkv
+#EXTINF:-1,VOD-DE Sin City
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38514.mkv
+#EXTINF:-1,VOD-DE Sin City 2: A Dame To Kill For
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38513.mkv
+#EXTINF:-1,VOD-DE Sleepers
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38515.mkv
+#EXTINF:-1,VOD-DE Snatch - Schweine und Diamanten
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38516.mkv
+#EXTINF:-1,VOD-DE Training Day
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38518.mkv
+#EXTINF:-1,VOD-DE True Romance
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38519.mkv
+#EXTINF:-1,VOD-DE Tödliche Versprechen - Eastern Promises
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38517.mkv
+#EXTINF:-1,VOD-DE Wilde Hunde - Rabid Dogs
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38520.mkv
+#EXTINF:-1,VOD-DE Stoppt die Todesfahrt der U-Bahn 1-2-3
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36125.mkv
+#EXTINF:-1,#### DRAMA ####
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37426.
+#EXTINF:-1,VOD-DE Fifty Shades of Grey - Befreite Lust
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40455.mkv
+#EXTINF:-1,VOD-DE Fifty Shades of Grey - Gefährliche Liebe
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40456.mkv
+#EXTINF:-1,VOD-DE Die Hütte - Ein Wochenende mit Gott
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38427.mkv
+#EXTINF:-1,VOD-DE Nur Gott kann mich richten
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38409.mkv
+#EXTINF:-1,VOD-DE Snowden
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37614.mkv
+#EXTINF:-1,VOD-DE Christiane F. - Wir Kinder vom Bahnhof Zoo
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37425.mkv
+#EXTINF:-1,#### FANTASY ####
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38411.
+#EXTINF:-1,VOD-DE Thor
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39974.mkv
+#EXTINF:-1,VOD-DE Thor - The Dark Kingdom
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39976.mkv
+#EXTINF:-1,VOD-DE Thor: Tag der Entscheidung
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39975.mkv
+#EXTINF:-1,VOD-DE Die Mumie
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39648.mkv
+#EXTINF:-1,VOD-DE Die Mumie 1999
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39647.mkv
+#EXTINF:-1,VOD-DE Die Mumie kehrt zurück
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39649.mkv
+#EXTINF:-1,VOD-DE Krabat
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38408.mkv
+#EXTINF:-1,#### SCIENCE FICTION ####
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39997.
+#EXTINF:-1,VOD-DE The First Avenger: Civil War
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40611.mkv
+#EXTINF:-1,VOD-DE Blade Runner
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40126.mkv
+#EXTINF:-1,VOD-DE Blade Runner 2049
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40127.mkv
+#EXTINF:-1,VOD-DE Marvel's The Avengers
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39972.mkv
+#EXTINF:-1,VOD-DE Avengers: Age of Ultron
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39971.mkv
+#EXTINF:-1,#### KIDS ####
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37370.
+#EXTINF:-1,VOD-DE 00 Pokemon - Mewtu kehrt zurück [OVA]
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37350.mkv
+#EXTINF:-1,VOD-DE 01 Pokemon - Mewtu gegen Mew [HD]
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37351.mkv
+#EXTINF:-1,VOD-DE 02 Pokemon - Die Macht des Einzelnen [HD]
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37352.mkv
+#EXTINF:-1,VOD-DE 03 Pokemon - Im Bann der Icognito [HD]
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37353.mkv
+#EXTINF:-1,VOD-DE 04 Pokemon - Die zeitlose Begegnung [HD]
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37354.mkv
+#EXTINF:-1,VOD-DE 05 Pokemon - Heroes [HD]
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37355.mkv
+#EXTINF:-1,VOD-DE 06 Pokemon - Jirachi Wishmaker [HD]
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37356.mkv
+#EXTINF:-1,VOD-DE 07 Pokemon - Destiny Deoxys [HD]
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37357.mkv
+#EXTINF:-1,VOD-DE 08 Pokemon - Lucario und das Geheimnis von Mew [HD]
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37358.mkv
+#EXTINF:-1,VOD-DE 09 Pokemon - Pokemon Ranger und der Tempel des Meeres [HD]
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37359.mkv
+#EXTINF:-1,VOD-DE 10 Pokemon - Der Aufstieg von Darkrai [HD]
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37360.mkv
+#EXTINF:-1,VOD-DE 101 Dalmatiner
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39624.mkv
+#EXTINF:-1,VOD-DE 101 Dalmatiner - Teil 2: Auf kleinen Pfoten zum großen Star!
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39625.mkv
+#EXTINF:-1,VOD-DE 11 Pokemon - Giratina und der Himmelsritter
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37361.mkv
+#EXTINF:-1,VOD-DE 12 Pokemon - Arceus und das Juwel des Lebens
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37362.mkv
+#EXTINF:-1,VOD-DE 13 Pokemon - Zoroark Meister der Illusionen [HD]
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37363.mkv
+#EXTINF:-1,VOD-DE 15 Pokemon - Kyurem gegen den Ritter der Redlichkeit [HD]
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37364.mkv
+#EXTINF:-1,VOD-DE 16 Pokemon - Genesect und die wiedererwachte Legende [HD]
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37365.mkv
+#EXTINF:-1,VOD-DE 17 Pokemon - Diancie und der Kokon der Zerstörung [HD]
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37366.mkv
+#EXTINF:-1,VOD-DE 18 Pokemon - Hoopa und der Kampf der Geschichte [HD]
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37367.mkv
+#EXTINF:-1,VOD-DE 19 Pokemon - Volcanion und das mechanische Wunderwerk
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37368.mkv
+#EXTINF:-1,VOD-DE 20 Pokemon - Du bist dran!
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37369.mkv
+#EXTINF:-1,VOD-DE Ab durch die Hecke
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39539.mkv
+#EXTINF:-1,VOD-DE Ace Ventura - Ein tierischer Detektiv
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36291.mkv
+#EXTINF:-1,VOD-DE Aladdin
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40647.mkv
+#EXTINF:-1,VOD-DE-KIDS Aladin
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39626.mkv
+#EXTINF:-1,VOD-DE Alice im Wunderland
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39627.mkv
+#EXTINF:-1,VOD-DE Alice im Wunderland: Hinter den Spiegeln
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39628.mkv
+#EXTINF:-1,VOD-DE Angry Birds - Der Film
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39629.mkv
+#EXTINF:-1,VOD-DE Ant-Man and the Wasp
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35850.mkv
+#EXTINF:-1,VOD-DE Aristocats
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39669.mkv
+#EXTINF:-1,VOD-DE Arlo & Spot
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39630.mkv
+#EXTINF:-1,VOD-DE Arthur Weihnachtsmann
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36444.avi
+#EXTINF:-1,VOD-DE Bambi
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39634.mkv
+#EXTINF:-1,VOD-DE Bambi 2 - Der Herr der Wälder
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39635.mkv
+#EXTINF:-1,VOD-DE Batman cs Teenage Mutant Ninja Turtles
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40717.mkv
+#EXTINF:-1,VOD-DE Bernard & Bianca - Die Mäusepolizei
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39636.avi
+#EXTINF:-1,VOD-DE Bolt - Ein Hund für alle Fälle
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39631.mkv
+#EXTINF:-1,VOD-DE Bumblebee
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40240.mkv
+#EXTINF:-1,VOD-DE Bärenbrüder
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39633.mkv
+#EXTINF:-1,VOD-DE Bärenbrüder 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39632.mkv
+#EXTINF:-1,VOD-DE Cap und Capper
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39637.mkv
+#EXTINF:-1,VOD-DE Cap und Capper 2 - Hier spielt die Musik
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39638.mkv
+#EXTINF:-1,VOD-DE Coco - Lebendiger als das Leben
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39176.mkv
+#EXTINF:-1,VOD-DE Das Dschungelbuch 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39639.mkv
+#EXTINF:-1,VOD-DE Das Wunder von Manhattan
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36419.mkv
+#EXTINF:-1,VOD-DE Der Glöckner von Notre Dame
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39641.mkv
+#EXTINF:-1,VOD-DE Der Glöckner von Notre Dame 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39642.mkv
+#EXTINF:-1,VOD-DE Der Grinch
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39862.mkv
+#EXTINF:-1,VOD-DE Der kleine Vampir
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39644.mkv
+#EXTINF:-1,VOD-DE Der Nussknacker und die vier Reiche
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39925.mkv
+#EXTINF:-1,VOD-DE Der Schatzplanet
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39643.mkv
+#EXTINF:-1,VOD-DE Die Biene Maja -  Die Honigspiele
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39172.mkv
+#EXTINF:-1,VOD-DE Die Biene Maja - Der Kinofilm
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39177.mkv
+#EXTINF:-1,VOD-DE Die Eiskönigin - Olaf taut auf
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39540.mkv
+#EXTINF:-1,VOD-DE Die Eiskönigin - Party-Fieber
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39541.mkv
+#EXTINF:-1,VOD-DE Die Eiskönigin - Völlig unverfroren
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39542.mkv
+#EXTINF:-1,VOD-DE Die Feuerzangenbowle
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38428.mkv
+#EXTINF:-1,VOD-DE Die Hexe und der Zauberer
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39645.mkv
+#EXTINF:-1,VOD-DE Die kleine Hexe
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39180.mkv
+#EXTINF:-1,VOD-DE Die Kühe sind Los!
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39646.mkv
+#EXTINF:-1,VOD-DE Die Monster Uni
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39178.mkv
+#EXTINF:-1,VOD-DE Die Muppets
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39544.mkv
+#EXTINF:-1,VOD-DE Die Schöne und das Biest
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39545.mkv
+#EXTINF:-1,VOD-DE Die Seekönigin
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39179.mkv
+#EXTINF:-1,VOD-DE-KIDS Die Unglaublichen 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35856.mkv
+#EXTINF:-1,VOD-DE Die unglaublichen Abenteuer von Bella
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40649.mkv
+#EXTINF:-1,VOD-DE Dinner for One
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38429.mkv
+#EXTINF:-1,VOD-DE Dinosaurier - Im Reich der Giganten
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39650.mkv
+#EXTINF:-1,VOD-DE Django Unchained
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36301.mkv
+#EXTINF:-1,VOD-DE Dornröschen
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39651.mkv
+#EXTINF:-1,VOD-DE Drachenzähmen leicht gemacht 3: Die geheime Welt
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40650.mkv
+#EXTINF:-1,VOD-DE Drei Haselnüsse für Aschenbrödel
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36427.avi
+#EXTINF:-1,VOD-DE Dumbo
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39652.mkv
+#EXTINF:-1,VOD-DE Ein Königreich für ein Lama
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39653.mkv
+#EXTINF:-1,VOD-DE Elliot, der Drache
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39546.mkv
+#EXTINF:-1,VOD-DE Epic - Verborgenes Königreich
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39547.mkv
+#EXTINF:-1,VOD-DE Findet Dorie
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39181.mkv
+#EXTINF:-1,VOD-DE Findet Nemo
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39182.mkv
+#EXTINF:-1,VOD-DE Fünf Freunde und das Tal der Dinosaurier
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39183.mkv
+#EXTINF:-1,Gans im Glück
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35923.mkv
+#EXTINF:-1,VOD-DE Ghostbusters - Die Geisterjäger 1984
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36393.avi
+#EXTINF:-1,VOD-DE Ghostbusters 2016
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36395.mkv
+#EXTINF:-1,VOD-DE Ghostbusters II 1989
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36394.mkv
+#EXTINF:-1,VOD-DE Guardians of the Galaxy
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39963.mkv
+#EXTINF:-1,VOD-DE Guardians of the Galaxy Vol. 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39964.mkv
+#EXTINF:-1,VOD-DE Happy Family
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/37592.mkv
+#EXTINF:-1,VOD-DE Hercules - Walt Disney 1997
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39850.mkv
+#EXTINF:-1,VOD-DE Hotel Transsilvanien
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39656.mkv
+#EXTINF:-1,VOD-DE Hotel Transsilvanien 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39655.mkv
+#EXTINF:-1,VOD-DE-KIDS Hotel Transsilvanien 3 - Ein Monster Urlaub
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35858.mkv
+#EXTINF:-1,VOD-DE Hänsel und Gretel
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39654.mkv
+#EXTINF:-1,VOD-DE Ice Age
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39185.mkv
+#EXTINF:-1,VOD-DE Ice Age 2 - Jetzt taut's
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39184.mkv
+#EXTINF:-1,VOD-DE Ice Age 3 - Die Dinosaurier sind los
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39550.mkv
+#EXTINF:-1,VOD-DE Ice Age 4 - Voll verschoben
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39551.mkv
+#EXTINF:-1,VOD-DE Ice Age 5 - Kollision voraus!
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39552.mkv
+#EXTINF:-1,VOD-DE Ich - Einfach unverbesserlich
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36308.avi
+#EXTINF:-1,VOD-DE Ich - Einfach unverbesserlich 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36307.mkv
+#EXTINF:-1,VOD-DE Ich - Einfach unverbesserlich 3
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36387.mkv
+#EXTINF:-1,VOD-DE Iron Man
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39966.mkv
+#EXTINF:-1,VOD-DE Iron Man 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39967.mkv
+#EXTINF:-1,VOD-DE Iron Man 3
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39968.mkv
+#EXTINF:-1,Jim Knopf und Lukas der Lokomotivführer
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35859.mkv
+#EXTINF:-1,VOD-DE Krabat
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38412.mkv
+#EXTINF:-1,VOD-DE Kung Fu Panda
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39187.mkv
+#EXTINF:-1,VOD-DE Kung Fu Panda 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39186.mkv
+#EXTINF:-1,VOD-DE Kung Fu Panda 3
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39188.mkv
+#EXTINF:-1,VOD-DE LEGO DC Comics Super Heroes: Aquaman - Die Rache von Atlantis
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39657.mkv
+#EXTINF:-1,VOD-DE LEGO Star Wars: Die Padawan Bedrohung
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39659.mkv
+#EXTINF:-1,VOD-DE LEGO: Scooby Doo! - Spuk in Hollywood
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39658.mkv
+#EXTINF:-1,VOD-DE Liliane Susewind - Ein tierisches Abenteuer
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39174.mkv
+#EXTINF:-1,VOD-DE Lilo & Stitch
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39553.mkv
+#EXTINF:-1,VOD-DE Luis und die Aliens
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39189.mkv
+#EXTINF:-1,VOD-DE Mary Poppins‘ Rückkehr
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40238.mkv
+#EXTINF:-1,VOD-DE Meine teuflisch gute Freundin
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38704.mkv
+#EXTINF:-1,VOD-DE Minions
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39190.mkv
+#EXTINF:-1,VOD-DE Mogli: Legende des Dschungels
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39175.mkv
+#EXTINF:-1,VOD-DE Monster Hunt 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39191.mkv
+#EXTINF:-1,VOD-DE Mulan
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39660.mkv
+#EXTINF:-1,VOD-DE Neighborhood Swingers
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40727.mkv
+#EXTINF:-1,VOD-DE-KIDS Peter Hase
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/35865.mkv
+#EXTINF:-1,VOD-DE Peter Pan
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39661.mkv
+#EXTINF:-1,VOD-DE Peter Pan: Neue Abenteuer in Nimmerland
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39192.mkv
+#EXTINF:-1,VOD-DE Pets
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39662.mkv
+#EXTINF:-1,VOD-DE Pettersson und Findus 2 - Das schönste Weihnachten überhaupt
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36453.mkv
+#EXTINF:-1,VOD-DE Phantastische Tierwesen: Grindelwalds Verbrechen
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/38486.mkv
+#EXTINF:-1,VOD-DE Pokémon: Meisterdetektiv Pikachu
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40652.mkv
+#EXTINF:-1,VOD-DE Ralph reichts 2 - Chaos im Netz
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40538.mkv
+#EXTINF:-1,VOD-DE Robin Hood
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39858.mkv
+#EXTINF:-1,VOD-DE Sausage Party – Es geht um die Wurst
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36316.mkv
+#EXTINF:-1,VOD-DE Shaun das Schaf - Der Film
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39554.mkv
+#EXTINF:-1,VOD-DE Shrek - Der tollkühne Held
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39194.mkv
+#EXTINF:-1,VOD-DE Shrek 2 - Der tollkühne Held kehrt zurück
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39193.mkv
+#EXTINF:-1,VOD-DE Smallfoot - Ein eisigartiges Abenteuer
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39195.mkv
+#EXTINF:-1,VOD-DE Spider-Man: A New Universe
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40035.mkv
+#EXTINF:-1,VOD-DE Spieglein Spieglein - Die wirklich wahre Geschichte von Schneewittchen
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39664.mkv
+#EXTINF:-1,VOD-DE-KIDS Susi und Strolch 2 Kleine Strolche - Großes Abenteuer!
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39665.mkv
+#EXTINF:-1,VOD-DE Tarzan
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39666.mkv
+#EXTINF:-1,VOD-DE The Jungle Book
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39640.mkv
+#EXTINF:-1,VOD-DE The Lego Batman Movie
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39667.mkv
+#EXTINF:-1,VOD-DE The LEGO Movie 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40571.mkv
+#EXTINF:-1,VOD-DE The LEGO Ninjago Movie
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39668.mkv
+#EXTINF:-1,VOD-DE The Man who killed Hitler and then the bigfoot
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40725.mkv
+#EXTINF:-1,VOD-DE Toy Story
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39198.mkv
+#EXTINF:-1,VOD-DE Toy Story 2
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39196.mkv
+#EXTINF:-1,VOD-DE Toy Story 3
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39197.mkv
+#EXTINF:-1,VOD-DE Vaiana
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39199.mkv
+#EXTINF:-1,VOD-DE Zoomania
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/39200.mkv
+#EXTINF:-1,VOD-DE-KIDS Die Schneekönigin
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40715.mp4
+#EXTINF:-1,VOD-GER Charles Dickens' Weihnachtsgeschichte
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40708.mp4
+#EXTINF:-1,VOD-GER Das Christkind und der kleine Esel
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40709.mp4
+#EXTINF:-1,VOD-GER Das Wunder von Manhattan
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40710.mp4
+#EXTINF:-1,VOD-GER Der Grinch
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40711.mp4
+#EXTINF:-1,VOD-GER Der Polarexpress
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40712.mp4
+#EXTINF:-1,VOD-GER Die Geister, die ich rief...
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40713.mp4
+#EXTINF:-1,VOD-GER Die Muppets Weihnachtsgeschichte
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40714.mp4
+#EXTINF:-1,VOD-DE Weihnachten Nightmare before Christmas
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/36432.mkv
+#EXTINF:-1,VOD-DE Baby Boom - Eine schöne Bescherung
+http://live.darkside-iptv.com:8080/movie/1f2c5eb205b46f41/TCSIBZRf2E/40755.mp4
